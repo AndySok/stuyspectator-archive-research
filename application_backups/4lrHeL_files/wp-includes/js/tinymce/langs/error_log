@@ -1,0 +1,1 @@
+[24-Jun-2009 05:12:25] PHP Fatal error:  Call to undefined function __() in /home/stuyspec/public_html/eng/wp-includes/js/tinymce/langs/wp-langs.php on line 26

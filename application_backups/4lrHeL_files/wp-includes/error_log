@@ -1,0 +1,29 @@
+[24-Jun-2009 03:43:00] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/eng/wp-includes/canonical.php on line 337
+[24-Jun-2009 03:44:22] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/stuyspec/public_html/eng/wp-includes/class-feed.php on line 4
+[24-Jun-2009 03:44:22] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/stuyspec/public_html/eng/wp-includes/class-feed.php on line 4
+[24-Jun-2009 03:46:55] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/stuyspec/public_html/eng/wp-includes/class.wp-scripts.php on line 19
+[24-Jun-2009 03:47:01] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/stuyspec/public_html/eng/wp-includes/class.wp-styles.php on line 19
+[24-Jun-2009 03:47:13] PHP Fatal error:  Class 'Walker' not found in /home/stuyspec/public_html/eng/wp-includes/comment-template.php on line 1142
+[24-Jun-2009 03:48:05] PHP Fatal error:  Call to undefined function add_filter() in /home/stuyspec/public_html/eng/wp-includes/default-filters.php on line 20
+[24-Jun-2009 03:48:12] PHP Fatal error:  Class 'WP_Widget' not found in /home/stuyspec/public_html/eng/wp-includes/default-widgets.php on line 15
+[24-Jun-2009 03:48:27] PHP Fatal error:  Call to undefined function feed_content_type() in /home/stuyspec/public_html/eng/wp-includes/feed-atom-comments.php on line 8
+[24-Jun-2009 03:48:34] PHP Fatal error:  Call to undefined function feed_content_type() in /home/stuyspec/public_html/eng/wp-includes/feed-atom.php on line 8
+[24-Jun-2009 03:48:42] PHP Fatal error:  Call to undefined function feed_content_type() in /home/stuyspec/public_html/eng/wp-includes/feed-rdf.php on line 8
+[24-Jun-2009 03:48:48] PHP Fatal error:  Call to undefined function feed_content_type() in /home/stuyspec/public_html/eng/wp-includes/feed-rss.php on line 8
+[24-Jun-2009 03:48:55] PHP Fatal error:  Call to undefined function feed_content_type() in /home/stuyspec/public_html/eng/wp-includes/feed-rss2-comments.php on line 8
+[24-Jun-2009 03:49:01] PHP Fatal error:  Call to undefined function feed_content_type() in /home/stuyspec/public_html/eng/wp-includes/feed-rss2.php on line 8
+[24-Jun-2009 03:50:53] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/eng/wp-includes/general-template.php on line 1164
+[24-Jun-2009 03:51:44] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/eng/wp-includes/kses.php on line 1123
+[24-Jun-2009 03:52:12] PHP Fatal error:  Call to undefined function add_shortcode() in /home/stuyspec/public_html/eng/wp-includes/media.php on line 558
+[24-Jun-2009 03:53:05] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/stuyspec/public_html/eng/wp-includes/registration-functions.php on line 7
+[24-Jun-2009 03:53:24] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/stuyspec/public_html/eng/wp-includes/rss-functions.php on line 8
+[24-Jun-2009 03:53:31] PHP Fatal error:  Call to undefined function do_action() in /home/stuyspec/public_html/eng/wp-includes/rss.php on line 18
+[24-Jun-2009 03:53:37] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/stuyspec/public_html/eng/wp-includes/script-loader.php on line 25
+[24-Jun-2009 03:53:37] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/stuyspec/public_html/eng/wp-includes/script-loader.php on line 25
+[24-Jun-2009 03:53:43] PHP Fatal error:  Call to undefined function add_filter() in /home/stuyspec/public_html/eng/wp-includes/shortcodes.php on line 295
+[24-Jun-2009 03:53:57] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/eng/wp-includes/taxonomy.php on line 22
+[24-Jun-2009 03:54:03] PHP Fatal error:  Call to undefined function is_robots() in /home/stuyspec/public_html/eng/wp-includes/template-loader.php on line 66
+[24-Jun-2009 03:54:10] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/eng/wp-includes/theme.php on line 892
+[24-Jun-2009 03:54:16] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/eng/wp-includes/update.php on line 291
+[24-Jun-2009 03:54:23] PHP Fatal error:  Call to undefined function add_filter() in /home/stuyspec/public_html/eng/wp-includes/user.php on line 70
+[24-Jun-2009 03:54:29] PHP Fatal error:  Call to undefined function is_admin() in /home/stuyspec/public_html/eng/wp-includes/vars.php on line 16
