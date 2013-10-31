@@ -1,0 +1,53 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Tue, 10 Apr 2012 11:43:33 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1SHdED-0001We-6q
+	for stuyspec@faith.micfo.com; Tue, 10 Apr 2012 11:43:33 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1SHdED-0001We-6q@faith.micfo.com>
+Date: Tue, 10 Apr 2012 11:43:33 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.77)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1SHdEC-0001WR-9r
+	for letters@stuyspectator.com; Tue, 10 Apr 2012 11:43:32 -0400
+To: letters@stuyspectator.com
+Subject: Stuypulse Robotics Team
+X-PHP-Script: stuyspectator.com/index.php for 165.155.204.88
+Date: Tue, 10 Apr 2012 15:43:32 +0000
+From: Doris Tsang <doris.l.tsang@gmail.com>
+Message-ID: <700dae435823cd3dd7d90b9e4a14e65b@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Hello editors,
+
+As you might have heard of or seen, we won the Chairman's Award for the third year in a row at the Connecticut Regional a few weeks ago, aside from the Website Award and being an Alliance Captain at the competition. If you are interested in covering this story, feel free to use the press release below.
+
+https://dl-web.dropbox.com/get/Robotics/Static/Press%20Releases/Chairman%27s%202012%20Press%20Release.pdf?w=62380d34
+
+Doris Tsang
+Vice President of Marketing | Stuypulse Robotics
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

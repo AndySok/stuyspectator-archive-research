@@ -1,0 +1,33 @@
+Return-path: <info@tipit.to>
+Envelope-to: admin@stuyspectator.com
+Delivery-date: Mon, 01 Feb 2010 14:14:43 -0600
+Received: from ec2-174-129-11-8.compute-1.amazonaws.com ([174.129.11.8]:57720 helo=ip-10-250-183-162.ec2.internal)
+	by faith.micfo.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.69)
+	(envelope-from <info@tipit.to>)
+	id 1Nc2fP-0005ff-9W
+	for admin@stuyspectator.com; Mon, 01 Feb 2010 14:14:42 -0600
+Received: from localhost ([127.0.0.1] helo=ip-10-250-183-162.ec2.internal)
+	by ip-10-250-183-162.ec2.internal with esmtp (Exim 4.69)
+	(envelope-from <info@tipit.to>)
+	id 1Nc2fF-0002sg-EJ
+	for admin@stuyspectator.com; Mon, 01 Feb 2010 20:14:29 +0000
+From: info@tipit.to
+To: admin@stuyspectator.com
+Message-ID: <10520246.3.1265055269440.JavaMail.reinier@ip-10-250-183-162.ec2.internal>
+Subject: Verify ownership of stuyspectator.com to create a tipjar.
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Date: Mon, 01 Feb 2010 20:14:29 +0000
+X-Spam-Status: No, score=3.3
+X-Spam-Score: 33
+X-Spam-Bar: +++
+X-Spam-Flag: NO
+
+You've requested a tipjar for your domain. To verify that you really are the owner of this domain, we've sent you this email.
+
+
+To create the tipjar, just go to http://tipit.to/createTipjar/u4zv3uraj6rfgst9
+
+Thanks!

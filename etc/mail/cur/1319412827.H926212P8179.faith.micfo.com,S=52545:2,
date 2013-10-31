@@ -1,0 +1,788 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 23 Oct 2011 19:33:47 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1RI7Y3-00027r-SK
+	for stuyspec@faith.micfo.com; Sun, 23 Oct 2011 19:33:47 -0400
+X-Failed-Recipients: geoffreyd@hotmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1RI7Y3-00027r-SK@faith.micfo.com>
+Date: Sun, 23 Oct 2011 19:33:47 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  geoffreyd@hotmail.com
+    SMTP error from remote mail server after RCPT TO:<geoffreyd@hotmail.com>:
+    host mx3.hotmail.com [65.54.188.126]: 550 Requested action not taken:
+    mailbox unavailable
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1RI7Y3-00027d-7F
+	for geoffreyd@hotmail.com; Sun, 23 Oct 2011 19:33:47 -0400
+To: geoffreyd@hotmail.com
+Subject: The Spectator Newsletter I Issue 4
+X-PHP-Script: stuyspectator.com/mail/admin/index.php for 108.46.239.206
+Recieved: 
+Date: Sun, 23 Oct 2011 19:33:47 -0400
+From: web@stuyspectator.com
+Message-ID: <24700a087d6afa9bbed998340c54070a@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+X-Mailer: phplist v2.10.10
+X-MessageID: 104
+X-ListMember: geoffreyd@hotmail.com
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_24700a087d6afa9bbed998340c54070a"
+
+--b1_24700a087d6afa9bbed998340c54070a
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+ News
+
+Teaching Channel Films Dunkel
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDU1IdCVNVGVIBBA%3D%3D>
+
+By Aniqa Shah
+
+The Teaching Channel films an AP European History class to showcase
+Josina Dunkel’s creative approach to learning and communication.
+
+Samurai Descendant Visits AP Japanese Language and World History
+Classes
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDU1UdCVNVGVIBBA%3D%3D>
+
+By Nabanita Hossain and Sarah Min
+
+A descendant of samurai Sakamoto Ryoma visits AP World History and
+Japanese classes around Stuyvesant to connect students to Japanese
+culture.
+
+School Aide Fired Due to DOE Budget Cuts
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDU1QdCVNVGVIBBA%3D%3D>
+
+By Lindsay Bu and Noah Rosenberg
+
+Stuyvesant gets hit by budget cuts when a school aide important to
+parent communications is laid off.
+
+Features
+
+Walk of No Shame
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDU1cdCVNVGVIBBA%3D%3D>
+
+By Othilla Wlodarczyk and Jane Argodale with additional reporting by
+Tahia Islam
+
+Women and supporters gather in Union Square for New York’s first
+“SlutWalk” to speak out against rape and domestic abuse.
+
+Temporary Tattoos: Here to Stay?
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDU1YdCVNVGVIBBA%3D%3D>
+
+By Madhurima Chowdhury
+
+Sophomore Zara Levanthal shows her school pride by designing and
+selling Stuyvesant-inspired temporary tattoos.
+
+Clicking in the Classroom
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDU1kdCVNVGVIBBA%3D%3D>
+
+By Jenny Fung
+
+More and more teachers are taking technological approaches to
+communicate with their students.
+
+Editorials
+
+Fact or Fiction: Debunking Myths in the College Process
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDU1gdCVNVGVIBBA%3D%3D>
+
+By Staff of the Spectator
+
+Experienced students discuss tips to survive the daunting, and often
+flawed, college application process.
+
+The Optimal Solution
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFEdCVNVGVIBBA%3D%3D>
+
+By Soham Daga
+
+A student compares American and Indian education methods to find the
+ideal school system.
+
+Is There Any Hope Left for North Korea?
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFAdCVNVGVIBBA%3D%3D>
+
+By Philip Shin
+
+With the turmoil that North Korea is currently under, the United
+States steps in to assist.
+
+Opinions
+
+Pre-Occupied with Wall Street
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFMdCVNVGVIBBA%3D%3D>
+
+By Neeta D’Souza, Daniel Teehan, Samuel Levine, and Adam Lieber
+
+Stuyvesant students speak out about their opinions on the Occupy Wall
+Street protests.
+
+A Stoic Approach to a Culture of Complaint
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFIdCVNVGVIBBA%3D%3D>
+
+By Daniel Teehan
+
+A student discusses how a change in viewpoint can get rid of a common
+bad habit. 
+
+Arts and Entertainment
+
+Something Wicked this Way Comes: Immortalizing Childhood
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFUdCVNVGVIBBA%3D%3D>
+
+By David Kurkovskiy
+
+Ray Bradbury’s novel discusses the many dimensions of youth in a
+dark, suspenseful setting.
+
+Vampires, Killers, and Gore – Oh My!
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFQdCVNVGVIBBA%3D%3D>
+
+By Joshua Bogatin, Patrick Hao, Emre Tetik, and Nina Wade
+
+Looking for some chilling movies to enjoy during Halloween season?
+Here are some recommendations from across the decades.
+
+Nickel-and-Dine: Banh Mi Saigon
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFcdCVNVGVIBBA%3D%3D>
+
+By Marium Sarder
+
+A Vietnamese sandwich shop concealed in Little Italy provides quality
+food for those with little money.
+
+Humor
+
+Student Occupies Wall Street for Shorter Commute
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFYdCVNVGVIBBA%3D%3D>
+
+By Daniel Solomon
+
+A Stuyvesant senior joins the protests at Wall Street to improve his
+grades.
+
+Grizzly Beard Replaced by Grizzly Bear
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFkdCVNVGVIBBA%3D%3D>
+
+By Adam Schorin and Gabe Sunshine
+
+Principal Stanley Teitel makes a controversial decision about his
+resignation.
+
+School Vending Machines Stocked With New Water-Flavored Water
+Beverages
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUFgdCVNVGVIBBA%3D%3D>
+
+By Eli Rosenberg
+
+A new beverage in the school vending machines has students raving.
+
+Sports
+
+A Fresh Start for the Roller Hockey Club
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUVEdCVNVGVIBBA%3D%3D>
+
+By Odreka Ahmed
+
+After being inactive for two years, Stuyvesant’s roller hockey club
+looks to attract more attention and compete in the National American
+Roller Hockey Championships.
+
+Going for the Au
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUVAdCVNVGVIBBA%3D%3D>
+
+By Gabriel Sunshine
+
+Chemistry teacher and track coach Kristyn Pluchino talks about her
+childhood as an athlete.
+
+Vixens Dethrone Cardozo Judges, Take PSAL’s Top Ranking
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUVMdCVNVGVIBBA%3D%3D>
+
+By Odreka Ahmed
+
+With new strategies in mind, Stuyvesant’s girls’ volleyball team
+is serving up success.
+
+
+
+--
+If you do not wish to receive any more newsletters, go to
+http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUVIdCVNVGVIBBA%3D%3D
+To update your email address, visit
+http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUVUdCVNVGVIBBA%3D%3D
+To forward this message to someone, click on
+http://stuyspectator.com/mail/lt.php?id=ZUtQBVQDUVQdCVNVGVIBBA%3D%3D
+
+
+--b1_24700a087d6afa9bbed998340c54070a
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<head>
+        <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
+        <title></title></head><body><html>
+<a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDU1MdCVNVGVIBBA%3D%3D" ><img src="http://stuyspectator.com/mail/new/logo.png" alt="The Spectator | The Stuyvesant High School Newspaper" border="0"></a><img src="http://stuyspectator.com/mail/ut.php?u=0fae84b9fb8146b4f045395da5c058b1&m=104" width="1" height="1" border="0"><br>
+<p>&nbsp;<b style="mso-bidi-font-weight:normal"><u><span style="font-size:10.0pt;
+mso-bidi-font-size:11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:
+Arial">News</span></u></b><!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG />
+</o:OfficeDocumentSettings>
+</xml><!--><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>JA</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:EnableOpenTypeKerning />
+<w:DontFlipMirrorIndents />
+<w:OverrideTableStyleHps />
+</w:Compatibility>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math" />
+<m:brkBin m:val="before" />
+<m:brkBinSub m:val="&#45;-" />
+<m:smallFrac m:val="off" />
+<m:dispDef />
+<m:lMargin m:val="0" />
+<m:rMargin m:val="0" />
+<m:defJc m:val="centerGroup" />
+<m:wrapIndent m:val="1440" />
+<m:intLim m:val="subSup" />
+<m:naryLim m:val="undOvr" />
+</m:mathPr></w:WordDocument>
+</xml><!--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="276">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" Priority="39" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" Name="toc 9" />
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title" />
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+<w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+</w:LatentStyles>
+</xml><!--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:Calibri;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+</style>
+<!--><!--StartFragment--></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDU1IdCVNVGVIBBA%3D%3D" >Teaching Channel Films Dunkel</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Aniqa Shah<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">The Teaching Channel films an AP European History class to showcase Josina Dunkel&rsquo;s creative approach to learning and communication.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDU1UdCVNVGVIBBA%3D%3D" >Samurai Descendant Visits AP Japanese Language and World History Classes</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Nabanita Hossain and Sarah Min<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">A descendant of samurai Sakamoto Ryoma visits AP World History and Japanese classes around Stuyvesant to connect students to Japanese culture.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDU1QdCVNVGVIBBA%3D%3D" >School Aide Fired Due to DOE Budget Cuts</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Lindsay Bu and Noah Rosenberg<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">Stuyvesant gets hit by budget cuts when a school aide important to parent communications is laid off.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:normal"><u><span style="font-size:10.0pt;
+mso-bidi-font-size:11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:
+Arial">Features</span></u></b><span style="font-size:10.0pt;mso-bidi-font-size:
+11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:Arial"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDU1cdCVNVGVIBBA%3D%3D" >Walk of No Shame</a></span></u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Othilla Wlodarczyk and Jane Argodale <i style="mso-bidi-font-style:normal">with additional reporting by</i> Tahia Islam<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">Women and supporters gather in Union Square for New York&rsquo;s first &ldquo;SlutWalk&rdquo; to speak out against rape and domestic abuse.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDU1YdCVNVGVIBBA%3D%3D" >Temporary Tattoos: Here to Stay?</a></span></u><span style="font-size:10.0pt;mso-bidi-font-size:
+11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:Arial"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Madhurima Chowdhury<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">Sophomore Zara Levanthal shows her school pride by designing and selling Stuyvesant-inspired temporary tattoos.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDU1kdCVNVGVIBBA%3D%3D" >Clicking in the Classroom</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Jenny Fung<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">More and more teachers are taking technological approaches to communicate with their students.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:normal"><u><span style="font-size:10.0pt;
+mso-bidi-font-size:11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:
+Arial">Editorials</span></u></b><span style="font-size:10.0pt;mso-bidi-font-size:
+11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:Arial"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDU1gdCVNVGVIBBA%3D%3D" >Fact or Fiction: Debunking Myths in the College Process</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Staff of the Spectator<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">Experienced students discuss tips to survive the daunting, and often flawed, college application process.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFEdCVNVGVIBBA%3D%3D" >The Optimal Solution</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Soham Daga<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">A student compares American and Indian education methods to find the ideal school system.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFAdCVNVGVIBBA%3D%3D" >Is There Any Hope Left for North Korea?</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Philip Shin<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">With the turmoil that North Korea is currently under, the United States steps in to assist.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:normal"><u><span style="font-size:10.0pt;
+mso-bidi-font-size:11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:
+Arial">Opinions</span></u></b><span style="font-size:10.0pt;mso-bidi-font-size:
+11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:Arial"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFMdCVNVGVIBBA%3D%3D" >Pre-Occupied with Wall Street</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Neeta D&rsquo;Souza, Daniel Teehan, Samuel Levine, and Adam Lieber<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">Stuyvesant students speak out about their opinions on the Occupy Wall Street protests.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFIdCVNVGVIBBA%3D%3D" >A Stoic Approach to a Culture of Complaint</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Daniel Teehan<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">A student discusses how a change in viewpoint can get rid of a common bad habit. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:normal"><u><span style="font-size:10.0pt;
+mso-bidi-font-size:11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:
+Arial">Arts and Entertainment</span></u></b><span style="font-size:10.0pt;
+mso-bidi-font-size:11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:
+Arial"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFUdCVNVGVIBBA%3D%3D" >Something Wicked this Way Comes: Immortalizing Childhood</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By David Kurkovskiy<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">Ray Bradbury&rsquo;s novel discusses the many dimensions of youth in a dark, suspenseful setting.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFQdCVNVGVIBBA%3D%3D" >Vampires, Killers, and Gore &ndash; Oh My!</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Joshua Bogatin, Patrick Hao, Emre Tetik, and Nina Wade<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">Looking for some chilling movies to enjoy during Halloween season? Here are some recommendations from across the decades.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFcdCVNVGVIBBA%3D%3D" >Nickel-and-Dine: Banh Mi Saigon</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Marium Sarder<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">A Vietnamese sandwich shop concealed in Little Italy provides quality food for those with little money.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:normal"><u><span style="font-size:10.0pt;
+mso-bidi-font-size:11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:
+Arial">Humor</span></u></b><span style="font-size:10.0pt;mso-bidi-font-size:
+11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:Arial"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFYdCVNVGVIBBA%3D%3D" >Student Occupies Wall Street for Shorter Commute</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Daniel Solomon<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">A Stuyvesant senior joins the protests at Wall Street to improve his grades.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFkdCVNVGVIBBA%3D%3D" >Grizzly Beard Replaced by Grizzly Bear</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Adam Schorin and Gabe Sunshine<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">Principal Stanley Teitel makes a controversial decision about his resignation.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUFgdCVNVGVIBBA%3D%3D" >School Vending Machines Stocked With New Water-Flavored Water Beverages</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Eli Rosenberg<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">A new beverage in the school vending machines has students raving.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:normal"><u><span style="font-size:10.0pt;
+mso-bidi-font-size:11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:
+Arial">Sports</span></u></b><span style="font-size:10.0pt;mso-bidi-font-size:
+11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:Arial"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUVEdCVNVGVIBBA%3D%3D" >A Fresh Start for the Roller Hockey Club</a></span></u><span style="font-size:
+10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:Arial;mso-bidi-font-family:
+Arial"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Odreka Ahmed<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">After being inactive for two years, Stuyvesant&rsquo;s roller hockey club looks to attract more attention and compete in the National American Roller Hockey Championships.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUVAdCVNVGVIBBA%3D%3D" >Going for the Au</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Gabriel Sunshine<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">Chemistry teacher and track coach Kristyn Pluchino talks about her childhood as an athlete.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><u><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUVMdCVNVGVIBBA%3D%3D" >Vixens Dethrone Cardozo Judges, Take PSAL&rsquo;s Top Ranking</a><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">By Odreka Ahmed<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial">With new strategies in mind, Stuyvesant&rsquo;s girls&rsquo; volleyball team is serving up success.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
+Arial;mso-bidi-font-family:Arial"><o:p>&nbsp;</o:p></span></p>
+<!--EndFragment-->
+</html><br /><br /><div class="emailfooter">--<br />
+If you do not wish to receive any more newsletters, go to <a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUVIdCVNVGVIBBA%3D%3D" >this link</a>.<br />
+To update your email address, visit <a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUVUdCVNVGVIBBA%3D%3D" >this link</a>.<br />
+To forward this message to someone, click on <a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVQDUVQdCVNVGVIBBA%3D%3D" >this link</a>.</div></body>
+
+
+
+--b1_24700a087d6afa9bbed998340c54070a--
+

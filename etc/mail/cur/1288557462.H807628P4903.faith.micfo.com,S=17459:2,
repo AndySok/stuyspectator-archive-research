@@ -1,0 +1,253 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 31 Oct 2010 15:37:42 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1PCees-0001H2-Ot
+	for stuyspec@faith.micfo.com; Sun, 31 Oct 2010 15:37:42 -0500
+X-Failed-Recipients: victorma92@msn.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1PCees-0001H2-Ot@faith.micfo.com>
+Date: Sun, 31 Oct 2010 15:37:42 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  victorma92@msn.com
+    SMTP error from remote mail server after RCPT TO:<victorma92@msn.com>:
+    host mx4.hotmail.com [65.55.92.152]: 550 Requested action not taken:
+    mailbox unavailable
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1PCees-0001Gl-2L
+	for victorma92@msn.com; Sun, 31 Oct 2010 15:37:42 -0500
+To: victorma92@msn.com
+Subject: The Spectator Newsletter | Issue IV
+X-PHP-Script: stuyspectator.com/mail/admin/index.php for 68.194.7.224
+Recieved: 
+Date: Sun, 31 Oct 2010 15:37:42 -0500
+From: web@stuyspectator.com
+Message-ID: <576e9ef764191d05fbec0c944b1f4064@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+X-Mailer: phplist v2.10.10
+X-MessageID: 87
+X-ListMember: victorma92@msn.com
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_576e9ef764191d05fbec0c944b1f4064"
+
+--b1_576e9ef764191d05fbec0c944b1f4064
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Volume CI No. 4 | October 25, 2010 | “The Pulse of the Student
+Body”
+
+News <http://stuyspectator.com/mail/lt.php?id=ZUtXB1AFUR1ZDx9YUg%3D%3D>
+:
+
+Administration to Crack Down on Students in Alcove
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AFVh1ZDx9YUg%3D%3D>
+
+By Anika Rastgir
+
+The administration has decided to take action against students smoking
+in the alcove
+
+COSA Appointed to Second Term
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AFVx1ZDx9YUg%3D%3D>
+
+By Chester Dubov
+
+Ms. Weinwurm has been assigned a 2nd term as COSA.
+
+Features <http://stuyspectator.com/mail/lt.php?id=ZUtXB1AFVB1ZDx9YUg%3D%3D>
+:
+
+Getting Involved: Some of Stuyvesant’s Unique Clubs
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AFVR1ZDx9YUg%3D%3D>
+
+By Jenny Fung, Hannah O’Grady, and Max Wycisk
+
+YEA. Cultural Exchange Club. Learning about Wildlife. Stuy2O.
+Interesting, no?
+
+The Beautiful Child of Crush Lists
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AFWh1ZDx9YUg%3D%3D>
+
+By Connor Justice
+
+“What the media forgot to cover, however, is that some good came out
+of the  lists.”
+
+Humor <http://stuyspectator.com/mail/lt.php?id=ZUtXB1AFWx1ZDx9YUg%3D%3D>
+:
+
+Physics Student Learns
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKUh1ZDx9YUg%3D%3D>
+
+By Sam Furnival
+
+Cafeteria Declared Superfund Site
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKUx1ZDx9YUg%3D%3D>
+
+By Chester Dubov and Sam Furnival
+
+* Note: These article was printed in The Spectator’s humor section.
+All articles are fabricated and all quotes are libelous*
+
+Opinions <http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKUB1ZDx9YUg%3D%3D>
+:
+
+The Diary of a Mad Senior: Find x
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKUR1ZDx9YUg%3D%3D>
+
+By Shilpa Agrawal
+
+Reflections on the college application process
+
+Ambush in the Alcove
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKVh1ZDx9YUg%3D%3D>
+
+By Jake Sidransky
+
+Is the administration right in forbidding students from congregating
+in the alcove?
+
+A&E <http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKVx1ZDx9YUg%3D%3D>
+:
+
+Going to the Zoo, What About You?
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKVB1ZDx9YUg%3D%3D>
+
+By Margot Yale
+
+Did you know that New York City has a zoo in each borough?
+
+The Greene G-Stop Getaway
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKVR1ZDx9YUg%3D%3D>
+
+By Emmalina Glinskis
+
+Some stops you may have not known about along the G train.
+
+Sports <http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKWh1ZDx9YUg%3D%3D>
+:
+
+The Captains: Ming Li, Michael Bucaoto, Mohit Kumar and Patrick Smith
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1AKWx1ZDx9YUg%3D%3D>
+
+By Xerxes Sanii
+
+Meet the captains of the Stuyvesant’s Varsity Football team, the
+Peglegs.
+
+The Man with Nerves of Steel
+<http://stuyspectator.com/mail/lt.php?id=ZUtXB1ALUh1ZDx9YUg%3D%3D>
+
+By Phillip Godzin
+
+“September 27, 1998. With two outs already recorded in the ninth
+inning, Roy “Doc” Halladay was only one out away from pitching a
+perfect game in just his second career start in the major leagues.”
+
+
+
+--
+If you do not wish to receive any more newsletters, go to
+http://stuyspectator.com/mail/lt.php?id=ZUtXB1ALUx1ZDx9YUg%3D%3D
+To update your email address, visit
+http://stuyspectator.com/mail/lt.php?id=ZUtXB1ALUB1ZDx9YUg%3D%3D
+To forward this message to someone, click on
+http://stuyspectator.com/mail/lt.php?id=ZUtXB1ALUR1ZDx9YUg%3D%3D
+
+
+--b1_576e9ef764191d05fbec0c944b1f4064
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<head>
+        <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
+        <title></title></head><body><html>
+<a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AFUB1ZDx9YUg%3D%3D" ><img src="http://stuyspectator.com/mail/new/logo.png" alt="The Spectator | The Stuyvesant High School Newspaper" border="0"></a><img src="http://stuyspectator.com/mail/ut.php?u=b3b7dfd05167df771df03e3531aef4f9&m=87" width="1" height="1" border="0"><br>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">Volume CI No. 4 | October 25, 2010 | &ldquo;The Pulse of the Student Body&rdquo;</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AFUR1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">News</font></a><font size="3" face="Calibri">:</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AFVh1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Administration to Crack Down on Students in Alcove</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Anika Rastgir</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">The administration has decided to take action against students smoking in the alcove</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AFVx1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">COSA Appointed to Second Term</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Chester Dubov</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">Ms. Weinwurm has been assigned<span style="mso-spacerun: yes">&nbsp; </span>a 2<sup>nd</sup> term as COSA.</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AFVB1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Features</font></a><font size="3" face="Calibri">:</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AFVR1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Getting Involved: Some of Stuyvesant&rsquo;s Unique Clubs</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Jenny Fung, Hannah O&rsquo;Grady, and Max Wycisk</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">YEA. Cultural Exchange Club. Learning about Wildlife. Stuy2O. Interesting, no?</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AFWh1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">The Beautiful Child of Crush Lists</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Connor Justice</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><span style="font-family: &quot;Georgia&quot;,&quot;serif&quot;; font-size: 10pt">&ldquo;What the media forgot to cover, however, is that some good came out of the  lists.&rdquo;</span></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AFWx1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Humor</font></a><font size="3" face="Calibri">:</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKUh1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Physics Student Learns</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Sam Furnival</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKUx1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Cafeteria Declared Superfund Site</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Chester Dubov and Sam Furnival</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p style="margin: 0in 0in 0pt"><font size="3" face="Times New Roman">*</font><span style="font-family: &quot;Georgia&quot;,&quot;serif&quot;; font-size: 10pt"> Note: These article was printed in The Spectator&rsquo;s humor section. All articles are fabricated and all quotes are libelous*<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKUB1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Opinions</font></a><font size="3" face="Calibri">:</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKUR1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">The Diary of a Mad Senior: Find x</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Shilpa Agrawal</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">Reflections on the college application process</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKVh1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Ambush in the Alcove</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Jake Sidransky</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">Is the administration right in forbidding students from congregating in the alcove?</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKVx1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">A&amp;E</font></a><font size="3" face="Calibri">:</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKVB1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Going to the Zoo, What About You?</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Margot Yale</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">Did you know that New York City has a zoo in each borough?</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKVR1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">The Greene G-Stop Getaway</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Emmalina Glinskis</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">Some stops you may have not known about along the G train.</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKWh1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">Sports</font></a><font size="3" face="Calibri">:</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1AKWx1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">The Captains: Ming Li, Michael Bucaoto, Mohit Kumar and Patrick Smith</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Xerxes Sanii</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">Meet the captains of the Stuyvesant&rsquo;s Varsity Football team, the Peglegs.</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1ALUh1ZDx9YUg%3D%3D" ><font color="#800080" size="3" face="Calibri">The Man with Nerves of Steel</font></a></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">By Phillip Godzin</font></p>
+<p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0pt"><font size="3" face="Calibri">&ldquo;September 27, 1998. With two outs already recorded in the ninth inning, Roy &ldquo;Doc&rdquo; Halladay was only one out away from pitching a perfect game in just his second career start in the major leagues.&rdquo;</font></p>
+<p>&nbsp;</p>
+</html><br /><br /><div class="emailfooter">--<br />
+If you do not wish to receive any more newsletters, go to <a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1ALUx1ZDx9YUg%3D%3D" >this link</a>.<br />
+To update your email address, visit <a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1ALUB1ZDx9YUg%3D%3D" >this link</a>.<br />
+To forward this message to someone, click on <a href="http://stuyspectator.com/mail/lt.php?id=eUtXB1ALUR1ZDx9YUg%3D%3D" >this link</a>.</div></body>
+
+
+
+--b1_576e9ef764191d05fbec0c944b1f4064--
+

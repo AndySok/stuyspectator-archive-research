@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Thu, 25 Apr 2013 19:06:58 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1UVVFi-0008E2-FO
+	for stuyspec@faith.micfo.com; Thu, 25 Apr 2013 19:06:58 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1UVVFi-0008E2-FO@faith.micfo.com>
+Date: Thu, 25 Apr 2013 19:06:58 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1UVVFi-0008Dw-CK
+	for letters@stuyspectator.com; Thu, 25 Apr 2013 19:06:58 -0400
+To: letters@stuyspectator.com
+Subject: Validity As News Source
+X-PHP-Script: stuyspectator.com/index.php for 71.224.113.21
+Date: Thu, 25 Apr 2013 19:06:58 -0400
+From: Rachel W <horcruxkiller78@gmail.com>
+Message-ID: <52fe4fcf92f3bc95586e6dcb461a08d1@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+The Spectator strives to publish current stuy-related events on a need to know basis. However, stuyspectator.com does not reflect this goal. Journalist and editors rarely update the website. As an avid fan of the paper, I am deeply disappointment in the lack of attention given to the site. I hope that however busy and extracurricular-full your schedule may be, you find the time to devote the site as much care as the print copy. Thank you.
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

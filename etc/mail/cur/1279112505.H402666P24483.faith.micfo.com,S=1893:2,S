@@ -1,0 +1,47 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 14 Jul 2010 08:01:45 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1OZ1ar-0006Mq-Bu
+	for stuyspec@faith.micfo.com; Wed, 14 Jul 2010 08:01:45 -0500
+X-Failed-Recipients: wood4stock@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1OZ1ar-0006Mq-Bu@faith.micfo.com>
+Date: Wed, 14 Jul 2010 08:01:45 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  wood4stock@gmail.com
+    SMTP error from remote mail server after RCPT TO:<wood4stock@gmail.com>:
+    host gmail-smtp-in.l.google.com [209.85.229.27]:
+    550 5.2.1 The email account that you tried to reach is disabled. m18si7907839wej.76
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1OZ1aq-0006MT-7h
+	for wood4stock@gmail.com; Wed, 14 Jul 2010 08:01:44 -0500
+To: wood4stock@gmail.com
+Subject: [Stuy Shelf] Your username and password
+X-PHP-Script: stuyshelf.stuyspectator.com/wp-login.php for 94.188.33.130
+Date: Wed, 14 Jul 2010 13:01:44 +0000
+From: WordPress <wordpress@stuyshelf.stuyspectator.com>
+Message-ID: <036e4078b336e89e318ad7e04678d02e@stuyshelf.stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: woodstockman
+Password: g4YfX2WV3Oq#
+http://stuyshelf.stuyspectator.com/wp-login.php
+

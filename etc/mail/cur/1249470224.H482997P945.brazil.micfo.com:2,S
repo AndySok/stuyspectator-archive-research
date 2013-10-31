@@ -1,0 +1,49 @@
+Return-path: <>
+Envelope-to: stuyspec@brazil.micfo.com
+Delivery-date: Wed, 05 Aug 2009 06:03:44 -0500
+Received: from mailnull by brazil.micfo.com with local (Exim 4.69)
+	id 1MYeHX-0000FC-Qh
+	for stuyspec@brazil.micfo.com; Wed, 05 Aug 2009 06:03:43 -0500
+X-Failed-Recipients: trordbeem@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@brazil.micfo.com>
+To: stuyspec@brazil.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1MYeHX-0000FC-Qh@brazil.micfo.com>
+Date: Wed, 05 Aug 2009 06:03:43 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  trordbeem@gmail.com
+    SMTP error from remote mail server after RCPT TO:<trordbeem@gmail.com>:
+    host gmail-smtp-in.l.google.com [209.85.211.85]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://mail.google.com/support/bin/answer.py?answer=6596 17si2363609ywh.91
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@brazil.micfo.com>
+Received: from stuyspec by brazil.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@brazil.micfo.com>)
+	id 1MYeHM-0000DJ-Sr
+	for trordbeem@gmail.com; Wed, 05 Aug 2009 06:03:32 -0500
+To: trordbeem@gmail.com
+Subject: [Stuy Shelf] Your username and password
+Date: Wed, 5 Aug 2009 06:03:32 -0500
+From: WordPress <wordpress@stuyshelf.org>
+Message-ID: <00e86d491a9b57f9f8fb29544c8574a9@stuyshelf.org>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: unjubbign
+Password: 5WBjtUa&UYmk
+http://stuyshelf.org/wp-login.php
+

@@ -1,0 +1,58 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 03 Oct 2012 13:42:43 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1TJSy3-0004wV-4v
+	for stuyspec@faith.micfo.com; Wed, 03 Oct 2012 13:42:43 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TJSy3-0004wV-4v@faith.micfo.com>
+Date: Wed, 03 Oct 2012 13:42:43 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TJSy3-0004wK-26
+	for letters@stuyspectator.com; Wed, 03 Oct 2012 13:42:43 -0400
+To: letters@stuyspectator.com
+Subject: Cheating Survey
+X-PHP-Script: stuyspectator.com/index.php for 173.166.159.109
+Date: Wed, 3 Oct 2012 17:42:43 +0000
+From: Corey Koch <coreykoch13@gmail.com>
+Message-ID: <53ff448e12492976f3a28b0f023a526b@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+To Whom It May Concern:
+ 
+I am on a leadership committee on Academic Integrity in my school, and I believe your paper may be of invaluable assistance to my group. Our goal is to improve the overall academic integrity at our school, Mount Saint Joseph, in Baltimore. Our first order of business is administering a survey, which we hope will reveal exactly what the underlying problem is so that we may attempt to resolve it.
+ Previously, my idea of a cheating survey had been stricken down by
+ students because they believed it would only make the teachers more
+ aware, making our lives harder; however, my leadership committee has been given the task to do.
+ 
+We have been drafting our survey for about the last month; however, I am perpetually afraid we are not asking just the right questions in just the right way. Last week, a teacher gave me an article from the New York Times that referenced a survey your paper administered a survey in March. I am not sure if your survey asked any more than simply if a student has cheated or not; regardless, it would be of great assistance to me if you were able to give me any further information on any of your cheating or academic integrity related pieces. I was reading on your website the March article about 110% of students cheating and the September article about the cheating ring. I would truly appreciate it if I could see the actual survey(s) administered, in addition to any information that may not have made the cut for the article or is in another article I have not seen.
+ 
+Thank you for your time and consideration and thank you in advance for any assistance you may be able to provide.
+ 
+Most Respectfully,
+Corey G. Koch '13
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

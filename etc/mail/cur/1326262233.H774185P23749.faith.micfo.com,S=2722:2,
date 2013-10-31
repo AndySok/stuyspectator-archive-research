@@ -1,0 +1,57 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 11 Jan 2012 01:10:33 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1RkrOL-0006Az-OX
+	for stuyspec@faith.micfo.com; Wed, 11 Jan 2012 01:10:33 -0500
+X-Failed-Recipients: web.stuyspectator@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1RkrOL-0006Az-OX@faith.micfo.com>
+Date: Wed, 11 Jan 2012 01:10:33 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  web.stuyspectator@gmail.com
+    The mail server could not deliver mail to web.stuyspectator@gmail.com.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1RkrO6-00069t-G1
+	for web.stuyspectator@gmail.com; Wed, 11 Jan 2012 01:10:18 -0500
+To: web.stuyspectator@gmail.com
+Subject: [The Spectator] Please moderate: "Arresting and Rebellious: An Inside Look at Street Art "
+X-PHP-Script: stuyspectator.com/wp-comments-post.php for 109.230.245.197
+Date: Wed, 11 Jan 2012 06:10:18 +0000
+From: WordPress <wordpress@stuyspectator.com>
+Message-ID: <e8ff93a05b96ef5e5a45cbe798964642@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+A new comment on the post "Arresting and Rebellious: An Inside Look at Street Art " is waiting for your approval
+http://stuyspectator.com/2011/05/05/arresting-and-rebellious-an-inside-look-at-street-art/
+
+Author : assumdoria (IP: 109.230.245.197 , 109.230.245.197)
+E-mail : Frownsherrill@hotmail.com
+URL    : http://chanelmirror.eklablog.com/
+Whois  : http://whois.arin.net/rest/ip/109.230.245.197
+Comment: 
+click to view <a href="http://chanelmirror.eklablog.com/" / rel="nofollow">chanel mirror</a>   for promotion code   online
+
+Approve it: http://stuyspectator.com/wp-admin/comment.php?action=approve&c=8096
+Trash it: http://stuyspectator.com/wp-admin/comment.php?action=trash&c=8096
+Spam it: http://stuyspectator.com/wp-admin/comment.php?action=spam&c=8096
+Currently 2 comments are waiting for approval. Please visit the moderation panel:
+http://stuyspectator.com/wp-admin/edit-comments.php?comment_status=moderated
+

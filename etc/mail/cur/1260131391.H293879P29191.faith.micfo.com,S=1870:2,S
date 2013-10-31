@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 06 Dec 2009 14:29:51 -0600
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1NHNjr-0007am-8P
+	for stuyspec@faith.micfo.com; Sun, 06 Dec 2009 14:29:51 -0600
+X-Failed-Recipients: bewebi@earthlink.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1NHNjr-0007am-8P@faith.micfo.com>
+Date: Sun, 06 Dec 2009 14:29:51 -0600
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  bewebi@earthlink.net
+    SMTP error from remote mail server after MAIL FROM:<stuyspec@faith.micfo.com> SIZE=1786:
+    host mx4.earthlink.net [209.86.93.229]: 550 550 Dynamic/zombied/spam IPs blocked. Write blockedbyearthlink@abuse.earthlink.net
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1NHNjq-0007ad-Ju
+	for bewebi@earthlink.net; Sun, 06 Dec 2009 14:29:50 -0600
+To: bewebi@earthlink.net
+Subject: [The Stuyvesant Spectator] Your username and password
+X-PHP-Script: stuyspectator.com/wp-admin/user-new.php for 96.250.15.70
+Date: Sun, 6 Dec 2009 14:29:50 -0600
+From: WordPress <wordpress@stuyspectator.com>
+Message-ID: <72657f4587ff93561ae3cb5f5d39f7a9@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: bernie
+Password: Birnbaum
+http://stuyspectator.com/wp-login.php
+

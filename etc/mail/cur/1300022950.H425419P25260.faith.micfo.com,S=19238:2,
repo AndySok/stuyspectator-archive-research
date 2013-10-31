@@ -1,0 +1,256 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 13 Mar 2011 09:29:10 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1PylM5-0006ZH-QL
+	for stuyspec@faith.micfo.com; Sun, 13 Mar 2011 09:29:09 -0400
+X-Failed-Recipients: dasp14@polyprep.org
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1PylM5-0006ZH-QL@faith.micfo.com>
+Date: Sun, 13 Mar 2011 09:29:09 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  dasp14@polyprep.org
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1PylM5-0006ZC-8J
+	for dasp14@polyprep.org; Sun, 13 Mar 2011 09:29:09 -0400
+To: dasp14@polyprep.org
+Subject: The Spectator Newsletter I Issue 10
+X-PHP-Script: stuyspectator.com/mail/admin/index.php for 74.72.79.126
+Recieved: 
+Date: Sun, 13 Mar 2011 09:29:09 -0400
+From: web@stuyspectator.com
+Message-ID: <72a4ecb283cfd13822af49a50e85d29d@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+X-Mailer: phplist v2.10.10
+X-MessageID: 96
+X-ListMember: dasp14@polyprep.org
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_72a4ecb283cfd13822af49a50e85d29d"
+
+--b1_72a4ecb283cfd13822af49a50e85d29d
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+ * The Spectator- Issue #10*
+
+*/News/**/
+
+/*
+
+*New DOE Policy Penalizes Saving
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oFUB1YDh9VXFM%3D>
+*
+
+In an effort to save money, the Department of Education has enacted a
+new tax on budget savings. If surplus funds are not scheduled to be
+spent by Friday, March 18,Stuyvesant High School will have to fork
+over about $375,000 in penalties to the DOE. This new wave of budget
+cuts has prompted Principal Stanley Teitel to reconsider how elective
+classes are doled out to underclassmen, juniors, and seniors.
+
+*E-Readers Distributed to Freshman
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oFUR1YDh9VXFM%3D>
+*
+
+Through partnerships with the City University of New York, IBM, and
+the DOE, Amazon Kindles were distributed to 100 freshmen to see how
+electronic textbooks compare to their paper-and-ink forerunners.
+
+*Controversial Video Causes Major Stir
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oFVh1YDh9VXFM%3D>
+*
+
+Stuyvesant is once again in the news; this time because of a
+controversial video full of racist and sexist lyrics, which was made
+by four Stuyvesant students and another high school student and sent
+to another Stuyvesant student. Read The Stuyvesant Spectator for
+up-to-date information regarding this critical issue affecting the
+school environment.
+
+*/Features/**/
+
+/*
+
+*The Evolution of SING!
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oFVx1YDh9VXFM%3D>
+*
+
+In light of the Class of 2011’s two-year SING! winning streak, the
+Features Department of The Stuyvesant Spectator published a piece on
+the evolution of the student-run play, exploring the most interesting
+themes since its beginning.
+
+*Some Day This Generation Will Rule the Population
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oFVB1YDh9VXFM%3D>
+*
+
+Joseph Park, Mao Hu, James Thompson, Milo Beckman, and Dmitri Teplov
+are this year’s Intel Science Talent Search winners from Stuyvesant
+High School. Read as these victors each describe their revolutionary
+projects, and how they one day plan to “rule the population.”
+
+*/Humor/**
+
+*
+
+*Soph-Frosh SING! Nominated for Tony Award
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oFVR1YDh9VXFM%3D>
+*
+
+Slander and Libel satirize the famously excellent Soph-Frosh SING!
+performance.
+
+*Programming Office Relocated to Siberia
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oFWh1YDh9VXFM%3D>
+*
+
+The Humor Department lampoons the Stuyvesant High School Programming
+Office, which for its byzantine procedures may as well be located in
+Siberia. 
+
+*/Opinions/**
+
+*
+
+*The Solomon Column: We Shall Overcome
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oFWx1YDh9VXFM%3D>
+*
+
+Daniel Solomon is at it again, giving his two cents on Black History
+Month, the fight for social justice, and the need for racial unity
+today.
+
+*An Offer You Can’t Refuse
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oKUh1YDh9VXFM%3D>
+*
+
+Adam Schorin investigates Stuyvesant’s fast-food epidemic,
+criticizing the offerings of eateries like McDonald’s and urging the
+administration to do more to provide healthy lunch options.
+
+*/Arts & Entertainment/**
+
+*
+
+*SING! 2011
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oKUx1YDh9VXFM%3D>
+*
+
+Read the reviews of SING! 2011, penned by Arts & Entertainment Editors
+Tong Niu, Mollie Forman, and Shah Alam. Check out the breakdown of the
+final SING! scores.
+
+ */Sports/**
+
+*
+
+*Greyducks End Indoor Season with Bills Held High
+<http://stuyspectator.com/mail/lt.php?id=ZUtYB1oKUB1YDh9VXFM%3D>
+*
+
+New coach Anna Markova has helped the Greyducks improve from eight
+place, last year, to fifth place, this year. Team member Jordan
+Wallach describes the inspiration that Markova brought to the girls’
+indoor track team.
+
+
+
+--
+If you do not wish to receive any more newsletters, go to
+http://stuyspectator.com/mail/lt.php?id=ZUtYB1oKUR1YDh9VXFM%3D
+To update your email address, visit
+http://stuyspectator.com/mail/lt.php?id=ZUtYB1oKVh1YDh9VXFM%3D
+To forward this message to someone, click on
+http://stuyspectator.com/mail/lt.php?id=ZUtYB1oKVx1YDh9VXFM%3D
+
+
+--b1_72a4ecb283cfd13822af49a50e85d29d
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<head>
+        <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
+        <title></title></head><body><html>
+<a href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oFUx1YDh9VXFM%3D" ><img src="http://stuyspectator.com/mail/new/logo.png" alt="The Spectator | The Stuyvesant High School Newspaper" border="0"></a><img src="http://stuyspectator.com/mail/ut.php?u=e56cfc020f956664f3266ce40810cd6d&m=96" width="1" height="1" border="0"><br>
+<p><span style="font-size: medium; ">&nbsp;<b><span style="font-family: Arial; color: black; ">&nbsp;<span class="yshortcuts" id="lw_1300022632_0">The Spectator</span>- Issue #10</span></b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><b><i><span style="font-family: Arial; color: black; ">News</span></i></b><b><i><br />
+</i></b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><b><span style="font-size: 13pt; font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oFUB1YDh9VXFM%3D" ><span style="font-size: medium; "><span style="color: black; ">New DOE Policy Penalizes Saving</span></span></a></span></b></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">In an effort to save money, the Department of Education has enacted a new tax on budget savings. If surplus funds are not scheduled to be spent by&nbsp;<span class="yshortcuts" id="lw_1300022632_1">Friday, March 18</span>,<span class="yshortcuts" id="lw_1300022632_2">Stuyvesant High School</span>&nbsp;will have to fork over about $375,000 in penalties to the DOE. This new wave of budget cuts has prompted Principal Stanley Teitel to reconsider how elective classes are doled out to underclassmen, juniors,&nbsp;and seniors.</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><b><span style="font-size: 13pt; font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oFUR1YDh9VXFM%3D" ><span style="font-size: medium; "><span style="color: black; ">E-Readers Distributed to Freshman</span></span></a></span></b></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">Through partnerships with the&nbsp;<span class="yshortcuts" id="lw_1300022632_3">City University of New York</span>, IBM, and the DOE,&nbsp;Amazon Kindles were distributed to 100 freshmen to see how electronic textbooks compare to their paper-and-ink forerunners.</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><b><span style="font-size: 13pt; font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oFVh1YDh9VXFM%3D" ><span style="font-size: medium; "><span style="color: black; ">Controversial Video Causes Major Stir</span></span></a></span></b></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">Stuyvesant is once again in the news; this time because of a controversial video full of racist and sexist lyrics, which was made by four Stuyvesant students and another high school student and sent to another Stuyvesant student.&nbsp;Read The Stuyvesant Spectator for up-to-date information regarding this critical issue affecting the school environment.</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><br type="_moz" />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><b><i><span style="font-family: Arial; color: black; ">Features</span></i></b><b><i><br />
+</i></b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><b><span style="font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oFVx1YDh9VXFM%3D" ><span style="color: black; ">The Evolution of SING!</span></a></span></b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">In light of the Class of 2011&rsquo;s two-year SING! winning streak, the Features Department of The Stuyvesant Spectator published a piece on the evolution of the student-run play, exploring the most interesting themes since its beginning.</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><b><span style="font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oFVB1YDh9VXFM%3D" ><span style="color: black; ">Some Day This Generation Will Rule the Population</span></a></span></b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; "><span class="yshortcuts" id="lw_1300022632_4">Joseph Park</span>, Mao Hu, James Thompson, Milo Beckman, and Dmitri Teplov are this year&rsquo;s&nbsp;<span class="yshortcuts" id="lw_1300022632_5">Intel Science Talent Search winners</span>&nbsp;from Stuyvesant High School. Read as these victors each describe their revolutionary projects, and how they one day plan to &ldquo;rule the population.&rdquo;</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><br type="_moz" />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><b><i><span style="font-family: Arial; color: black; ">Humor</span></i></b><b><br />
+</b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><b><span style="font-size: 13pt; font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oFVR1YDh9VXFM%3D" ><span style="font-size: medium; "><span style="color: black; ">Soph-Frosh SING! Nominated for Tony Award</span></span></a></span></b></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">Slander and Libel satirize the famously excellent Soph-Frosh SING! performance.</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><b><span style="font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oFWh1YDh9VXFM%3D" ><span style="color: black; ">Programming Office Relocated to Siberia</span></a></span></b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">The Humor Department lampoons the&nbsp;<span class="yshortcuts" id="lw_1300022632_6">Stuyvesant High School Programming</span>&nbsp;Office, which for its byzantine procedures may as well be located in&nbsp;<span class="yshortcuts" id="lw_1300022632_7">Siberia</span>.&nbsp;</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><br type="_moz" />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><b><i><span style="font-family: Arial; color: black; ">Opinions</span></i></b><b><br />
+</b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><b><span style="font-size: 13pt; font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oFWx1YDh9VXFM%3D" ><span style="font-size: medium; "><span style="color: black; ">The Solomon Column: We Shall Overcome</span></span></a></span></b></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">Daniel Solomon is at it again, giving his two cents on&nbsp;<span class="yshortcuts" id="lw_1300022632_8">Black History Month</span>, the fight for social justice, and the need for racial unity today.</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><b><span style="font-size: 13pt; font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oKUh1YDh9VXFM%3D" ><span style="font-size: medium; "><span style="color: black; ">An Offer You Can&rsquo;t Refuse</span></span></a></span></b></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">Adam Schorin investigates Stuyvesant&rsquo;s fast-food epidemic, criticizing the offerings of eateries like McDonald&rsquo;s and urging the administration to do more to provide healthy lunch options.</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><br type="_moz" />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><b><i><span style="font-family: Arial; color: black; ">Arts &amp; Entertainment</span></i></b><b><br />
+</b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><b><span style="font-size: 13pt; font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oKUx1YDh9VXFM%3D" ><span style="font-size: medium; "><span style="color: black; ">SING! 2011</span></span></a></span></b></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">Read the reviews of SING! 2011, penned by Arts &amp; Entertainment Editors Tong Niu, Mollie Forman, and Shah Alam.&nbsp;Check out the breakdown of the final SING! scores.</span><br />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><br type="_moz" />
+</span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">&nbsp;<b><i>Sports</i></b></span><b><br />
+</b></span></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><b><span style="font-size: 13pt; font-family: Arial; color: black; "><a rel="nofollow" target="_blank" href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oKUB1YDh9VXFM%3D" ><span style="font-size: medium; "><span style="color: black; ">Greyducks End Indoor Season with Bills Held High</span></span></a></span></b></p>
+<p class="MsoNormal" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-size: medium; "><span style="font-family: Arial; color: black; ">New coach Anna Markova has helped the Greyducks improve from eight place, last year, to fifth place, this year.&nbsp;Team member Jordan Wallach describes the inspiration that Markova brought to the girls&rsquo; indoor track team.</span></span></p>
+<p>&nbsp;</p>
+</html><br /><br /><div class="emailfooter">--<br />
+If you do not wish to receive any more newsletters, go to <a href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oKUR1YDh9VXFM%3D" >this link</a>.<br />
+To update your email address, visit <a href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oKVh1YDh9VXFM%3D" >this link</a>.<br />
+To forward this message to someone, click on <a href="http://stuyspectator.com/mail/lt.php?id=eUtYB1oKVx1YDh9VXFM%3D" >this link</a>.</div></body>
+
+
+
+--b1_72a4ecb283cfd13822af49a50e85d29d--
+

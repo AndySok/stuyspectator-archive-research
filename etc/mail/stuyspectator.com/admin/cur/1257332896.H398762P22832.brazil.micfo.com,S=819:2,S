@@ -1,0 +1,20 @@
+Return-path: <root@brazil.micfo.com>
+Envelope-to: admin@stuyspectator.com
+Delivery-date: Wed, 04 Nov 2009 05:08:16 -0600
+Received: from root by brazil.micfo.com with local (Exim 4.69)
+	(envelope-from <root@brazil.micfo.com>)
+	id 1N5dip-0005vg-Ge
+	for admin@stuyspectator.com; Wed, 04 Nov 2009 05:08:15 -0600
+To: admin@stuyspectator.com
+From: admin@stuyspectator.com
+Subject: Disk Usage Warning warn
+Message-Id: <E1N5dip-0005vg-Ge@brazil.micfo.com>
+Date: Wed, 04 Nov 2009 05:08:15 -0600
+
+The account with the username 'stuyspec' (stuyspectator.com), is running out of disk space.
+
+Please remove some files from this account, or ask the administrator to increase your disk quota.
+
+This account has used 84.43% (4221.56 Megs) of its allocated disk space.
+
+!! Do not respond to this message. Your reply will go nowhere. !!

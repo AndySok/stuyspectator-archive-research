@@ -1,0 +1,56 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Tue, 18 Sep 2012 12:43:15 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1TE0tH-0002dp-NH
+	for stuyspec@faith.micfo.com; Tue, 18 Sep 2012 12:43:15 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TE0tH-0002dp-NH@faith.micfo.com>
+Date: Tue, 18 Sep 2012 12:43:15 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.77)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TE0tH-0002dl-L5
+	for letters@stuyspectator.com; Tue, 18 Sep 2012 12:43:15 -0400
+To: letters@stuyspectator.com
+Subject: Cheating
+X-PHP-Script: stuyspectator.com/index.php for 138.28.159.70
+Date: Tue, 18 Sep 2012 16:43:15 +0000
+From: James Dennin <denninj@kenyon.edu>
+Message-ID: <7edb64e305e22b9cb1773da11b36e8e9@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Letter to the Editor:
+
+As Stuyvesant’s recent media depiction shows, the current student body (its new arrivals, the class of ’16 in particular) has an important issue to contend with: no longer the official poster-children of NY Public schools; we are now the poster children of academic dishonesty.  The recent New York Magazine article uncovered a similar cheating ring at Harvard where, allegedly, onlookers were heard twittering that the culprits must of come from Stuy.  Regardless of how true this perception may be, we have a rather unflattering new reputation.      
+
+While it’s nice to hear that Interim Principal Jie Zhang had students sign an Academic Honesty Policy—this amounts to little more than acknowledging the enormous, and highly publicized elephant in the room.  It will do nothing to make cheating seem less necessary to certain students; and it will do nothing to make it easier for teachers to catch them.  
+
+A lot of very smart people, including Mayoral Candidate Tom Allon, have suggested that Stuyvesant must undergo several changes to make it a gentler, and yet still more meritocratic place.  He suggests that things like more written work and lettered instead of numbered grading—would reduce grade inflation and cheating, not to mention give a person with a 96 average a chance to chill out.  I think that’s a pretty good idea, but not necessarily enough.  To really end cheating, “Stuyvesant” needs to be perceived by its students as something worth loving, as schools sometimes are; and not just an institution that exists to evaluate us.  This is a tall order, but Stuyvesant Students aren’t, as the media sometimes makes it seem, a homogenous group of morally-flexible test-takers.  They are savvy.  They are idealistic.  And they can work really hard.  Making it a school where people care more about the work they put their name on isn’t only feasible—it’s necessary.  
+
+James Dennin ‘09
+ 
+
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

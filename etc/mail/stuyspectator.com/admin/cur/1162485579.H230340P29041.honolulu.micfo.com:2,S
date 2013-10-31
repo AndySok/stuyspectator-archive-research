@@ -1,0 +1,56 @@
+Return-path: <akerdman@gmail.com>
+Envelope-to: Admin@StuySpectator.com
+Delivery-date: Thu, 02 Nov 2006 10:39:39 -0600
+Received: from wx-out-0506.google.com ([66.249.82.235])
+	by honolulu.micfo.com with esmtp (Exim 4.52)
+	id 1GffbO-0007XP-Lq
+	for Admin@StuySpectator.com; Thu, 02 Nov 2006 10:39:38 -0600
+Received: by wx-out-0506.google.com with SMTP id s19so220908wxc
+        for <Admin@StuySpectator.com>; Thu, 02 Nov 2006 08:39:44 -0800 (PST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:to:subject:mime-version:content-type;
+        b=Ll1pjDY3f9XJBSot0H3/wb66VXI2iEOzLTJtnVsWlXSkvc0zd0GGoVaoZaDRVVGGrViLzMlYjQSvgf74Q+pTRGPKK8bmaoOwB/Rtg9/xzOAwxWzhbWLqa+T60hR5KTm4Lknj/iRFxEHTjnHoG353YDL/1imupfxTQWOQYUKQPOg=
+Received: by 10.70.95.19 with SMTP id s19mr1104368wxb.1162485582078;
+        Thu, 02 Nov 2006 08:39:42 -0800 (PST)
+Received: by 10.70.8.6 with HTTP; Thu, 2 Nov 2006 08:39:42 -0800 (PST)
+Message-ID: <9abffefe0611020839v598d594bh1da6f5447e7735ef@mail.gmail.com>
+Date: Thu, 2 Nov 2006 11:39:42 -0500
+From: "Alexander Kerdman" <akerdman@gmail.com>
+To: Admin@StuySpectator.com
+Subject: News tip
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8408_10488533.1162485582029"
+X-Antivirus-Scanner: Clean mail though you should still use an Antivirus
+
+------=_Part_8408_10488533.1162485582029
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Stuy is today's featured article on the front page of the english wikipedia,
+en.wikipedia.org
+Huge global visibility
+
+
+Alexander Kerdman, Stuy '99 and a sysop on en.wikipedia
+
+
+-- 
+Alexander Kerdman
+Fordham Law, J.D. '07
+646.303.6499 mobile
+
+------=_Part_8408_10488533.1162485582029
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+<div>Stuy is today's featured article on the front page of the english wikipedia, <a onclick="return top.js.OpenExtLink(window,event,this)" href="http://en.wikipedia.org/" target="_blank">en.wikipedia.org</a></div>
+<div>Huge global visibility<br clear="all"></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>Alexander Kerdman, Stuy '99 and a sysop on en.wikipedia</div><br clear="all"><br>-- <br>Alexander Kerdman<br>Fordham Law, J.D. '07<br>646.303.6499 mobile 
+
+------=_Part_8408_10488533.1162485582029--

@@ -1,0 +1,52 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sat, 20 Mar 2010 14:38:34 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1Nt4VG-0002tF-So
+	for stuyspec@faith.micfo.com; Sat, 20 Mar 2010 14:38:34 -0500
+X-Failed-Recipients: victorma92@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Nt4VG-0002tF-So@faith.micfo.com>
+Date: Sat, 20 Mar 2010 14:38:34 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  victorma92@gmail.com
+    (ultimately generated from victor@stuyspectator.com)
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1Nt4VG-0002t8-Rd
+	for victor@stuyspectator.com; Sat, 20 Mar 2010 14:38:34 -0500
+To: victor@stuyspectator.com
+Subject: PHPlist stats
+X-PHP-Script: stuyspectator.com/mail/admin/index.php for 70.23.83.112
+Message-Id: <E1Nt4VG-0002t8-Rd@faith.micfo.com>
+From: stuyspec@faith.micfo.com
+Date: Sat, 20 Mar 2010 14:38:34 -0500
+
+PHPlist version 2.10.10
+
+Time taken:  1 mins 59 secs
+entered => 2010-03-20 13:47:53
+processed => 189
+sendstart => 2010-03-20 14:36:35
+sent => 2010-03-20 14:38:34
+htmlformatted => 1
+sendformat => HTML
+template => 3
+astext => 5
+ashtml => 194
+astextandhtml => 0
+aspdf => 0
+astextandpdf => 0

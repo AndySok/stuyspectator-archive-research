@@ -1,0 +1,45 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 06 Dec 2009 14:30:38 -0600
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1NHNkc-0007gN-O8
+	for stuyspec@faith.micfo.com; Sun, 06 Dec 2009 14:30:38 -0600
+X-Failed-Recipients: seapeggie@yahoo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1NHNkc-0007gN-O8@faith.micfo.com>
+Date: Sun, 06 Dec 2009 14:30:38 -0600
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  seapeggie@yahoo.com
+    retry time not reached for any host after a long failure period
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1NHNkc-0007g8-0I
+	for seapeggie@yahoo.com; Sun, 06 Dec 2009 14:30:38 -0600
+To: seapeggie@yahoo.com
+Subject: [The Stuyvesant Spectator] Your username and password
+X-PHP-Script: stuyspectator.com/wp-admin/user-new.php for 96.250.15.70
+Date: Sun, 6 Dec 2009 14:30:37 -0600
+From: WordPress <wordpress@stuyspectator.com>
+Message-ID: <577f308f5d0813578878357c872c477b@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: jessica
+Password: jTang
+http://stuyspectator.com/wp-login.php
+

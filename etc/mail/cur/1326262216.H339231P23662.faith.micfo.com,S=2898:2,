@@ -1,0 +1,57 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 11 Jan 2012 01:10:16 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1RkrO4-00069X-2S
+	for stuyspec@faith.micfo.com; Wed, 11 Jan 2012 01:10:16 -0500
+X-Failed-Recipients: web.stuyspectator@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1RkrO4-00069X-2S@faith.micfo.com>
+Date: Wed, 11 Jan 2012 01:10:16 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  web.stuyspectator@gmail.com
+    The mail server could not deliver mail to web.stuyspectator@gmail.com.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1RkrNo-00066W-NV
+	for web.stuyspectator@gmail.com; Wed, 11 Jan 2012 01:10:00 -0500
+To: web.stuyspectator@gmail.com
+Subject: [The Spectator] Please moderate: "First Stuyvesant Open Forum Held"
+X-PHP-Script: stuyspectator.com/wp-comments-post.php for 46.183.162.80
+Date: Wed, 11 Jan 2012 06:10:00 +0000
+From: WordPress <wordpress@stuyspectator.com>
+Message-ID: <2e2e014c82b1507fde588df8bf1f5dd4@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+A new comment on the post "First Stuyvesant Open Forum Held" is waiting for your approval
+http://stuyspectator.com/2009/04/25/first-stuyvesant-open-forum-held/
+
+Author : Joibrearebasy (IP: 46.183.162.80 , 46.183.162.80)
+E-mail : fra9n0nny@mymail-in.net
+URL    : http://brilliant-kitty.com/
+Whois  : http://whois.arin.net/rest/ip/46.183.162.80
+Comment: 
+неплохой ресурс http://brilliant-kitty.com/ - питомник кошек, канадский сфинкс, <a href="http://brilliant-kitty.com/kotyata-na-prodagu-kanadskii-sphinks" rel="nofollow">продаются котята канадского сфинкса</a>, питомник бенгальских кошек в москве и многое другое.
+
+Approve it: http://stuyspectator.com/wp-admin/comment.php?action=approve&c=8095
+Trash it: http://stuyspectator.com/wp-admin/comment.php?action=trash&c=8095
+Spam it: http://stuyspectator.com/wp-admin/comment.php?action=spam&c=8095
+Currently 1 comment is waiting for approval. Please visit the moderation panel:
+http://stuyspectator.com/wp-admin/edit-comments.php?comment_status=moderated
+

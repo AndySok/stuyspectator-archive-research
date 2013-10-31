@@ -1,0 +1,52 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Fri, 09 Nov 2012 19:15:14 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1TWyjC-00075S-8f
+	for stuyspec@faith.micfo.com; Fri, 09 Nov 2012 19:15:14 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TWyjC-00075S-8f@faith.micfo.com>
+Date: Fri, 09 Nov 2012 19:15:14 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TWyjC-00075M-2I
+	for letters@stuyspectator.com; Fri, 09 Nov 2012 19:15:14 -0500
+To: letters@stuyspectator.com
+Subject: Yearbook Page!
+X-PHP-Script: stuyspectator.com/index.php for 74.72.106.183
+Date: Sat, 10 Nov 2012 00:15:14 +0000
+From: Whitney Choo <whitneysaurrx@gmail.com>
+Message-ID: <1d2a4678c8432acf8c9bed9da5f09bf9@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Hi, I'm the editor for the activities section of the yearbook. Since the Spectator is always in the yearbook, I just wanted to confirm with you guys that it will be in it again this year. Usually the Spectator has its own layout for the yearbook (a full page) so if you would like to do that again, please send me the file or photo of how the page should look like.
+If you don't plan on creating your own layout, you can fill out this form to set up a photo day with the activities committee.
+
+https://docs.google.com/spreadsheet/viewform?formkey=dFo1ai1JdHpxaTdKZ1pOazROUWhKOXc6MQ#gid=0
+
+Anyways, just let me know how you want your page to be in the yearbook and any other details you would like to be on the page. Thanks!
+Hope you guys have a good weekend!
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

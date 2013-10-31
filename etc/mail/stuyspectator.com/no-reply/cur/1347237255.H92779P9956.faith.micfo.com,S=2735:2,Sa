@@ -1,0 +1,73 @@
+Return-path: <>
+Envelope-to: no-reply@stuyspectator.com
+Delivery-date: Sun, 09 Sep 2012 20:34:15 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1TArx9-0002aV-1F
+	for no-reply@stuyspectator.com; Sun, 09 Sep 2012 20:34:15 -0400
+X-Failed-Recipients: sexybitch@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: no-reply@stuyspectator.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TArx9-0002aV-1F@faith.micfo.com>
+Date: Sun, 09 Sep 2012 20:34:15 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sexybitch@gmail.com
+    SMTP error from remote mail server after RCPT TO:<sexybitch@gmail.com>:
+    host gmail-smtp-in.l.google.com [74.125.134.27]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 d11si4713173ano.157
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <no-reply@stuyspectator.com>
+Received: from localhost ([::1]:48548 helo=stuyspectator.com)
+	by faith.micfo.com with esmtpa (Exim 4.77)
+	(envelope-from <no-reply@stuyspectator.com>)
+	id 1TArwd-0002WQ-G9; Sun, 09 Sep 2012 20:33:43 -0400
+Received: from 207.237.235.141 ([207.237.235.141])
+        (SquirrelMail authenticated user no-reply@stuyspectator.com)
+        by stuyspectator.com with HTTP;
+        Sun, 9 Sep 2012 20:33:43 -0400
+Message-ID: <c2d2283120ecfef4a55a7c5e9f70d1f0.squirrel@stuyspectator.com>
+Date: Sun, 9 Sep 2012 20:33:43 -0400
+Subject: The Spectator Mailing List
+From: no-reply@stuyspectator.com
+User-Agent: SquirrelMail/1.4.22
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+Dear Subscriber,
+
+The first issue of The Spectator is now available online! Check it out at
+stuyspectator.com!
+
+Some highlights include:
+
+Exclusive coverage of the ongoing cheating scandal:
+http://stuyspectator.com/2012/09/09/stuyvesant-cheating-ring-exposed/
+
+A feature on Interim-Acting Principal Zhang:
+http://stuyspectator.com/2012/09/09/introducing-principal-jie-zhang/
+
+The staff editorial about academic dishonesty this year:
+http://stuyspectator.com/2012/09/09/now-what/
+
+A profile on Olympic fencer and alumnus Nzingha Prescod ('10):
+http://stuyspectator.com/2012/09/09/stuyvesant-alum-prescod-fences-in-olympics/
+
+
+Enjoy!
+
+The Spectator
+

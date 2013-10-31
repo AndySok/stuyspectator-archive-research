@@ -1,0 +1,54 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Thu, 26 Jul 2012 11:31:36 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1SuQ2K-0006S6-D0
+	for stuyspec@faith.micfo.com; Thu, 26 Jul 2012 11:31:36 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1SuQ2K-0006S6-D0@faith.micfo.com>
+Date: Thu, 26 Jul 2012 11:31:36 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.77)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1SuQ2K-0006S2-Af
+	for letters@stuyspectator.com; Thu, 26 Jul 2012 11:31:36 -0400
+To: letters@stuyspectator.com
+Subject: SHSAT prep
+X-PHP-Script: stuyspectator.com/index.php for 69.203.103.18
+Date: Thu, 26 Jul 2012 15:31:36 +0000
+From: Abir Abbas <Kenawy123@yahoo.com>
+Message-ID: <d1eb616bcf310453a33b452960b85726@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+NO COMMENTS FOR “WORKING ON SHSAT PROBLEMS”
+
+Hello,
+
+I was wondering how I might get my son to participate in this program. He was a few points shy from getting into the DREAM Program. He is not getting enough help from his current school and the tutoring I can provide is very limited.
+Please, if there is any information you could provide for me, it would be much appreciated.
+
+Abir Abbas
+646-669-7824
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

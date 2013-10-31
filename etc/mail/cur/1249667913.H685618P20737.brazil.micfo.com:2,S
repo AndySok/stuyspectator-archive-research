@@ -1,0 +1,44 @@
+Return-path: <>
+Envelope-to: stuyspec@brazil.micfo.com
+Delivery-date: Fri, 07 Aug 2009 12:58:33 -0500
+Received: from mailnull by brazil.micfo.com with local (Exim 4.69)
+	id 1MZTi5-0005OP-EF
+	for stuyspec@brazil.micfo.com; Fri, 07 Aug 2009 12:58:33 -0500
+X-Failed-Recipients: voxvoxroohits@peugeot-club.org
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@brazil.micfo.com>
+To: stuyspec@brazil.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1MZTi5-0005OP-EF@brazil.micfo.com>
+Date: Fri, 07 Aug 2009 12:58:33 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  voxvoxroohits@peugeot-club.org
+    retry time not reached for any host after a long failure period
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@brazil.micfo.com>
+Received: from stuyspec by brazil.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@brazil.micfo.com>)
+	id 1MZTi4-0005OE-Fa
+	for voxvoxroohits@peugeot-club.org; Fri, 07 Aug 2009 12:58:32 -0500
+To: voxvoxroohits@peugeot-club.org
+Subject: [Stuy Shelf] Your username and password
+Date: Fri, 7 Aug 2009 12:58:32 -0500
+From: WordPress <wordpress@stuyshelf.org>
+Message-ID: <44a143fb94e0d4da6865610352d981a9@stuyshelf.org>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: OrderCheapCiails
+Password: 7vyTBnQz#wVX
+http://stuyshelf.org/wp-login.php
+

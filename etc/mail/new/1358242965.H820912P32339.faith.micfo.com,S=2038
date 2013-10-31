@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Tue, 15 Jan 2013 04:42:45 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1Tv32b-0008PU-Nf
+	for stuyspec@faith.micfo.com; Tue, 15 Jan 2013 04:42:45 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Tv32b-0008PU-Nf@faith.micfo.com>
+Date: Tue, 15 Jan 2013 04:42:45 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1Tv32b-0008PO-I9
+	for letters@stuyspectator.com; Tue, 15 Jan 2013 04:42:45 -0500
+To: letters@stuyspectator.com
+Subject: Online Marketing of your business
+X-PHP-Script: stuyspectator.com/index.php for 182.68.212.88
+Date: Tue, 15 Jan 2013 09:42:45 +0000
+From: Stella Fair <stellafair36@gmail.com>
+Message-ID: <e0e6c8d61512d6a37ce748e03ba3c791@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+It’s a fact:  more people find out about your business on Facebook or Twitter than on search engines.  Making these sites work maybe tricky for you, but it’s business as usual for us.  Let us improve your visibility and enhance your image.  It’s part of our complete  Internet Marketing package.  We’ll be more than your friends --- we’ll be your partners.
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

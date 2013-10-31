@@ -1,0 +1,60 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Thu, 24 Nov 2011 14:35:28 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1RTf4y-0006bg-Af
+	for stuyspec@faith.micfo.com; Thu, 24 Nov 2011 14:35:28 -0500
+X-Failed-Recipients: vijendraramlall@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1RTf4y-0006bg-Af@faith.micfo.com>
+Date: Thu, 24 Nov 2011 14:35:28 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  vijendraramlall@gmail.com
+    (ultimately generated from web@stuyspectator.com)
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1RTf48-0006Ty-Ut
+	for web@stuyspectator.com; Thu, 24 Nov 2011 14:34:36 -0500
+To: web@stuyspectator.com
+Subject: [The Spectator] Please moderate: "Fifth Floor Bulletin Board to be Reorganized"
+X-PHP-Script: stuyspectator.com/wp-comments-post.php for 46.17.102.131
+Date: Thu, 24 Nov 2011 19:34:36 +0000
+From: WordPress <wordpress@stuyspectator.com>
+Message-ID: <5a5421c7b7fba2abcb38252e5a104414@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+A new comment on the post "Fifth Floor Bulletin Board to be Reorganized" is waiting for your approval
+http://stuyspectator.com/2010/10/11/fifth-floor-bulletin-board-to-be-reorganized/
+
+Author : Monfrz (IP: 46.17.102.131 , sr5-1660.hostkey.ru)
+E-mail : monicadupre@mail.com
+URL    : http://plancher.over-blog.com/
+Whois  : http://whois.arin.net/rest/ip/46.17.102.131
+Comment: 
+If you could e-mail me with a number suggestions on just how you made your website give the impression of being this exceptional, I would be appreciative.       
+       
+In conclusion , permit me thank you for your understanding  with my English as (I am convinced you have figured this by now,), English is not my principal language consequently I am utilizing  Google Translate to shape out what to compose what I genuinely have in mind to state.
+
+Approve it: http://stuyspectator.com/wp-admin/comment.php?action=approve&c=7683
+Trash it: http://stuyspectator.com/wp-admin/comment.php?action=trash&c=7683
+Spam it: http://stuyspectator.com/wp-admin/comment.php?action=spam&c=7683
+Currently 24 comments are waiting for approval. Please visit the moderation panel:
+http://stuyspectator.com/wp-admin/edit-comments.php?comment_status=moderated
+

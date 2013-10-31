@@ -1,0 +1,122 @@
+Return-path: <>
+Envelope-to: no-reply@stuyspectator.com
+Delivery-date: Sun, 09 Sep 2012 20:35:33 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1TAryP-0002jh-Q4
+	for no-reply@stuyspectator.com; Sun, 09 Sep 2012 20:35:33 -0400
+X-Failed-Recipients: cschorin@me.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: no-reply@stuyspectator.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TAryP-0002jh-Q4@faith.micfo.com>
+Date: Sun, 09 Sep 2012 20:35:33 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  cschorin@me.com
+    SMTP error from remote mail server after RCPT TO:<cschorin@me.com>:
+    host mx5.me.com.akadns.net [17.172.36.44]: 550 5.1.1 unknown or illegal alias:
+    cschorin@me.com
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <no-reply@stuyspectator.com>
+Received: from localhost ([::1]:48658 helo=stuyspectator.com)
+	by faith.micfo.com with esmtpa (Exim 4.77)
+	(envelope-from <no-reply@stuyspectator.com>)
+	id 1TAryP-0002jW-Fb; Sun, 09 Sep 2012 20:35:33 -0400
+Received: from 207.237.235.141 ([207.237.235.141])
+        (SquirrelMail authenticated user no-reply@stuyspectator.com)
+        by stuyspectator.com with HTTP;
+        Sun, 9 Sep 2012 20:35:33 -0400
+Message-ID: <6fbabfd284f22a87e713b301042abbf3.squirrel@stuyspectator.com>
+Date: Sun, 9 Sep 2012 20:35:33 -0400
+Subject: Fwd: The Spectator Mailing List
+From: no-reply@stuyspectator.com
+User-Agent: SquirrelMail/1.4.22
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20120909203533_34204"
+X-Priority: 3 (Normal)
+Importance: Normal
+
+------=_20120909203533_34204
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+
+------=_20120909203533_34204
+Content-Type: message/rfc822; name="The Spectator Mailing List.msg"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: attachment; filename="The Spectator Mailing List.msg"
+
+Received: from 207.237.235.141 ([207.237.235.141])
+        (SquirrelMail authenticated user no-reply@stuyspectator.com)
+        by stuyspectator.com with HTTP;
+        Sun, 9 Sep 2012 20:33:43 -0400
+Message-ID: <c2d2283120ecfef4a55a7c5e9f70d1f0.squirrel@stuyspectator.com>
+Date: Sun, 9 Sep 2012 20:33:43 -0400
+Subject: The Spectator Mailing List
+From: no-reply@stuyspectator.com
+Bcc: "Leopold Spohngellert" <leopoldsg94@gmail.com>,
+ mohammad.h93@gmail.com,
+ hanan3m@aol.com,
+ andrew.n.reilly95@gmail.com,
+ menna1195@aol.com,
+ dbsg@uccwindcrest.com,
+ maya.averbuch@yale.edu,
+ robinsonsarah01@hotmail.com,
+ sexybitch@gmail.com,
+ ly2241@columbia.edu,
+ danielsolomon@college.harvard.edu,
+ wenluweng@yahoo.com,
+ shilpamagrawal15@gmail.com,
+ "Adam Lieber" <a.c.lieber@gmail.com>,
+ samirasiddique@gmail.com,
+ "Joseph Frankel" <Joseph1294@gmail.com>,
+ inho.lee@live.com,
+ "Daniel Teehan" <drteehan@gmail.com>,
+ thomasbajko@gmail.com,
+ wastedfate2@gmail.com,
+ steng15882@gmail.com,
+ steph10495@yahoo.com,
+ th2453@columbia.edu,
+ "Nzingha Prescod" <nzingha.prescod@gmail.com>
+User-Agent: SquirrelMail/1.4.22
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+Dear Subscriber,
+
+The first issue of The Spectator is now available online! Check it out at
+stuyspectator.com!
+
+Some highlights include:
+
+Exclusive coverage of the ongoing cheating scandal:
+http://stuyspectator.com/2012/09/09/stuyvesant-cheating-ring-exposed/
+
+A feature on Interim-Acting Principal Zhang:
+http://stuyspectator.com/2012/09/09/introducing-principal-jie-zhang/
+
+The staff editorial about academic dishonesty this year:
+http://stuyspectator.com/2012/09/09/now-what/
+
+A profile on Olympic fencer and alumnus Nzingha Prescod ('10):
+http://stuyspectator.com/2012/09/09/stuyvesant-alum-prescod-fences-in-olympics/
+
+
+Enjoy!
+
+The Spectator
+
+
+------=_20120909203533_34204--
+
+

@@ -1,0 +1,31 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Thu, 02 Sep 2010 00:03:28 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1Or1xP-0001BA-WA
+	for stuyspec@faith.micfo.com; Thu, 02 Sep 2010 00:03:28 -0500
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Warning: message 1OqEgI-0003Ql-J2 delayed 48 hours
+Message-Id: <E1Or1xP-0001BA-WA@faith.micfo.com>
+Date: Thu, 02 Sep 2010 00:03:27 -0500
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 48 hours on the queue on faith.micfo.com.
+
+The message identifier is:     1OqEgI-0003Ql-J2
+The subject of the message is: [Stuy Shelf] Your username and password
+The date of the message is:    Tue, 31 Aug 2010 00:26:30 +0000
+
+The address to which the message has not yet been delivered is:
+
+  alecbarber@rambler.ru
+    Delay reason: SMTP error from remote mail server after RCPT TO:<alecbarber@rambler.ru>:
+    host imx2.rambler.ru [81.19.88.5]: 451 4.7.1 Rate limit exceeded
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.

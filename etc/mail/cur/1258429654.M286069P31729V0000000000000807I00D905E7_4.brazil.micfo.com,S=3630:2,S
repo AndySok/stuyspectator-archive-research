@@ -1,0 +1,91 @@
+Return-path: <>
+Envelope-to: aursa@stuyspectator.com
+Delivery-date: Sun, 19 Apr 2009 23:17:45 -0500
+Received: from smtp3.voila.fr ([193.252.22.173]:31141 helo=smtp1.voila.fr)
+	by brazil.micfo.com with esmtp (Exim 4.69)
+	id 1Lvkwy-00025d-CB
+	for aursa@stuyspectator.com; Sun, 19 Apr 2009 23:17:45 -0500
+Received: by mwinf4904.voila.fr (SMTP Server)
+	id E0A6D1C00090; Mon, 20 Apr 2009 06:17:42 +0200 (CEST)
+Date: Mon, 20 Apr 2009 06:17:42 +0200 (CEST)
+X-ME-UUID: 20090420041742604.93AB71C00090@mwinf4904.voila.fr
+From: MAILER-DAEMON@voila.fr (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: aursa@stuyspectator.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="D61E01C00096.1240201062/voila.fr"
+Message-Id: <20090420041742.E0A6D1C00090@mwinf4904.voila.fr>
+X-Spam-Status: No, score=2.2
+X-Spam-Score: 22
+X-Spam-Bar: ++
+X-Spam-Flag: NO
+
+This is a MIME-encapsulated message.
+
+--D61E01C00096.1240201062/voila.fr
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mwinf4904.voila.fr.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<aursalsa@voila.fr>: voila.fr platform: said: 554 5.7.1
+    <voi000000000000903985992646@back43-mail01-01.me-wanadoo.net>: Recipient
+    address rejected: Access denied (in reply to RCPT TO command)
+
+--D61E01C00096.1240201062/voila.fr
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; voila.fr
+X-SMTP-Server-Queue-ID: D61E01C00096
+X-SMTP-Server-Sender: rfc822; aursa@stuyspectator.com
+Arrival-Date: Mon, 20 Apr 2009 06:17:42 +0200 (CEST)
+
+Final-Recipient: rfc822; aursalsa@voila.fr
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; 10.232.40.84
+Diagnostic-Code: smtp; 554 5.7.1
+    <voi000000000000903985992646@back43-mail01-01.me-wanadoo.net>: Recipient
+    address rejected: Access denied
+
+--D61E01C00096.1240201062/voila.fr
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from me-wanadoo.net (localhost [127.0.0.1])
+	by mwinf4904.voila.fr (SMTP Server) with ESMTP id D61E01C00096
+	for <voi000000000000903985992646@back43-mail01-01.me-wanadoo.net>; Mon, 20 Apr 2009 06:17:42 +0200 (CEST)
+Received: from aytacaratoglu (unknown [81.215.13.76])
+	by mwinf4904.voila.fr (SMTP Server) with SMTP id 93AB71C00090
+	for <aursalsa@voila.fr>; Mon, 20 Apr 2009 06:17:42 +0200 (CEST)
+X-ME-UUID: 20090420041742604.93AB71C00090@mwinf4904.voila.fr
+X-Originating-IP: [34.278.93.17]
+X-Originating-Email: [aursalsa@voila.fr]
+X-Sender: aursalsa@voila.fr
+To: <aursalsa@voila.fr>
+Subject: *** SPAM ***RE: SALE 70% OFF on Pfizer!
+From: VIAGRA ® Official Site <aursalsa@voila.fr>
+MIME-Version: 1.0
+Importance: High
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+Message-Id: <20090420041742.93AB71C00090@mwinf4904.voila.fr>
+Date: Mon, 20 Apr 2009 06:17:42 +0200 (CEST)
+X-me-spamlevel: high
+X-me-spamrating: 94.500000
+X-me-spamcause:  OK, (450)(1000)gggruggvucftvghtrhhoucdtuddrvdekuddrheeiucetggdotefuucfrrhhofhhilhgvmecuohhrrghnghgvrdhukhenuceurghilhhouhhtmecufedttdenuchnvgifshhlvghtthgvrhculddqhedtmdenogfgsgguqdggghhrucdlvddttddmnehvihgrghhrrgepidhsuchinhcushgvnhguvghrucdluddttddmnefjthhmlhfqnhhlhidqqdfqvdejledqtdduucdlvddttddm
+
+--D61E01C00096.1240201062/voila.fr--

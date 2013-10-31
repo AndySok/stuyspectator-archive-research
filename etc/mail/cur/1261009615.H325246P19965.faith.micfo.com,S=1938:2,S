@@ -1,0 +1,51 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 16 Dec 2009 18:26:55 -0600
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1NL4Cl-0005By-9g
+	for stuyspec@faith.micfo.com; Wed, 16 Dec 2009 18:26:55 -0600
+X-Failed-Recipients: vjmastax3@yahoo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1NL4Cl-0005By-9g@faith.micfo.com>
+Date: Wed, 16 Dec 2009 18:26:55 -0600
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  vjmastax3@yahoo.com
+    retry time not reached for any host after a long failure period
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1NL4Ck-0005Bj-Gc
+	for vjmastax3@yahoo.com; Wed, 16 Dec 2009 18:26:54 -0600
+To: vjmastax3@yahoo.com
+Subject: [The Stuyvesant Spectator] Password Reset
+X-PHP-Script: stuyspectator.com/wp-login.php for 98.14.42.72
+Date: Wed, 16 Dec 2009 18:26:54 -0600
+From: WordPress <wordpress@stuyspectator.com>
+Message-ID: <c3feea7c8e7b02a736517675a37622ea@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Someone has asked to reset the password for the following site and username.
+
+http://stuyspectator.com
+
+Username: vijendra
+
+To reset your password visit the following address, otherwise just ignore this email and nothing will happen.
+
+http://stuyspectator.com/wp-login.php?action=rp&key=S6XV4JuJRy93sFlsyNjN&login=vijendra
+

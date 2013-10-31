@@ -1,0 +1,49 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Tue, 12 Mar 2013 22:16:53 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1UFbFN-0004By-Ne
+	for stuyspec@faith.micfo.com; Tue, 12 Mar 2013 22:16:53 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1UFbFN-0004By-Ne@faith.micfo.com>
+Date: Tue, 12 Mar 2013 22:16:53 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1UFbFN-0004Bs-Ks
+	for letters@stuyspectator.com; Tue, 12 Mar 2013 22:16:53 -0400
+To: letters@stuyspectator.com
+Subject: chess players wanted
+X-PHP-Script: stuyspectator.com/index.php for 108.54.164.252
+Date: Wed, 13 Mar 2013 02:16:53 +0000
+From: Joong Choi <joongchoi@gmail.com>
+Message-ID: <77a647c05dc8841b8bf5cd0366d9e90a@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+I read a blurb in the alumni spectator about the recent success of the Stuyvesant chess team.  I used to organize the chess club during my years at Stuy.  I'm interested in forming a Stuvesant Chess Club online on chess.com for students, faculty, and alumni to play together on a team.  Could somebody help me get in contact with William Boericke or a student on the chess team or help me spread the word to chess players at Stuy?
+
+Thanks,
+Joong Choi, '93
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

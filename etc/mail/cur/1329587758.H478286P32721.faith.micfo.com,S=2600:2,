@@ -1,0 +1,57 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sat, 18 Feb 2012 12:55:58 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1RyoVq-0008Vh-DL
+	for stuyspec@faith.micfo.com; Sat, 18 Feb 2012 12:55:58 -0500
+X-Failed-Recipients: web.stuyspectator@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1RyoVq-0008Vh-DL@faith.micfo.com>
+Date: Sat, 18 Feb 2012 12:55:58 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  web.stuyspectator@gmail.com
+    retry time not reached for any host after a long failure period
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1RyoVk-0008Uj-Ry
+	for web.stuyspectator@gmail.com; Sat, 18 Feb 2012 12:55:52 -0500
+To: web.stuyspectator@gmail.com
+Subject: [The Spectator] Please moderate: "New Pool but Hoping for the Same Old Results"
+X-PHP-Script: stuyspectator.com/wp-comments-post.php for 78.154.171.196
+Date: Sat, 18 Feb 2012 17:55:52 +0000
+From: WordPress <wordpress@stuyspectator.com>
+Message-ID: <38f1c94abb0ade9a5fa11dffe8bbb65f@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+A new comment on the post "New Pool but Hoping for the Same Old Results" is waiting for your approval
+http://stuyspectator.com/2009/10/08/new-pool-but-hoping-for-the-same-old-results/
+
+Author : freekeys (IP: 78.154.171.196 , 78.154.171.196.ett.ua)
+E-mail : freekeys.pp.ua@gmail.com
+URL    : http://free-keys.pp.ua
+Whois  : http://whois.arin.net/rest/ip/78.154.171.196
+Comment: 
+Всем Привет! Качайте рабочие <a href="http://free-keys.pp.ua" rel="nofollow">Ключи для антивирусов</a>.
+
+Approve it: http://stuyspectator.com/wp-admin/comment.php?action=approve&c=8348
+Trash it: http://stuyspectator.com/wp-admin/comment.php?action=trash&c=8348
+Spam it: http://stuyspectator.com/wp-admin/comment.php?action=spam&c=8348
+Currently 10 comments are waiting for approval. Please visit the moderation panel:
+http://stuyspectator.com/wp-admin/edit-comments.php?comment_status=moderated
+

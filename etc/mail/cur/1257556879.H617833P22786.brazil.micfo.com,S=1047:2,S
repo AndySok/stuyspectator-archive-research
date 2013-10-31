@@ -1,0 +1,35 @@
+Return-path: <stuyspec@localhost>
+Envelope-to: stuyspec@localhost
+Delivery-date: Fri, 06 Nov 2009 19:21:19 -0600
+Received: from root by brazil.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@localhost>)
+	id 1N6ZzT-0005vL-6B
+	for stuyspec@localhost; Fri, 06 Nov 2009 19:21:19 -0600
+To: stuyspec@localhost
+Subject: Fantastico De Luxe Outdated Installations Notification for stuyspectator.com on  ()
+Date: Fri, 6 Nov 2009 19:21:19 -0600
+From: stuyspec@localhost
+Reply-to: stuyspec@localhost
+Message-ID: <ac13471ed30385c378a82eb2879919b2@localhost.localdomain>
+X-Priority: 1
+X-Mailer: PHPMailer [version 1.73]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+
+Domain Name: stuyspectator.com
+
+Server:  ()
+
+Date/Time: November 6th, 2009 @ 7:21 PM
+
+The following installations are not up-to-date:
+
+    PHPlist:
+        + http://stuyspectator.com/mail - Current Version: 2.10.5 (New
+Version: 2.10.10)
+
+    WordPress:
+        + http://stuyspectator.com/eng - Current Version: 2.6 (New
+Version: 2.8.4)
+

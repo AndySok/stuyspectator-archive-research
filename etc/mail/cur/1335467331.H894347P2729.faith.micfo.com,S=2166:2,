@@ -1,0 +1,53 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Thu, 26 Apr 2012 15:08:51 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1SNU3f-0000hw-QA
+	for stuyspec@faith.micfo.com; Thu, 26 Apr 2012 15:08:51 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1SNU3f-0000hw-QA@faith.micfo.com>
+Date: Thu, 26 Apr 2012 15:08:51 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.77)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1SNU3f-0000hs-Nr
+	for letters@stuyspectator.com; Thu, 26 Apr 2012 15:08:51 -0400
+To: letters@stuyspectator.com
+Subject: Inquiry about Bangladeshi students
+X-PHP-Script: stuyspectator.com/index.php for 131.125.59.132
+Date: Thu, 26 Apr 2012 19:08:51 +0000
+From: Larry Tung <lt2388@columbia.edu>
+Message-ID: <1df8b71f6ef12ce42fcefb82fb147038@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Editors,
+
+My name is Larry Tung and I am a student at Columbia Journalism School. Currently I am working on an article about Bangladeshi students in specialized high school in New York. I interviewed a student and she told me that the Spectator published stats on students' ethnicities. But after surfing the website, I could not find any stats related to the Bangladeshi students. Could you please let me know if you have these numbers? Thank you very much.
+
+Best,
+Larry Tung
+Columbia Journalism School
+school-stories.org 
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

@@ -1,0 +1,51 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Fri, 08 Mar 2013 20:28:20 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1UE8aC-0002VM-D4
+	for stuyspec@faith.micfo.com; Fri, 08 Mar 2013 20:28:20 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1UE8aC-0002VM-D4@faith.micfo.com>
+Date: Fri, 08 Mar 2013 20:28:20 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1UE8aC-0002VG-8i
+	for letters@stuyspectator.com; Fri, 08 Mar 2013 20:28:20 -0500
+To: letters@stuyspectator.com
+Subject: Max Watras
+X-PHP-Script: stuyspectator.com/index.php for 96.239.25.63
+Date: Sat, 9 Mar 2013 01:28:20 +0000
+From: "Linda (Watras) Spedaliere" <Plutosparkpal@live.com>
+Message-ID: <410b4dae8ad3d9aba8d874e66318b392@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+I am the daughter of max a Watras. I noticed you did an article pertaining to his passing
+And you mentioned his wife has no comment
+Can you provide me with her name or contact information
+I am trying to learn as much as possible about my father for a family tree we are doing
+Thank you
+You can contact me at 914-741-2294
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

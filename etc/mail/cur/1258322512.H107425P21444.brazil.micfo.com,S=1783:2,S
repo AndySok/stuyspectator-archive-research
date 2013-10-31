@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@brazil.micfo.com
+Delivery-date: Sun, 15 Nov 2009 16:01:52 -0600
+Received: from mailnull by brazil.micfo.com with local (Exim 4.69)
+	id 1N9nAO-0005Zp-0n
+	for stuyspec@brazil.micfo.com; Sun, 15 Nov 2009 16:01:52 -0600
+X-Failed-Recipients: hu.shok70@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@brazil.micfo.com>
+To: stuyspec@brazil.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1N9nAO-0005Zp-0n@brazil.micfo.com>
+Date: Sun, 15 Nov 2009 16:01:52 -0600
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hu.shok70@gmail.com
+    SMTP error from remote mail server after RCPT TO:<hu.shok70@gmail.com>:
+    host gmail-smtp-in.l.google.com [209.85.223.65]:
+    550 5.2.1 The email account that you tried to reach is disabled. 39si18356497iwn.94
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@brazil.micfo.com>
+Received: from stuyspec by brazil.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@brazil.micfo.com>)
+	id 1N9nAN-0005Zj-So
+	for hu.shok70@gmail.com; Sun, 15 Nov 2009 16:01:51 -0600
+To: hu.shok70@gmail.com
+Subject: [Stuy Shelf] Your username and password
+Date: Sun, 15 Nov 2009 16:01:51 -0600
+From: WordPress <wordpress@stuyshelf.org>
+Message-ID: <5f2b0e58c02fc00fea8f379d17891e24@stuyshelf.org>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: CheapAcopmlia
+Password: OwnvoXp4@*8X
+http://stuyshelf.org/wp-login.php
+

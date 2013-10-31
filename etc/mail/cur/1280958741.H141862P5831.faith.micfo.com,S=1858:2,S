@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 04 Aug 2010 16:52:21 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1Oglsr-0001W0-3M
+	for stuyspec@faith.micfo.com; Wed, 04 Aug 2010 16:52:21 -0500
+X-Failed-Recipients: litotratt@goldwarez.org
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Oglsr-0001W0-3M@faith.micfo.com>
+Date: Wed, 04 Aug 2010 16:52:21 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  litotratt@goldwarez.org
+    SMTP error from remote mail server after RCPT TO:<litotratt@goldwarez.org>:
+    host goldwarez.org [87.118.82.65]: 550 sorry, no mailbox here by that name. (#5.7.17)
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1Oglsm-0001V6-LC
+	for litotratt@goldwarez.org; Wed, 04 Aug 2010 16:52:16 -0500
+To: litotratt@goldwarez.org
+Subject: [Stuy Shelf] Your username and password
+X-PHP-Script: stuyshelf.stuyspectator.com/wp-login.php for 173.236.70.202
+Date: Wed, 4 Aug 2010 21:52:16 +0000
+From: WordPress <wordpress@stuyshelf.stuyspectator.com>
+Message-ID: <7072f42e8442b9d80674ba8fede18ae7@stuyshelf.stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: LuffdrydayTof
+Password: 2dsr)l1qSav1
+http://stuyshelf.stuyspectator.com/wp-login.php
+

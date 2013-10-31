@@ -1,0 +1,50 @@
+Return-path: <>
+Envelope-to: stuyspec@brazil.micfo.com
+Delivery-date: Sat, 11 Apr 2009 08:08:43 -0500
+Received: from mailnull by brazil.micfo.com with local (Exim 4.69)
+	id 1Lscws-0000jm-U1
+	for stuyspec@brazil.micfo.com; Sat, 11 Apr 2009 08:08:42 -0500
+X-Failed-Recipients: sakesokari@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@brazil.micfo.com>
+To: stuyspec@brazil.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Lscws-0000jm-U1@brazil.micfo.com>
+Date: Sat, 11 Apr 2009 08:08:42 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sakesokari@gmail.com
+    SMTP error from remote mail server after RCPT TO:<sakesokari@gmail.com>:
+    host gmail-smtp-in.l.google.com [209.85.217.32]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://mail.google.com/support/bin/answer.py?answer=6596 8si3513882gxk.15
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@brazil.micfo.com>
+Received: from stuyspec by brazil.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@brazil.micfo.com>)
+	id 1Lscwp-0000jK-Io
+	for sakesokari@gmail.com; Sat, 11 Apr 2009 08:08:39 -0500
+To: sakesokari@gmail.com
+Subject: [Stuy Shelf] Your username and password
+X-PHP-Script: stuyshelf.org/wp-login.php for 24.185.149.82
+Date: Sat, 11 Apr 2009 08:08:39 -0500
+From: WordPress <wordpress@stuyshelf.org>
+Message-ID: <5013863eb3dc48a5edc9cf3d65a3dfad@stuyshelf.org>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.2]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: rezie
+Password: LHJFW!MBVCLD
+http://stuyshelf.org/wp-login.php
+

@@ -1,0 +1,97 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 12 Dec 2010 22:17:54 -0500
+Received: from mfilter.dimenoc.com ([72.29.67.235] helo=mfilter2.dimenoc.com)
+	by faith.micfo.com with esmtp (Exim 4.69)
+	id 1PRyvB-0001oZ-RU
+	for stuyspec@faith.micfo.com; Sun, 12 Dec 2010 22:17:53 -0500
+Received: from localhost (unknown [127.0.0.1])
+	by mfilter2.dimenoc.com (Postfix) with ESMTP id B39C625413B
+	for <stuyspec@faith.micfo.com>; Mon, 13 Dec 2010 03:17:56 +0000 (UTC)
+Content-Type: multipart/report; report-type=delivery-status;
+ boundary="----------=_1292210276-28615-0"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+Subject: Considered UNSOLICITED BULK EMAIL, apparently from you
+In-Reply-To: <E1PRyv9-0001o3-Fh@faith.micfo.com>
+Message-ID: <SSrg1U2oMXBQcK@mfilter.dimenoc.com>
+From: "Content-filter at mfilter.dimenoc.com" <postmaster@mfilter.dimenoc.com>
+To: <stuyspec@faith.micfo.com>
+Date: Sun, 12 Dec 2010 22:17:56 -0500 (EST)
+
+This is a multi-part message in MIME format...
+
+------------=_1292210276-28615-0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+A message from <stuyspec@faith.micfo.com>
+to: ghuang92@gmail.com
+
+was considered unsolicited bulk e-mail (UBE).
+
+Our internal reference code for your message is 28615-12/rg1U2oMXBQcK
+
+The message carried your return address, so it was either a genuine mail
+from you, or a sender address was faked and your e-mail address abused
+by third party, in which case we apologize for undesired notification.
+
+We do try to minimize backscatter for more prominent cases of UBE and
+for infected mail, but for less obvious cases some balance between
+losing genuine mail and sending undesired backscatter is sought,
+and there can be some collateral damage on either side.
+
+First upstream SMTP client IP address: [67.23.244.190] faith.micfo.com
+According to a 'Received:' trace, the message apparently originated at:
+  [67.23.244.190], stuyspec
+
+Return-Path: <stuyspec@faith.micfo.com>
+From: Vareschi@yahoo.com
+Message-ID: <E1PRyv9-0001o3-Fh@faith.micfo.com>
+Subject: [Gavin Huang] New Comment Added to 'Life Happens'
+
+Delivery of the email was stopped!
+
+------------=_1292210276-28615-0
+Content-Type: message/delivery-status; name="dsn_status"
+Content-Disposition: inline; filename="dsn_status"
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery error report
+
+Reporting-MTA: dns; mfilter.dimenoc.com
+Received-From-MTA: smtp; mfilter2.dimenoc.com ([127.0.0.1])
+Arrival-Date: Sun, 12 Dec 2010 22:17:56 -0500 (EST)
+
+Original-Recipient: rfc822;ghuang92@gmail.com
+Final-Recipient: rfc822;ghuang92@gmail.com
+Action: failed
+Status: 5.7.0
+Diagnostic-Code: smtp; 554 5.7.0 Reject, id=28615-12 - SPAM
+Last-Attempt-Date: Sun, 12 Dec 2010 22:17:56 -0500 (EST)
+Final-Log-ID: 28615-12/rg1U2oMXBQcK
+
+------------=_1292210276-28615-0
+Content-Type: text/rfc822-headers; name="header"
+Content-Disposition: inline; filename="header"
+Content-Transfer-Encoding: 7bit
+Content-Description: Message header section
+
+Return-Path: <stuyspec@faith.micfo.com>
+Received: from faith.micfo.com (faith.micfo.com [67.23.244.190])
+	by mfilter2.dimenoc.com (Postfix) with ESMTP id 5F9052540F1
+	for <ghuang92@gmail.com>; Sun, 12 Dec 2010 22:17:56 -0500 (EST)
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1PRyv9-0001o3-Fh
+	for ghuang92@gmail.com; Sun, 12 Dec 2010 22:17:52 -0500
+MIME-Version: 1.0
+Subject: [Gavin Huang] New Comment Added to 'Life Happens'
+Content-Type: text/plain; charset="ISO-8859-1"
+To: ghuang92@gmail.com
+Content-Transfer-Encoding: 7bit
+From: Vareschi@yahoo.com
+Message-Id: <E1PRyv9-0001o3-Fh@faith.micfo.com>
+Date: Sun, 12 Dec 2010 22:17:51 -0500
+
+------------=_1292210276-28615-0--

@@ -1,0 +1,260 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Mon, 04 Apr 2011 22:36:57 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1Q6w8W-0002bA-Um
+	for stuyspec@faith.micfo.com; Mon, 04 Apr 2011 22:36:57 -0400
+X-Failed-Recipients: KeraniNY@aol.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Q6w8W-0002bA-Um@faith.micfo.com>
+Date: Mon, 04 Apr 2011 22:36:56 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  KeraniNY@aol.com
+    SMTP error from remote mail server after RCPT TO:<KeraniNY@aol.com>:
+    host mailin-04.mx.aol.com [205.188.103.2]: 550 5.1.1 <KeraniNY@aol.com>:
+    Recipient address rejected: aol.com
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1Q6w8V-0002aK-Ih
+	for KeraniNY@aol.com; Mon, 04 Apr 2011 22:36:55 -0400
+To: KeraniNY@aol.com
+Subject: The Spectator Newsletter I Issue 12
+X-PHP-Script: stuyspectator.com/mail/admin/index.php for 74.72.79.126
+Recieved: 
+Date: Mon, 4 Apr 2011 22:36:55 -0400
+From: web@stuyspectator.com
+Message-ID: <ae2d3e0f68d7597b98da97723fa4b3fa@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+X-Mailer: phplist v2.10.10
+X-MessageID: 100
+X-ListMember: KeraniNY@aol.com
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ae2d3e0f68d7597b98da97723fa4b3fa"
+
+--b1_ae2d3e0f68d7597b98da97723fa4b3fa
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+ *News*
+
+*Anti-Defamation League Sensitivity Workshops: Teaching Tolerance
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUFQdCVNRGVEB>
+*
+
+Math and computer science teacher Ashvin Jaishankar and English
+teacher Annie Thoms, along with SPARK coordinator, Angel Colon, and
+Assistant Principal Student Affairs Eleanor Archie will now be serving
+as Anti-Defamation League coordinators. Read about the three seminars
+they hosted and the affect they are having on the student body. 
+
+*Stuyvesant Team Shows Improvement in State Science Olympiad
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUFcdCVNRGVEB>
+*
+
+Stuyvesant's Science Olympiad team made great improvements this year
+against the fierce competition from other New York State teams. 
+
+ *Features*
+
+*The Japanese Disaster: Students Speak
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUFYdCVNRGVEB>
+*
+
+Stuyvesant students respond to the recent tragedy in Japan.
+
+*Donation Destination
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUFkdCVNRGVEB>
+*
+
+In light of the 8.9 magnitude earthquake that hit Japan, the resulting
+tsunami, and the subsequent nuclear dangers, Stuyvesant students and
+faculty have donated money to the Red Cross and the Japanese National
+Humor Society. But do these donors really know where their money is
+going?
+
+*Opinions*
+
+*Athletic Integrity
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUFgdCVNRGVEB>
+*
+
+With the over 50 athletic teams and Clubs at Stuyvesant, the question
+of how student athletes should be disciplined for lateness to school
+remains unanswered. Read as Debanjan Roychoudhury voices his opinions
+on something near and dear to his heart.
+
+*Supporting the Students
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUVEdCVNRGVEB>
+*
+
+Going to Stuyvesant has its advantages and disadvantages. Read The
+Spectator Editorial Board's proposed solutions for some of the more
+serious academic problems in our school, namely inadequate teachers
+and academic support.
+
+*Arts & Entertainment*
+
+*Night at the Met
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUVAdCVNRGVEB>
+*
+
+The biannual event ‘Summer in the City: A Teen Open House’ took
+place on Friday, March 18. Organized by the Met, students from all
+over New York City had the opportunity to learn about internships, and
+other programs that will be held at the museum this summer.
+
+*Graphic Novels: Super Without the Heroes
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUVMdCVNRGVEB>
+*
+
+When avids reader looks for a good read, they often overlook graphic
+novels. Read as Thomas Duda, Emre Tetik, and Hytemi Yi share there
+picks of must-read graphic novels.
+
+*Sports*
+
+*Renegades Prepare to Make Playoff Run in Upcoming Season
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUVIdCVNRGVEB>
+*
+
+After an upsetting loss early in the playoffs last year, the
+Renegades, Stuyvesant's girls' softball team, looks forward to a long
+run in the playoffs this year, despite difficulties due to the loss of
+key players to graduation last year. 
+
+*Humor*
+
+*TriBeCa Bridge Stolen, Students Left Stranded
+<http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUVUdCVNRGVEB>
+*
+
+On Tuesday, March 22, students found themselves unable to get to
+school because the TriBeCa bridge was stolen by a Bronx Science
+student, and Principal Stanley Teitel forbid them to play "dodge-car"
+by crossing the West Side Highway
+
+
+
+--
+If you do not wish to receive any more newsletters, go to
+http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUVQdCVNRGVEB
+To update your email address, visit
+http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUVcdCVNRGVEB
+To forward this message to someone, click on
+http://stuyspectator.com/mail/lt.php?id=ZUtQBVMHUVYdCVNRGVEB
+
+
+--b1_ae2d3e0f68d7597b98da97723fa4b3fa
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<head>
+        <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
+        <title></title></head><body><html>
+<a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUFUdCVNRGVEB" ><img src="http://stuyspectator.com/mail/new/logo.png" alt="The Spectator | The Stuyvesant High School Newspaper" border="0"></a><img src="http://stuyspectator.com/mail/ut.php?u=0b1939b5886ffe0a903d13458ad94f54&m=100" width="1" height="1" border="0"><br>
+<p>&nbsp;<b><u><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">News</span></u></b><!--StartFragment--></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUFQdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">Anti-Defamation League Sensitivity Workshops: Teaching Tolerance</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">Math and computer science teacher Ashvin Jaishankar and English teacher Annie Thoms, along with SPARK coordinator, Angel Colon, and Assistant Principal Student Affairs Eleanor Archie will now be serving as Anti-Defamation League coordinators. Read about the three seminars they hosted and the affect they are having on the student body. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUFcdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">Stuyvesant Team Shows Improvement in State Science Olympiad</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">Stuyvesant's Science Olympiad team made great improvements this year against the fierce competition from other New York State teams.&nbsp;<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">&nbsp;<b><u>Features</u></b><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUFYdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">The Japanese Disaster: Students Speak</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">Stuyvesant students respond to the recent tragedy in Japan.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUFkdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">Donation Destination</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">In light of the 8.9 magnitude earthquake that hit Japan, the resulting tsunami, and the subsequent nuclear dangers, Stuyvesant students and faculty have donated money to the Red Cross and the Japanese National Humor Society.&nbsp; But do these donors really know where their money is going?<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><u><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">Opinions</span></u></b><span style="font-family:Helvetica;
+mso-bidi-font-family:Helvetica"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUFgdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">Athletic Integrity</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">With the over 50 athletic teams and Clubs at Stuyvesant, the question of how student athletes should be disciplined for lateness to school remains unanswered.&nbsp; Read as Debanjan Roychoudhury voices his opinions on something near and dear to his heart.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUVEdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">Supporting the Students</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">Going to Stuyvesant has its advantages and disadvantages.&nbsp; Read The Spectator Editorial Board's proposed solutions for some of the more serious academic problems in our school, namely&nbsp; inadequate teachers and academic support.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><u><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">Arts &amp; Entertainment</span></u></b><span style="font-family:
+Helvetica;mso-bidi-font-family:Helvetica"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUVAdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">Night at the Met</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">The biannual event &lsquo;Summer in the City: A Teen Open House&rsquo; took place on Friday, March 18. Organized by the Met, students from all over New York City had the opportunity to learn about internships, and other programs that will be held at the museum this summer.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUVMdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">Graphic Novels: Super Without the Heroes</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">When avids reader looks for a good read, they often overlook graphic novels. Read as Thomas Duda, Emre Tetik, and Hytemi Yi&nbsp;share there picks of must-read graphic novels.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><u><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">Sports</span></u></b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUVIdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">Renegades Prepare to Make Playoff Run in Upcoming Season</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">After an upsetting loss early in the playoffs last year, the Renegades, Stuyvesant's girls' softball team, looks forward to a long run in the playoffs this year, despite difficulties due to the loss of key players to graduation last year. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><u><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">Humor</span></u></b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><o:p></o:p></span></p>
+<p class="MsoNormal"><b><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica"><a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUVUdCVNRGVEB" ><span style="color:windowtext;text-decoration:none;text-underline:none">TriBeCa Bridge Stolen, Students Left Stranded</span></a><o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style="font-family:Helvetica;mso-bidi-font-family:
+Helvetica">On Tuesday, March 2</span><span style="font-size:10.0pt;font-family:
+Helvetica;mso-bidi-font-family:Helvetica">2</span><span style="font-family:
+Helvetica;mso-bidi-font-family:Helvetica">, students found themselves unable to get to school because the TriBeCa bridge was stolen by a Bronx Science student, and Principal Stanley Teitel forbid them to play &quot;dodge-car&quot; by crossing the West Side Highway</span><o:p></o:p></p>
+<!--EndFragment-->
+</html><br /><br /><div class="emailfooter">--<br />
+If you do not wish to receive any more newsletters, go to <a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUVQdCVNRGVEB" >this link</a>.<br />
+To update your email address, visit <a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUVcdCVNRGVEB" >this link</a>.<br />
+To forward this message to someone, click on <a href="http://stuyspectator.com/mail/lt.php?id=eUtQBVMHUVYdCVNRGVEB" >this link</a>.</div></body>
+
+
+
+--b1_ae2d3e0f68d7597b98da97723fa4b3fa--
+

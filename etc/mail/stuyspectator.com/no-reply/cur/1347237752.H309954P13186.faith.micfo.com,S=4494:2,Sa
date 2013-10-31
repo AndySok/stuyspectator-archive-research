@@ -1,0 +1,108 @@
+Return-path: <>
+Envelope-to: no-reply@stuyspectator.com
+Delivery-date: Sun, 09 Sep 2012 20:42:32 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1TAs5A-0003Qb-8h
+	for no-reply@stuyspectator.com; Sun, 09 Sep 2012 20:42:32 -0400
+X-Failed-Recipients: sexybitch@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: no-reply@stuyspectator.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TAs5A-0003Qb-8h@faith.micfo.com>
+Date: Sun, 09 Sep 2012 20:42:32 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sexybitch@gmail.com
+    SMTP error from remote mail server after RCPT TO:<sexybitch@gmail.com>:
+    host gmail-smtp-in.l.google.com [74.125.130.27]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 c18si4728032anh.68
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <no-reply@stuyspectator.com>
+Received: from 207-237-235-141.c3-0.80w-ubr2.nyr-80w.ny.cable.rcn.com ([207.237.235.141]:65193 helo=[192.168.1.102])
+	by faith.micfo.com with esmtp (Exim 4.77)
+	(envelope-from <no-reply@stuyspectator.com>)
+	id 1TAs4f-0003M7-AM; Sun, 09 Sep 2012 20:42:01 -0400
+From: Stuyvesant Spectator <no-reply@stuyspectator.com>
+Content-Type: multipart/alternative; boundary=Apple-Mail-158--436665721
+Date: Sun, 9 Sep 2012 20:42:01 -0400
+Subject: The Spectator Mailing List 
+Message-Id: <51531845-3FB0-4146-BB49-E930F799479B@stuyspectator.com>
+Mime-Version: 1.0 (Apple Message framework v1084)
+X-Mailer: Apple Mail (2.1084)
+X-ACL-Warn: {
+
+
+--Apple-Mail-158--436665721
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=us-ascii
+
+Dear Subscriber,
+
+The first issue of The Spectator is now available online! Check it out =
+at stuyspectator.com!
+
+Some highlights include:
+
+Exclusive coverage of the ongoing cheating scandal: =
+http://stuyspectator.com/2012/09/09/stuyvesant-cheating-ring-exposed/
+
+A feature on Interim-Acting Principal Zhang: =
+http://stuyspectator.com/2012/09/09/introducing-principal-jie-zhang/
+
+The staff editorial about academic dishonesty this year: =
+http://stuyspectator.com/2012/09/09/now-what/
+
+A profile on Olympic fencer and alumnus Nzingha Prescod ('10): =
+http://stuyspectator.com/2012/09/09/stuyvesant-alum-prescod-fences-in-olym=
+pics/
+
+
+Enjoy!
+
+The Spectator
+
+P.S. Sorry if you've received this already! We're dealing with a new =
+system!=
+
+--Apple-Mail-158--436665721
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space; ">Dear =
+Subscriber,<div><br></div><div>The first issue of The Spectator is now =
+available online! Check it out at <a =
+href=3D"http://stuyspectator.com">stuyspectator.com</a>!</div><div><br></d=
+iv><div>Some highlights include:</div><div><br></div><div>Exclusive =
+coverage of the ongoing cheating scandal:&nbsp;<a =
+href=3D"http://stuyspectator.com/2012/09/09/stuyvesant-cheating-ring-expos=
+ed/">http://stuyspectator.com/2012/09/09/stuyvesant-cheating-ring-exposed/=
+</a></div><div><br></div><div>A feature on Interim-Acting Principal =
+Zhang:&nbsp;<a =
+href=3D"http://stuyspectator.com/2012/09/09/introducing-principal-jie-zhan=
+g/">http://stuyspectator.com/2012/09/09/introducing-principal-jie-zhang/</=
+a></div><div><br></div><div>The staff editorial about academic =
+dishonesty this year:&nbsp;<a =
+href=3D"http://stuyspectator.com/2012/09/09/now-what/">http://stuyspectato=
+r.com/2012/09/09/now-what/</a></div><div><br></div><div>A profile on =
+Olympic fencer and alumnus Nzingha Prescod ('10):&nbsp;<a =
+href=3D"http://stuyspectator.com/2012/09/09/stuyvesant-alum-prescod-fences=
+-in-olympics/">http://stuyspectator.com/2012/09/09/stuyvesant-alum-prescod=
+-fences-in-olympics/</a></div><div><br></div><div><br></div><div>Enjoy!</d=
+iv><div><br></div><div>The Spectator</div><div><br></div><div>P.S. Sorry =
+if you've received this already! We're dealing with a new =
+system!</div></body></html>=
+
+--Apple-Mail-158--436665721--

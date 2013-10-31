@@ -1,0 +1,44 @@
+Return-path: <>
+Envelope-to: stuyspec@brazil.micfo.com
+Delivery-date: Thu, 24 Apr 2008 20:01:52 +0000
+Received: from mailnull by brazil.micfo.com with local (Exim 4.68)
+	id 1Jp7df-0005Wl-IW
+	for stuyspec@brazil.micfo.com; Thu, 24 Apr 2008 20:01:52 +0000
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@brazil.micfo.com>
+To: stuyspec@brazil.micfo.com
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1Jp7df-0005Wl-IW@brazil.micfo.com>
+Date: Thu, 24 Apr 2008 20:01:51 +0000
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: New WordPress Blog
+X-PHP-Script: stuyspectator.com/wp-admin/install.php for 203.193.165.98
+Date: Thu, 24 Apr 2008 20:01:50 +0000
+Return-Path: wordpress@stuyspectator.com
+From: Test <wordpress@stuyspectator.com>
+Message-ID: <dc8734b4eb85c5c845022277d935391e@stuyspectator.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Your new WordPress blog has been successfully set up at:
+
+http://stuyspectator.com
+
+You can log in to the administrator account with the following information:
+
+Username: 
+Password: Z5OfQoo
+
+We hope you enjoy your new blog. Thanks!
+
+--The WordPress Team
+http://wordpress.org/
+

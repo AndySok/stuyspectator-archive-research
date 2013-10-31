@@ -1,0 +1,45 @@
+Return-path: <>
+Envelope-to: stuyspec@brazil.micfo.com
+Delivery-date: Wed, 26 Aug 2009 09:24:16 -0500
+Received: from mailnull by brazil.micfo.com with local (Exim 4.69)
+	id 1MgJQ8-0005SR-Lv
+	for stuyspec@brazil.micfo.com; Wed, 26 Aug 2009 09:24:16 -0500
+X-Failed-Recipients: mericappx12@gawab.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@brazil.micfo.com>
+To: stuyspec@brazil.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1MgJQ8-0005SR-Lv@brazil.micfo.com>
+Date: Wed, 26 Aug 2009 09:24:16 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  mericappx12@gawab.com
+    SMTP error from remote mail server after RCPT TO:<mericappx12@gawab.com>:
+    host mx2.gawab.com [66.220.20.52]: 550 5.1.1 Account disabled temporarly for exceeding receiving limits
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@brazil.micfo.com>
+Received: from stuyspec by brazil.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@brazil.micfo.com>)
+	id 1MgEba-0000kE-0n
+	for mericappx12@gawab.com; Wed, 26 Aug 2009 04:15:46 -0500
+To: mericappx12@gawab.com
+Subject: [Stuy Shelf] Your username and password
+Date: Wed, 26 Aug 2009 04:15:46 -0500
+From: WordPress <wordpress@stuyshelf.org>
+Message-ID: <57a51b383cc970f51312a84df04d3411@stuyshelf.org>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: BuySignulair
+Password: naoJSgK8MPfd
+http://stuyshelf.org/wp-login.php
+

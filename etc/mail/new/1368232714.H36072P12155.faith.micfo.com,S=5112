@@ -1,0 +1,55 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Fri, 10 May 2013 20:38:34 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1UaxpZ-00039x-Ut
+	for stuyspec@faith.micfo.com; Fri, 10 May 2013 20:38:33 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1UaxpZ-00039x-Ut@faith.micfo.com>
+Date: Fri, 10 May 2013 20:38:33 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1UaxpZ-00039r-Ry
+	for letters@stuyspectator.com; Fri, 10 May 2013 20:38:33 -0400
+To: letters@stuyspectator.com
+Subject: Track and Field in the Sports Section
+X-PHP-Script: stuyspectator.com/index.php for 142.255.82.199
+Date: Fri, 10 May 2013 20:38:33 -0400
+From: Jacob Faber-Rico <jacobfr104@gmail.com>
+Message-ID: <18da6de46fda06dd6120598b4f23e915@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+To the Spectator Sports Section,
+ 
+	As a sports fan, the first thing I do when I get The Spectator is turn it over to the sports section. As I look through it, I can’t help but notice the lack of information about the track team.  Since I am a member, this upsets me quite a lot. Since I arrived at Stuyvesant in September, you wrote exactly one article about us in cross country, and one in indoor track.  With the exception of one measly sentence at the bottom of the page a couple months ago, that’s all you’ve written about us.  It would be greatly appreciated if you wrote about us more.
+	First off, when you say “Sports Wrap-Up, ” like the box you’ve included in recent editions, you are implying that you are telling the readers a little bit about every single team, at least somewhere in the paper.  This is as it should be: the student body deserves to know about how all the teams are doing, and all the athletes deserve to be acknowledged for their hard work.  On the track team, we’re as dedicated as anyone, and work as hard as anyone.  This should be acknowledged; just like you acknowledge the teams that all the other athletes work hard for.  The fact that we are rarely mentioned is disrespectful and I actually find it offensive.
+	Now I understand that no one on The Spectator has any interest in hanging around at track meets for the entire day.  Trust me, if I wasn’t running in them I wouldn’t want to either.  However, I’m not asking you to.  PSAL’s website posts easily accessible information on the meets that they run.  Even more useful is the website ny.milesplit.com, which has track and cross country results for nearly every meet in the state.  Looking for our results on these websites would be quite simple. Interviews are another potential way to gain information on the team.
+	Finally, there are plenty of good things to write about the team.  For example, senior Jack Stevenson has had a very successful year.  He won the 3200-meter run at the City Championships during indoor track.  In that season, he also ran in the mile at the Millrose Games, one of the most prestigious indoor meets in the world.  Recently, his stellar time of 4:13.96 got him 6th place in the mile at the Penn Relays, another internationally renowned track meet.  That time might be a school record as well.  Aside from Stevenson, there are several other athletes that rank among the best in the city.  As a team, we are also successful.  We won Manhattan Borough Championships (which we have never lost since the 1990’s), outscoring the second place team by a wide margin of 204-76. The girls’ track team won their competition at that meet and while I don’t know as many specifics about their team, they also perform well. Finally, at the Mayor’s Cup last month our varsity 4x800m relay won, earning them the title “Best in the City.”  The average Stuy student should enjoy hearing their peers being called “The Best in the City.“ I could go on forever, but I’ll stop here.
+	To summarize, it is only fair to include the Stuyvesant Greyducks in your issues of The Spectator.  We are approaching championship season, and in the coming weeks we plan to see success at the Manhattan Borough Championships (Saturday, May 18th), Frosh/Soph City Champs (Monday, May 27th), and Varsity City Champs (Sunday, June 2nd).  Please write about our team.  Why ever not?
+
+Sincerely,
+Jacob Faber-Rico
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

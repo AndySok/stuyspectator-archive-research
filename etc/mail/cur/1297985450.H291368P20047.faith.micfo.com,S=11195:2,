@@ -1,0 +1,197 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Thu, 17 Feb 2011 18:30:50 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1PqDJC-0005DG-0P
+	for stuyspec@faith.micfo.com; Thu, 17 Feb 2011 18:30:50 -0500
+X-Failed-Recipients: sandra.komala@bnymellon.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1PqDJC-0005DG-0P@faith.micfo.com>
+Date: Thu, 17 Feb 2011 18:30:50 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sandra.komala@bnymellon.com
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1PqDJB-0005DB-Nf
+	for sandra.komala@bnymellon.com; Thu, 17 Feb 2011 18:30:49 -0500
+To: sandra.komala@bnymellon.com
+Subject: The Spectator Newsletter I Issue 9
+X-PHP-Script: stuyspectator.com/mail/admin/index.php for 74.72.79.126
+Recieved: 
+Date: Thu, 17 Feb 2011 18:30:49 -0500
+From: The Spectator <web@stuyspectator.com>
+Message-ID: <94bb21bfe6147988c790bf6b2badaa83@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+X-Mailer: phplist v2.10.10
+X-MessageID: 90
+X-ListMember: sandra.komala@bnymellon.com
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_94bb21bfe6147988c790bf6b2badaa83"
+
+--b1_94bb21bfe6147988c790bf6b2badaa83
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+ News*
+
+*
+
+Science Olympiad Has Negative Turnaround at Regionals
+<http://stuyspectator.com/mail/lt.php?id=ZUtZBlsBUR1YCB9XV1U%3D>
+
+On Saturday, February 5th Stuyvesant took on students from other
+schools in a competition that gives there scientific mind a
+challenging test, in order to claim a spot in the statewide
+competition. Although administrative issues and disqualification
+Stuyvesant’s Science Olympiads placed sixth, eight, and ninth, it
+won more medals than any other school. 
+
+Features*
+
+*
+
+Alumnus Zach Frankel Wins Rhodes Scholarship
+<http://stuyspectator.com/mail/lt.php?id=ZUtZBlsBVh1YCB9XV1U%3D>
+
+‘Stuyvesant is not easy nor is it always pleasant, but it teaches
+you more than you realize’ Zach Frankel. This says it all, Zach
+Frankel won the Rhode Scholarship, but he still thanks Stuyvesant
+teachers and his fellow classmates, along with the classes that he
+took at Stuyvesant for this once is a lifetime chance. *
+
+*
+
+Walter Gern: An Odyssey Through Literature
+<http://stuyspectator.com/mail/lt.php?id=ZUtZBlsBVx1YCB9XV1U%3D>
+
+Walter Gern, almost a Renaissance man, who currently teaches at the
+school that he once attended, has taught both English and Medical
+Ethics. Gern is also a man who respects not only those he works among,
+but also those who he teaches.
+
+Opinions*
+
+*
+
+Free For All
+<http://stuyspectator.com/mail/lt.php?id=ZUtZBlsBVB1YCB9XV1U%3D>
+
+As usual Daniel Solomon delivers, this time regarding the current
+chaos that has erupted in the Egypt. Solomon argues that the current
+situation in Egypt is less of a problem about government, and more of
+a problem about morals. 
+
+Reevaluating the Rules
+<http://stuyspectator.com/mail/lt.php?id=ZUtZBlsBVR1YCB9XV1U%3D>
+
+A society is built upon rules, as is a school and a lack of
+communication and civility cause it to disintegrate. From programing
+to cellphones and everything in between, there will always exist
+problems, but do we truly want all of these problems fixed? 
+
+Sports
+
+*Lemurs Look Forward to Championships Despite Slow Start
+<http://stuyspectator.com/mail/lt.php?id=ZUtZBlsBWh1YCB9XV1U%3D>
+*
+
+The Boys Gymnastics team, despite a bad start to the season is trying
+to make a come back. Optimism leads them as they face school after
+school. 
+
+A Rebellious Case
+<http://stuyspectator.com/mail/lt.php?id=ZUtZBlsBWx1YCB9XV1U%3D>
+
+As the season progresses on more violent behavior has become prevalent
+on the basketball court. But the Boys Basketball Team is fighting as
+they remain in the playoffs. *
+
+*
+
+Humor 
+
+*Newly-Formed Eugenics Department Looks to Make a Smarter Stuyvesant
+<http://stuyspectator.com/mail/lt.php?id=ZUtZBlsGUh1YCB9XV1U%3D>
+*
+
+Always a legitimate source, the Spectator reports that a new breed of
+super humans has been made by gene mutation and that they are one by
+one taking over Stuyvesant. It has started by replacing the Tech
+Classes with Eugenics classes and will go as far as they need to get
+what they want. *
+
+*
+
+
+
+--
+If you do not wish to receive any more newsletters, go to
+http://stuyspectator.com/mail/lt.php?id=ZUtZBlsGUx1YCB9XV1U%3D
+To update your email address, visit
+http://stuyspectator.com/mail/lt.php?id=ZUtZBlsGUB1YCB9XV1U%3D
+To forward this message to someone, click on
+http://stuyspectator.com/mail/lt.php?id=ZUtZBlsGUR1YCB9XV1U%3D
+
+
+--b1_94bb21bfe6147988c790bf6b2badaa83
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<head>
+        <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
+        <title></title></head><body><html>
+<a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsBUB1YCB9XV1U%3D" ><img src="http://stuyspectator.com/mail/new/logo.png" alt="The Spectator | The Stuyvesant High School Newspaper" border="0"></a><img src="http://stuyspectator.com/mail/ut.php?u=22e0ec75ebd88206cc6f4a4583d8ebc9&m=90" width="1" height="1" border="0"><br>
+<p>&nbsp;<b style="mso-bidi-font-weight:normal"><u>News</u><b><br />
+</b></b><!--StartFragment--></p>
+<p class="MsoNormal"><a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsBUR1YCB9XV1U%3D" ><b style="mso-bidi-font-weight:normal">Science Olympiad Has Negative Turnaround at Regionals</b></a><b style="mso-bidi-font-weight:normal"><o:p></o:p></b></p>
+<p class="MsoNormal">On Saturday, February 5<sup>th</sup> Stuyvesant took on students from other schools in a competition that gives there scientific mind a challenging test, in order to claim a spot in the statewide competition. Although administrative issues and disqualification Stuyvesant&rsquo;s Science Olympiads placed sixth, eight, and ninth, it won more medals than any other school. <o:p></o:p></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u>Features<o:p></o:p></u></b><b><u><br />
+</u></b></p>
+<p class="MsoNormal"><a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsBVh1YCB9XV1U%3D" ><b style="mso-bidi-font-weight:normal">Alumnus Zach Frankel Wins Rhodes Scholarship</b></a><b style="mso-bidi-font-weight:normal"><o:p></o:p></b></p>
+<p class="MsoNormal">&lsquo;Stuyvesant is not easy nor is it always pleasant, but it teaches you more than you realize&rsquo; Zach Frankel. This says it all, Zach Frankel won the Rhode Scholarship, but he still thanks Stuyvesant teachers and his fellow classmates, along with the classes that he took at Stuyvesant for this once is a lifetime chance. <o:p></o:p><b><u><br />
+</u></b></p>
+<p class="MsoNormal"><a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsBVx1YCB9XV1U%3D" ><b style="mso-bidi-font-weight:normal">Walter Gern: An Odyssey Through Literature</b></a><b style="mso-bidi-font-weight:normal"><o:p></o:p></b></p>
+<p class="MsoNormal">Walter Gern, almost a Renaissance man, who currently teaches at the school that he once attended, has taught both English and Medical Ethics. Gern is also a man who respects not only those he works among, but also those who he teaches.<o:p></o:p></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u>Opinions<o:p></o:p></u></b><b><u><br />
+</u></b></p>
+<p class="MsoNormal"><a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsBVB1YCB9XV1U%3D" ><b style="mso-bidi-font-weight:normal">Free For All</b></a><b style="mso-bidi-font-weight:normal"><o:p></o:p></b></p>
+<p class="MsoNormal">As usual Daniel Solomon delivers, this time regarding the current chaos that has erupted in the Egypt. Solomon argues that the current situation in Egypt is less of a problem about government, and more of a problem about morals. <o:p></o:p></p>
+<p class="MsoNormal"><a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsBVR1YCB9XV1U%3D" ><b style="mso-bidi-font-weight:normal">Reevaluating the Rules</b></a><b style="mso-bidi-font-weight:
+normal"><o:p></o:p></b></p>
+<p class="MsoNormal">A society is built upon rules, as is a school and a lack of communication and civility cause it to disintegrate. From programing to cellphones and everything in between, there will always exist problems, but do we truly want all of these problems fixed? <o:p></o:p></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u>Sports</u></b><b style="mso-bidi-font-weight:normal"><u><o:p></o:p></u></b></p>
+<p class="MsoNormal"><b><a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsBWh1YCB9XV1U%3D" >Lemurs Look Forward to Championships Despite Slow Start</a><o:p></o:p></b></p>
+<p class="MsoNormal">The Boys Gymnastics team, despite a bad start to the season is trying to make a come back.&nbsp; Optimism leads them as they face school after school. <b style="mso-bidi-font-weight:normal"><o:p></o:p></b><b style="mso-bidi-font-weight:normal"><o:p>&nbsp;</o:p></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsBWx1YCB9XV1U%3D" >A Rebellious Case</a><o:p></o:p></b></p>
+<p class="MsoNormal">As the season progresses on more violent behavior has become prevalent on the basketball court. But the Boys Basketball Team is fighting as they remain in the playoffs. <o:p></o:p><b><br />
+</b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u>Humor</u></b><b style="mso-bidi-font-weight:normal"><u> <o:p></o:p></u></b></p>
+<p class="MsoNormal"><b><a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsGUh1YCB9XV1U%3D" >Newly-Formed Eugenics Department Looks to Make a Smarter Stuyvesant</a><o:p></o:p></b></p>
+<p class="MsoNormal">Always a legitimate source, the Spectator reports that a new breed of super humans has been made by gene mutation and that they are one by one taking over Stuyvesant.&nbsp; It has started by replacing the Tech Classes with Eugenics classes and will go as far as they need to get what they want. <b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><u><o:p></o:p></u></i></b><b><u><br />
+</u></b></p>
+<!--EndFragment-->
+</html><br /><br /><div class="emailfooter">--<br />
+If you do not wish to receive any more newsletters, go to <a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsGUx1YCB9XV1U%3D" >this link</a>.<br />
+To update your email address, visit <a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsGUB1YCB9XV1U%3D" >this link</a>.<br />
+To forward this message to someone, click on <a href="http://stuyspectator.com/mail/lt.php?id=eUtZBlsGUR1YCB9XV1U%3D" >this link</a>.</div></body>
+
+
+
+--b1_94bb21bfe6147988c790bf6b2badaa83--
+

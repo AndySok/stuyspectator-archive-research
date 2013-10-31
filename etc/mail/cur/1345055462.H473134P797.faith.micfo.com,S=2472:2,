@@ -1,0 +1,53 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 15 Aug 2012 14:31:02 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1T1iMw-0000Cm-Cl
+	for stuyspec@faith.micfo.com; Wed, 15 Aug 2012 14:31:02 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1T1iMw-0000Cm-Cl@faith.micfo.com>
+Date: Wed, 15 Aug 2012 14:31:02 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.77)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1T1iMw-0000Ci-9q
+	for letters@stuyspectator.com; Wed, 15 Aug 2012 14:31:02 -0400
+To: letters@stuyspectator.com
+Subject: OBITUARY
+X-PHP-Script: stuyspectator.com/index.php for 67.87.203.115
+Date: Wed, 15 Aug 2012 18:31:02 +0000
+From: KENNETH SHILOFF <KENSHILOFF@YAHOO.COM>
+Message-ID: <c08e4690436c69ded151f5c9a75094a4@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+I learned recently that a good friend of mine during my Stuyvesant years had passed away. I am sure that fellow students will remember John (Janis)as a fun and outgoing person. His obituary follows:
+
+BIBELNIEKS, Janis Of Dedham, Mass. Beloved husband of Ruta (Subacs) Bibelnieks. Passed away March 22nd, 2012. "John B." as he was known in the Seafood business. He will be dearly missed by his family & friends. Brother of Zinta Lumborg of N.Y. Also survived by serveral nieces and one nephew. Funeral Services will be held at the Boston Latvian Lutheran Church, 58 Irving St (corner of High St) Brookline, Friday, March 30th at 1pm. Relatives and friends invited. Cremation will follow. Arrangements by Mann & Rodgers Funeral Home, Jamaica Plain. Guestbook at mannandrodgers.com
+
+Published in The Boston Globe on March 29, 2012
+
+Ken Shiloff 
+Class of 1961
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

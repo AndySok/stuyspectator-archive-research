@@ -1,0 +1,45 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sat, 31 Jul 2010 08:48:05 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1OfCQ1-0000ok-5R
+	for stuyspec@faith.micfo.com; Sat, 31 Jul 2010 08:48:05 -0500
+X-Failed-Recipients: iykevinspacey@mail.saratov.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1OfCQ1-0000ok-5R@faith.micfo.com>
+Date: Sat, 31 Jul 2010 08:48:05 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  iykevinspacey@mail.saratov.com
+    retry time not reached for any host after a long failure period
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1OfCQ0-0000oc-Rp
+	for iykevinspacey@mail.saratov.com; Sat, 31 Jul 2010 08:48:04 -0500
+To: iykevinspacey@mail.saratov.com
+Subject: [Stuy Shelf] Your username and password
+X-PHP-Script: stuyshelf.stuyspectator.com/wp-login.php for 95.211.10.22
+Date: Sat, 31 Jul 2010 13:48:04 +0000
+From: WordPress <wordpress@stuyshelf.stuyspectator.com>
+Message-ID: <4ca4f93be8b21f4f474d74d933666e49@stuyshelf.stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: IYKevinSpacey
+Password: ng@QO2LeRBri
+http://stuyshelf.stuyspectator.com/wp-login.php
+

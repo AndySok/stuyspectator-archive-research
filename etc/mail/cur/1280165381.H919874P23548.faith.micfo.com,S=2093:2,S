@@ -1,0 +1,49 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Mon, 26 Jul 2010 12:29:41 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1OdRUj-00067l-SO
+	for stuyspec@faith.micfo.com; Mon, 26 Jul 2010 12:29:41 -0500
+X-Failed-Recipients: merylence@terbuny.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1OdRUj-00067l-SO@faith.micfo.com>
+Date: Mon, 26 Jul 2010 12:29:41 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  merylence@terbuny.net
+    SMTP error from remote mail server after RCPT TO:<merylence@terbuny.net>:
+    host aspmx.l.google.com [74.125.77.27]: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://mail.google.com/support/bin/answer.py?answer=6596 x46si9734446eeh.86
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1OdRUi-000653-8J
+	for merylence@terbuny.net; Mon, 26 Jul 2010 12:29:40 -0500
+To: merylence@terbuny.net
+Subject: [Stuy Shelf] Your username and password
+X-PHP-Script: stuyshelf.stuyspectator.com/wp-login.php for 173.236.70.202
+Date: Mon, 26 Jul 2010 17:29:40 +0000
+From: WordPress <wordpress@stuyshelf.stuyspectator.com>
+Message-ID: <02dba16e64f8eb15c46e67f153bb98b1@stuyshelf.stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: buricocabrorn
+Password: q3D$lYi0ECw(
+http://stuyshelf.stuyspectator.com/wp-login.php
+

@@ -1,0 +1,66 @@
+Return-path: <>
+Envelope-to: stuyspec@faith-hd.micfo.com
+Delivery-date: Mon, 16 Apr 2012 05:29:41 -0400
+Received: from mailnull by faith-hd.micfo.com with local (Exim 4.77)
+	id 1SJiFg-0007Rg-Ly
+	for stuyspec@faith-hd.micfo.com; Mon, 16 Apr 2012 05:29:40 -0400
+X-Failed-Recipients: eugeneeleee@gmail.com,
+  waqarulbislam@gmail.com,
+  yixuan.song@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith-hd.micfo.com>
+To: stuyspec@faith-hd.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1SJiFg-0007Rg-Ly@faith-hd.micfo.com>
+Date: Mon, 16 Apr 2012 05:29:40 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  eugeneeleee@gmail.com
+    (ultimately generated from web@stuyspectator.com)
+    The mail server could not deliver mail to eugeneeleee@gmail.com.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+  waqarulbislam@gmail.com
+    (ultimately generated from web@stuyspectator.com)
+    The mail server could not deliver mail to waqarulbislam@gmail.com.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+  yixuan.song@gmail.com
+    (ultimately generated from web@stuyspectator.com)
+    The mail server could not deliver mail to yixuan.song@gmail.com.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith-hd.micfo.com>
+Received: from stuyspec by faith-hd.micfo.com with local (Exim 4.77)
+	(envelope-from <stuyspec@faith-hd.micfo.com>)
+	id 1SJiFV-0007Pr-EL
+	for web@stuyspectator.com; Mon, 16 Apr 2012 05:29:29 -0400
+To: web@stuyspectator.com
+Subject: [The Spectator] Please moderate: "PSAL Implements Pitch Count Regulations"
+X-PHP-Script: stuyspectator.com/wp-comments-post.php for 81.67.188.113
+Date: Mon, 16 Apr 2012 09:29:29 +0000
+From: WordPress <wordpress@stuyspectator.com>
+Message-ID: <dfd52e4e0f2064f020b0814502d3205b@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+A new comment on the post "PSAL Implements Pitch Count Regulations" is waiting for your approval
+http://stuyspectator.com/2010/12/08/psal-implements-pitch-count-regulations/
+
+Author : Daniela (IP: 81.67.188.113 , 81-67-188-113.rev.numericable.fr)
+E-mail : cintya_calisto@hotmail.com
+URL    : http://www.tvbandeirantes.net
+Whois  : http://whois.arin.net/rest/ip/81.67.188.113
+Comment: 
+yes! you did an awesome job! the blog looks great. and a belated congratulations!http://www.tvbandeirantes.net
+
+Approve it: http://stuyspectator.com/wp-admin/comment.php?action=approve&c=9603
+Trash it: http://stuyspectator.com/wp-admin/comment.php?action=trash&c=9603
+Spam it: http://stuyspectator.com/wp-admin/comment.php?action=spam&c=9603
+Currently 8 comments are waiting for approval. Please visit the moderation panel:
+http://stuyspectator.com/wp-admin/edit-comments.php?comment_status=moderated
+

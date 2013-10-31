@@ -1,0 +1,86 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 31 Oct 2010 15:37:47 -0500
+Received: from ironport2.prod1.dngr.net ([216.220.209.211]:19233)
+	by faith.micfo.com with esmtp (Exim 4.69)
+	id 1PCeew-0001Hq-98
+	for stuyspec@faith.micfo.com; Sun, 31 Oct 2010 15:37:47 -0500
+Received: from unknown (HELO prod.danger.com) ([10.253.33.100])
+  by ironport2.prod1.dngr.net with ESMTP; 31 Oct 2010 13:37:46 -0700
+Subject: Undeliverable mail: The Spectator Newsletter | Issue IV
+From: <MAILER-DAEMON@prod.danger.com>
+To: <stuyspec@faith.micfo.com>
+Date: Sun, 31 Oct 2010 13:37:46 -0700
+Message-ID: <receipt-899584@mfe6.prod.danger.com>
+X-MAPI-Message-Class: REPORT.IPM.Note.NDR
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type="delivery-status"; boundary="_===899584====mfe6.prod.danger.com===_"
+X-Spam-Status: No, score=1.6
+X-Spam-Score: 16
+X-Spam-Bar: +
+X-Spam-Flag: NO
+
+
+--_===899584====mfe6.prod.danger.com===_
+Content-Type: text/plain; charset="utf-8"
+
+Failed to deliver to 'kkweenbee10@tmail.com'
+LOCAL module(account kkweenbee10@tmail.com) reports:
+ mail receiving disabled
+
+
+--_===899584====mfe6.prod.danger.com===_
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mfe6.prod.danger.com
+
+Original-Recipient: rfc822;<kkweenbee10@tmail.com>
+Final-Recipient: LOCAL;<kkweenbee10@tmail.com>
+Action: failed
+Status: 4.0.0
+
+--_===899584====mfe6.prod.danger.com===_
+Content-Type: text/rfc822-headers
+
+Received: from [10.253.33.100] (HELO ironport5.prod1.dngr.net)
+  by mfe6.prod.danger.com (CommuniGate Pro SMTP 5.2.8)
+  with ESMTP id 899583 for kkweenbee10@tmail.com; Sun, 31 Oct 2010 13:37:46 -0700
+Received: from m131c5e42.tmodns.net (HELO mail.tmail.com) ([66.94.28.19])
+  by ironport5.prod1.dngr.net with ESMTP; 31 Oct 2010 13:37:46 -0700
+Received: from pps.filterd (atmail13 [127.0.0.1])
+	by mail.tmail.com (8.14.3/8.14.3) with SMTP id o9VKYfXk027176
+	for <kkweenbee10@tmail.com>; Sun, 31 Oct 2010 16:37:45 -0400
+Received: from faith.micfo.com (faith.micfo.com [64.120.14.82])
+	by mail.tmail.com with ESMTP id s9fm800yv-1
+	for <kkweenbee10@tmail.com>; Sun, 31 Oct 2010 16:37:45 -0400
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1PCees-0001H6-QR
+	for kkweenbee10@tmail.com; Sun, 31 Oct 2010 15:37:42 -0500
+To: kkweenbee10@tmail.com
+Subject: The Spectator Newsletter | Issue IV
+X-PHP-Script: stuyspectator.com/mail/admin/index.php for 68.194.7.224
+Recieved: 
+Date: Sun, 31 Oct 2010 15:37:42 -0500
+From: web@stuyspectator.com
+Message-ID: <cee17dbf635d9bead5de46f1a84ba16b@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+X-Mailer: phplist v2.10.10
+X-MessageID: 87
+X-ListMember: kkweenbee10@tmail.com
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_cee17dbf635d9bead5de46f1a84ba16b"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - faith.micfo.com
+X-AntiAbuse: Original Domain - tmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [962 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - faith.micfo.com
+X-Source: /usr/local/lsws/fcgi-bin/lsphp-5.2.14
+X-Source-Args: lsphp5:ome/stuyspec/public_html/mail/admin/index.php
+X-Source-Dir: stuyspectator.com:/public_html/mail/admin
+X-Proofpoint-Virus-Version: vendor=nai engine=5.2.00 definitions=5613 signatures=523932
+
+--_===899584====mfe6.prod.danger.com===_--

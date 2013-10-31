@@ -1,0 +1,68 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Mon, 11 Jun 2012 15:04:22 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1Se9uY-0003oA-4u
+	for stuyspec@faith.micfo.com; Mon, 11 Jun 2012 15:04:22 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Se9uY-0003oA-4u@faith.micfo.com>
+Date: Mon, 11 Jun 2012 15:04:22 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.77)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1Se9uY-0003o4-36
+	for letters@stuyspectator.com; Mon, 11 Jun 2012 15:04:22 -0400
+To: letters@stuyspectator.com
+Subject: Letter about the dress code from members of the Class of 1991
+X-PHP-Script: stuyspectator.com/index.php for 192.65.245.89
+Date: Mon, 11 Jun 2012 19:04:22 +0000
+From: Miriam Liss <mliss@umw.edu>
+Message-ID: <ec72e7dca8307a88d05d162c3b7cef50@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+June 11, 2012
+
+To the Editors,
+
+As 1991 graduates of Stuyvesant, we were disturbed to read about the new dress code at Stuy and its purported uneven enforcement. 
+
+First, the dress code is potentially harmful to the girls who are disproportionately sanctioned for violating it. Measuring and checking the length of girls’ skirts forces young women to take an observer’s perspective on their body, focusing on how their bodies and clothing look to others. Research has shown that such self-objectification to correlate with a wide variety of negative effects, including decreased math performance. Young women who may have been dressing to keep cool on a hot day are being forced to think about their bodies as the target of other people’s sexual desires.
+
+Second, the dress code is insulting to young men as it fosters the view of them as unable to control their raging hormones in the presence of an exposed leg. Instead of making it a young woman’s responsibility to control male desire through enforced dress codes, wouldn’t it make more sense to expect men to be able to act responsibly?
+
+If the goal of Stuyvesant is to create an atmosphere where young men and women can focus on their studies and excel in an atmosphere of mutual respect, we believe the dress code and the way it is being enforced is a hindrance, rather than a help.
+
+Sincerely, 
+
+Miriam Liss, Ph.D.
+Jessica Levie, J.D., M.P.H.
+Claudia Marie Clemente, M.A. 
+Maris Abelson, M.A.
+Max Harris, M.B. A.
+Jessica Love D.V. M.
+James Izurieta
+Stuyvesant Class of 1991
+
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

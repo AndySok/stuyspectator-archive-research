@@ -1,0 +1,43 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 09 Sep 2012 20:34:15 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.77)
+	id 1TArx9-0002ai-9k
+	for stuyspec@faith.micfo.com; Sun, 09 Sep 2012 20:34:15 -0400
+X-Failed-Recipients: root@faith.micfo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TArx9-0002ai-9k@faith.micfo.com>
+Date: Sun, 09 Sep 2012 20:34:15 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  root@faith.micfo.com
+    (ultimately generated from Mailer-Daemon@faith.micfo.com)
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.77)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TArx9-0002af-78
+	for Mailer-Daemon@faith.micfo.com; Sun, 09 Sep 2012 20:34:15 -0400
+To: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+X-Autorespond: The Spectator Mailing List
+MIME-Version: 1.0
+X-Loop: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+Precedence: auto_reply
+X-Precedence: auto_reply
+From: "The Stuyvesant Spectator" <no-reply@stuyspectator.com>
+Content-type: text/plain; charset=utf-8
+Subject: Do Not Reply
+Message-Id: <E1TArx9-0002af-78@faith.micfo.com>
+Date: Sun, 09 Sep 2012 20:34:15 -0400
+
+Please do not reply to this message via e-mail. This address is automated, unattended, and cannot help with questions or requests.

@@ -1,0 +1,83 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Thu, 17 Feb 2011 18:30:52 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1PqDJE-0005EL-Oe
+	for stuyspec@faith.micfo.com; Thu, 17 Feb 2011 18:30:52 -0500
+X-Failed-Recipients: cameronsun829@gmail.com,
+  johnjonglee@hotmail.com,
+  marcin@skok.us,
+  victorma92@gmail.com,
+  vijendraramlall@gmail.com,
+  xxmitsukanaxx@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1PqDJE-0005EL-Oe@faith.micfo.com>
+Date: Thu, 17 Feb 2011 18:30:52 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  cameronsun829@gmail.com
+    (ultimately generated from web@stuyspectator.com)
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+  johnjonglee@hotmail.com
+    (ultimately generated from web@stuyspectator.com)
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+  marcin@skok.us
+    (ultimately generated from web@stuyspectator.com)
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+  victorma92@gmail.com
+    (ultimately generated from web@stuyspectator.com)
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+  vijendraramlall@gmail.com
+    (ultimately generated from web@stuyspectator.com)
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+  xxmitsukanaxx@gmail.com
+    (ultimately generated from web@stuyspectator.com)
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1PqDJD-0005E1-Oy
+	for web@stuyspectator.com; Thu, 17 Feb 2011 18:30:51 -0500
+To: web@stuyspectator.com
+Subject: Newsletter Maillist Processing info
+X-PHP-Script: stuyspectator.com/mail/admin/index.php for 74.72.79.126
+Recieved: 
+Date: Thu, 17 Feb 2011 18:30:51 -0500
+From: The Spectator <noreply@stuyspectator.com>
+Message-ID: <2387f364b052e34cae1f980f8c5163a4@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+X-Mailer: phplist v2.10.10
+X-MessageID: systemmessage
+X-ListMember: web@stuyspectator.com
+Precedence: bulk
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+
+[Thu 17 Feb 2011 18:29] [74.72.79.126] Started
+[Thu 17 Feb 2011 18:29] [74.72.79.126] Processing has started, 1 message(s)
+to process.
+[Thu 17 Feb 2011 18:29] [74.72.79.126] It is safe to click your "stop"
+button now, report will be sent by email to web@stuyspectator.com
+[Thu 17 Feb 2011 18:29] [74.72.79.126] Processing message 90
+[Thu 17 Feb 2011 18:29] [74.72.79.126] Looking for users
+[Thu 17 Feb 2011 18:29] [74.72.79.126] Found them: 358 to process
+[Thu 17 Feb 2011 18:30] [74.72.79.126] Processed 358 out of 358 users
+[Thu 17 Feb 2011 18:30] [74.72.79.126] It took  1 mins 50 secs to send this
+message
+[Thu 17 Feb 2011 18:30] [74.72.79.126] Script stage: 5
+[Thu 17 Feb 2011 18:30] [74.72.79.126] 358 messages sent in 110.68 seconds
+(11644 msgs/hr)
+

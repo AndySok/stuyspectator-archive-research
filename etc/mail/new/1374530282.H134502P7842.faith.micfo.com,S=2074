@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Mon, 22 Jul 2013 17:58:02 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.80.1)
+	id 1V1O7G-00022O-1Z
+	for stuyspec@faith.micfo.com; Mon, 22 Jul 2013 17:58:02 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1V1O7G-00022O-1Z@faith.micfo.com>
+Date: Mon, 22 Jul 2013 17:58:02 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80.1)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1V1O7F-00022I-Tf
+	for letters@stuyspectator.com; Mon, 22 Jul 2013 17:58:01 -0400
+To: letters@stuyspectator.com
+Subject: Sticky Fingers Origins?
+X-PHP-Script: stuyspectator.com/index.php for 207.10.18.72
+Date: Mon, 22 Jul 2013 17:58:01 -0400
+From: Michael Eng <BrotherEng@gmail.com>
+Message-ID: <fd8d374bb5ad649cbc28cc0cdbb0f775@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+I was reminiscing while watching some people throw a frisbee around and Googled the Sticky Fingers to see what/how they were doing. I was wondering if anyone remembered who/when the first Sticky Fingers were. I couldn't even tell you when the first posted articles were put in the Spectator about Sticky Fingers. Do you think you could post an article about the only Stuy team I can remember not called Peglegs?
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

@@ -1,0 +1,47 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sat, 20 Oct 2012 22:42:00 -0400
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1TPlUG-0007AM-9R
+	for stuyspec@faith.micfo.com; Sat, 20 Oct 2012 22:42:00 -0400
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TPlUG-0007AM-9R@faith.micfo.com>
+Date: Sat, 20 Oct 2012 22:42:00 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TPlUG-0007AG-56
+	for letters@stuyspectator.com; Sat, 20 Oct 2012 22:42:00 -0400
+To: letters@stuyspectator.com
+Subject: Pictures
+X-PHP-Script: stuyspectator.com/index.php for 96.246.3.56
+Date: Sun, 21 Oct 2012 02:42:00 +0000
+From: Aden Lui <princeluckyz@aol.com>
+Message-ID: <09031db85d208052881cb0822fa95a73@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Hi, my name is Aden Lui
+	A photographer took photos of two of my friends and I for the article on clubs. Our club is SMAC and I want to know if you can send me the photos you took. Thank you in advance. 
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

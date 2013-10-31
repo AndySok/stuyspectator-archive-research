@@ -1,0 +1,50 @@
+Return-path: <>
+Envelope-to: stuyspec@brazil.micfo.com
+Delivery-date: Fri, 17 Apr 2009 18:23:27 -0500
+Received: from mailnull by brazil.micfo.com with local (Exim 4.69)
+	id 1LuxP5-0006fa-8r
+	for stuyspec@brazil.micfo.com; Fri, 17 Apr 2009 18:23:27 -0500
+X-Failed-Recipients: MFabrizioo14@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@brazil.micfo.com>
+To: stuyspec@brazil.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1LuxP5-0006fa-8r@brazil.micfo.com>
+Date: Fri, 17 Apr 2009 18:23:27 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  MFabrizioo14@gmail.com
+    SMTP error from remote mail server after RCPT TO:<MFabrizioo14@gmail.com>:
+    host gmail-smtp-in.l.google.com [209.85.217.66]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://mail.google.com/support/bin/answer.py?answer=6596 22si8203860gxk.109
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@brazil.micfo.com>
+Received: from stuyspec by brazil.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@brazil.micfo.com>)
+	id 1LuxOz-0006fC-3H
+	for MFabrizioo14@gmail.com; Fri, 17 Apr 2009 18:23:21 -0500
+To: MFabrizioo14@gmail.com
+Subject: [Stuy Shelf] Your username and password
+X-PHP-Script: stuyshelf.org/wp-login.php for 208.59.130.175
+Date: Fri, 17 Apr 2009 18:23:21 -0500
+From: WordPress <wordpress@stuyshelf.org>
+Message-ID: <820eee197f678429cec27d9dcb4eb5c3@stuyshelf.org>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.2]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: Michael Sexy Fabrizio
+Password: 5z*6o)TtjgK(
+http://stuyshelf.org/wp-login.php
+

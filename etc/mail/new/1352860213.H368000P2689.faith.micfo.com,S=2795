@@ -1,0 +1,58 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Tue, 13 Nov 2012 21:30:13 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1TYSk1-0000hH-AN
+	for stuyspec@faith.micfo.com; Tue, 13 Nov 2012 21:30:13 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TYSk1-0000hH-AN@faith.micfo.com>
+Date: Tue, 13 Nov 2012 21:30:13 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TYSk1-0000hB-6R
+	for letters@stuyspectator.com; Tue, 13 Nov 2012 21:30:13 -0500
+To: letters@stuyspectator.com
+Subject: inquiries from high school newspaper
+X-PHP-Script: stuyspectator.com/index.php for 74.70.47.47
+Date: Wed, 14 Nov 2012 02:30:13 +0000
+From: justina  liu <jukliu611@hotmail.com>
+Message-ID: <8d8cdce25560276cd91fa7d650f9ba02@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Stuyvasent Staff,
+
+I wasn't exactly sure which section to email this to, but please hear me out. I am the Associate Editor of Print Content for the Journal, the Guilderland High School newspaper. We are located in upstate New York. 
+
+I am emailing to basically ask the staff of Stuyvasent for some advice on management, and how to make sure journalistic quality is up to par. You guys have a terrific newspaper that has been recognized for its quality, content and reliability. I hope that our newspaper will be achieve a status like yours some day. Before we get there though, I realize that we need to improve to quality of our articles...
+
+I would like to ask you, how do you educate your writers on writing journalistically, interviewing, etc? Are there templates/ work sheets that you use for revising? In addition, what is your cycle/ process like, from when articles get in to when they get put into layout? It is amazing that you are able to publish biweekly!  It would be greatly appreciated if you could advise us in these areas.
+
+Great work, your work is truly an inspiration for us!
+
+Sincerely,
+Justina Liu
+
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

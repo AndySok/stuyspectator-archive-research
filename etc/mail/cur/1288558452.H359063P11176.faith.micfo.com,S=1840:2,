@@ -1,0 +1,49 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 31 Oct 2010 15:54:12 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1PCeuq-0002uD-B5
+	for stuyspec@faith.micfo.com; Sun, 31 Oct 2010 15:54:12 -0500
+X-Failed-Recipients: cameronsun829@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1PCeuq-0002uD-B5@faith.micfo.com>
+Date: Sun, 31 Oct 2010 15:54:12 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  cameronsun829@gmail.com
+    (ultimately generated from web@stuyspectator.com)
+    Domain stuyspectator.com has exceeded the max emails per hour (350) allowed. Message discarded.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1PCeun-0002tr-Va
+	for web@stuyspectator.com; Sun, 31 Oct 2010 15:54:09 -0500
+To: web@stuyspectator.com
+Subject: List confirmation
+X-PHP-Script: stuyspectator.com/mail/index.php for 66.249.71.203
+Recieved: 
+Date: Sun, 31 Oct 2010 15:54:09 -0500
+From: The Spectator <noreply@stuyspectator.com>
+Message-ID: <eaf3f586f2224944b47f436d7d87a193@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+X-Mailer: phplist v2.10.10
+X-MessageID: systemmessage
+X-ListMember: web@stuyspectator.com
+Precedence: bulk
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+s.e.duncan@verizon.net has confirmed their subscription
+

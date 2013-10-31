@@ -1,0 +1,47 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Tue, 27 Jul 2010 19:22:52 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1OduQ8-0008V8-3D
+	for stuyspec@faith.micfo.com; Tue, 27 Jul 2010 19:22:52 -0500
+X-Failed-Recipients: moodyzorggerorie@rambler.ru
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1OduQ8-0008V8-3D@faith.micfo.com>
+Date: Tue, 27 Jul 2010 19:22:52 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  moodyzorggerorie@rambler.ru
+    SMTP error from remote mail server after RCPT TO:<moodyzorggerorie@rambler.ru>:
+    host imx1.rambler.ru [81.19.66.235]: 550 5.1.1 <moodyzorggerorie@rambler.ru>:
+    Recipient address rejected: user not found
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1OduQ5-0008UI-Ux
+	for moodyzorggerorie@rambler.ru; Tue, 27 Jul 2010 19:22:49 -0500
+To: moodyzorggerorie@rambler.ru
+Subject: [Stuy Shelf] Your username and password
+X-PHP-Script: stuyshelf.stuyspectator.com/wp-login.php for 91.214.46.25
+Date: Wed, 28 Jul 2010 00:22:49 +0000
+From: WordPress <wordpress@stuyshelf.stuyspectator.com>
+Message-ID: <0451955cf2ea9acf4c865a919f402791@stuyshelf.stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: Enrompene
+Password: !F*)!2(zlgY(
+http://stuyshelf.stuyspectator.com/wp-login.php
+

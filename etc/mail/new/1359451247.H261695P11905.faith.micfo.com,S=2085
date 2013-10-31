@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Tue, 29 Jan 2013 04:20:47 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1U07N1-00035t-6J
+	for stuyspec@faith.micfo.com; Tue, 29 Jan 2013 04:20:47 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1U07N1-00035t-6J@faith.micfo.com>
+Date: Tue, 29 Jan 2013 04:20:47 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1U07N1-00035n-2d
+	for letters@stuyspectator.com; Tue, 29 Jan 2013 04:20:47 -0500
+To: letters@stuyspectator.com
+Subject: Beat your competitors in 2013
+X-PHP-Script: stuyspectator.com/index.php for 182.68.29.78
+Date: Tue, 29 Jan 2013 09:20:47 +0000
+From: Ivan Ballard <ivanballardivn3@gmail.com>
+Message-ID: <0d692e1c3e92a9c5105b3bd4622b3fba@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+We offer quality Search Engine Optimization / SEO Services and Internet Marketing Solutions. Our dedicated team of SEO Professionals ensures Top 10 search engine rankings. Our SEO Processes are designed in view of the SEO guidelines, and white hat SEO techniques are strictly followed to ensure that our clients from world over get the best SEO services. Please reply to this email so we can send you more details.
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

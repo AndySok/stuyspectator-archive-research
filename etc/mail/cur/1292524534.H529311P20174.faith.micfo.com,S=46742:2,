@@ -1,0 +1,896 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Thu, 16 Dec 2010 13:35:34 -0500
+Received: from mfilter.dimenoc.com ([72.29.67.235]:40762 helo=mfilter2.dimenoc.com)
+	by faith.micfo.com with esmtp (Exim 4.69)
+	id 1PTIft-0005Ez-AF
+	for stuyspec@faith.micfo.com; Thu, 16 Dec 2010 13:35:34 -0500
+Received: by mfilter2.dimenoc.com (Postfix)
+	id 4076B25409A; Thu, 16 Dec 2010 13:35:34 -0500 (EST)
+Date: Thu, 16 Dec 2010 13:35:34 -0500 (EST)
+From: MAILER-DAEMON@mfilter2.dimenoc.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: stuyspec@faith.micfo.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="6AE64254F65.1292524534/mfilter2.dimenoc.com"
+Message-Id: <20101216183534.4076B25409A@mfilter2.dimenoc.com>
+Content-Transfer-Encoding: 7bit
+
+This is a MIME-encapsulated message.
+
+--6AE64254F65.1292524534/mfilter2.dimenoc.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mfilter2.dimenoc.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<hblumm@stuy.edu>: connect to mumford.stuy.edu[149.89.1.27]: Connection timed
+    out
+
+--6AE64254F65.1292524534/mfilter2.dimenoc.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mfilter2.dimenoc.com
+X-Postfix-Queue-ID: 6AE64254F65
+X-Postfix-Sender: rfc822; stuyspec@faith.micfo.com
+Arrival-Date: Sat, 11 Dec 2010 13:33:18 -0500 (EST)
+
+Final-Recipient: rfc822; hblumm@stuy.edu
+Original-Recipient: rfc822;hblumm@stuy.edu
+Action: failed
+Status: 4.4.1
+Diagnostic-Code: X-Postfix; connect to mumford.stuy.edu[149.89.1.27]:
+    Connection timed out
+
+--6AE64254F65.1292524534/mfilter2.dimenoc.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+
+Received: from localhost (unknown [127.0.0.1])
+	by mfilter2.dimenoc.com (Postfix) with ESMTP id 6AE64254F65
+	for <hblumm@stuy.edu>; Sat, 11 Dec 2010 18:33:18 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at mfilter2.dimenoc.com
+Received: from mfilter2.dimenoc.com ([127.0.0.1])
+	by localhost (mfilter.dimenoc.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id MuWMtABP-OSB for <hblumm@stuy.edu>;
+	Sat, 11 Dec 2010 13:33:02 -0500 (EST)
+Received: from faith.micfo.com (faith.micfo.com [67.23.244.190])
+	by mfilter2.dimenoc.com (Postfix) with ESMTP id B6C64254F4B
+	for <hblumm@stuy.edu>; Sat, 11 Dec 2010 13:33:02 -0500 (EST)
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1PRUFf-0003Xa-OL
+	for hblumm@stuy.edu; Sat, 11 Dec 2010 13:33:00 -0500
+To: hblumm@stuy.edu
+Subject: The Spectator Newsletter Issue VI
+X-PHP-Script: stuyspectator.com/mail/admin/index.php for 68.194.7.224
+Recieved: 
+Date: Sat, 11 Dec 2010 13:32:59 -0500
+From: admin <comments@stuyspectator.com>
+Message-ID: <c296b2813f2b176e27df9efd57b17c3f@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+X-Mailer: phplist v2.10.10
+X-MessageID: 88
+X-ListMember: hblumm@stuy.edu
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_c296b2813f2b176e27df9efd57b17c3f"
+
+--b1_c296b2813f2b176e27df9efd57b17c3f
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Volume CI No. 6 | December 6, 2010 | "The Pulse of the Student Body"
+
+A&E <http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMFVR1ZAB9QV1I%3D>
+
+A City Filled with Art
+
+By MARGOT YALE
+
+Though Stuyvesant does not offer many art classes, the community does.
+There are many places, like the Cooper Union School of Art, the
+Metropolitan Museum of Art, the Museum of Modern Art, and FIT and the
+School of Visual Arts, that offer free and tuition programs for high
+schools students on the weekends and after school.
+
+Cheering on Multiculturalism
+
+By MIRYAM COPPERSMITH
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICUh1ZAB9QV1I%3D>
+ and BEN KOATZ
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICVR1ZAB9QV1I%3D>
+
+This year=E2=80=99s Culture Festival included captivating performances, l=
+ike
+the first African Drums performance, and food from restaurants like
+Paris Sandwich Baguette, Shanghai Kitchen, JR Sushi, and
+Portobello=E2=80=99s Pizzeria & Sicilian Kitchen. However, the Culture Fe=
+st
+didn=E2=80=99t go without difficulties. Performance practice times were c=
+ut
+because of Department of Education regulations, and performances were
+marred by problems with lighting and microphones.
+
+Unearthed From the Slushpile: Outlier Music and Nothing in Between
+
+By JAMES HONG and JAMES KOGAN
+
+There are many kinds of music that don=E2=80=99t fit the pop genre, like
+Shoegaze, a type of alternative rock; Trip hop, a genre that combines
+jazz, funk and soul; and Drum and Bass, a genre that uses high tempo
+drum tracks and a low bass.
+
+Stuy Writes=20
+
+By DAVID KURKOVSKIY
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICVB1ZAB9QV1I%3D>
+
+Caliper and Open Mic are two of many clubs and publications in
+Stuyvesant that let students express themselves through writing.
+
+Graffiti Transcends the Streets
+
+By CHRISTINE LEE with additional reporting by SHAH ALAM
+
+Though graffiti may be considered an act of vandalism, it upholds the
+ideals of art. Graffiti began in the 1960s and has evolved to become a
+unique form of art, with taggers creating new fonts, colors, and
+images.
+
+Features <http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMKUx1ZAB9QV1I%3=
+D>
+
+Felix Handte: 1337 of the Elite
+
+By BEBE LEGARDEUR
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICWh1ZAB9QV1I%3D>
+
+Felix Handte is the creator of thehandtes.com, a website that let
+students know their schedules before the first day of school. The site
+was immensely popular, with 35,000 searches on the site within the
+first two days of being published. Though Handte=E2=80=99s site is no lon=
+ger
+accurate, Handte continues to work on other computer and web projects
+and is trying to find a new use for the site.
+
+Staying the Course: A History of Past Technology Classes at Stuyvesant
+
+By MADHURIMA CHOWDHURY
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICUB1ZAB9QV1I%3D>
+
+Woodworking and ceramics aren=E2=80=99t the first classes to be cut from =
+the
+Technology Department. Stuyvesant has cut classes like
+telescope-making, plastics lab, printing class, and jewelry and art
+metal design class from the Technology Department before.
+
+Performance Enhancing Drugs, Not Just for Athletes Anymore
+
+By NANCY MA and ARIELLE GERBER
+
+Ritalin and Adderall, are amphetamines that stimulate the brain and
+are used to treat ADD and ADHD. However, students are using these
+medications as =E2=80=9Cstudy drugs=E2=80=9D to increase efficiency and f=
+ocus.
+
+Teach for America: Teaching America=E2=80=99s Students and Teachers
+
+By YING YU SITU
+
+Teach for America is a program founded in 1990 by Wendy Kopp that lets
+college graduates with no teaching experience teach in schools in
+low-income communities. Studies show that students taught by TFA
+teachers have tested better on standardized tests than students in
+regular schools.
+
+News <http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMKVh1ZAB9QV1I%3D>
+
+English Regents Moved to June
+
+By KAREN ZHENG
+
+The 2011 New York State English Regents, originally administered in
+January, will be given in June. Assistant Principal Eric Grossman and
+Principal Stanley Teitel agreed to administer the exam in June so that
+students would not lose an instructional day.
+
+Eight Cleaners Laid Off Due to Budget Cuts
+
+By DEVON VARRICHIONE
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICVx1ZAB9QV1I%3D>
+ and ISAREE THATCHAICHAWALIT
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICUR1ZAB9QV1I%3D>
+
+Eight Stuyvesant High School cleaners have been laid off since the
+beginning of the 2010-11 school year, a result of the Department of
+Education=E2=80=99s restructuring of the extended-use permit system and t=
+he
+500 million dollar New York State budget cuts.
+
+Joel Klein Resigns, Cathleen Black Appointed as New Chancellor
+By SHARON CHO and CHESTER DUBOV
+
+On November 9, Mayor Michael R. Bloomberg announced the resignation of
+New York City Schools Chancellor Joel I. Klein and the appointment of
+Hearst Media executive Cathleen P. Black. Klein has been Chancellor
+for the past eight years. Black became Chancellor on Monday, November
+29, after receiving a waiver that exempt her from the job=E2=80=99s
+educational experience requirement.=20
+
+Gay Speakers Share Their Experiences with Women=E2=80=99s Voices Class
+By ISABELLE NG
+
+On Tuesday, November 9, two women spoke to English teacher Annie
+Thoms=E2=80=99s fifth period Women=E2=80=99s Voices class about their exp=
+eriences
+being gay. Stuyvesant High School was the first school that Leslie
+Mackrell and Sangeeta Budhiraja visited on behalf of their Back to
+Your School project. The project encourages lesbian, gay, bisexual,
+transgender, and queer to go back to their schools and share their
+experiences and become guides to those who are unsure of their
+sexuality.
+
+Godfather of Sudoku Visits Japanese Classes
+By MAYA AVERBUCH and JOSEPH FRANKEL
+
+Maki Kaji, the self-proclaimed Godfather of Sudoku, visited several of
+Japanese teacher Chie Helinski=E2=80=99s classes on Tuesday, November 16.
+Kaji, a native of Japan, is a college dropout who worked as a waiter,
+a roadie, a construction worker, a sleeper-car dismantler and a
+German-Japanese patent translator, before opening his own
+puzzle-publishing company, Nikoli, Inc.
+
+Stuyvesant Spends Title 1 Funding
+By ANIKA RASTGIR with additional reporting by ALEX WANG
+
+Principal Stanley Teitel has allocated 1.6 million dollars in Title I
+funding for the 2010-2011 school year. The funding has been spent on
+hiring new teachers, funding Academic Intervention Services (AIS)
+tutoring, creating freshmen workshops and expanding parental
+involvement programs.
+
+Stuy Teens Tinker with Toys
+
+By KAREN ZHENG
+
+Teen Entrepreneur Boot Camp (TEBC) and Connect Four inventor Howard
+Wexler are teaming up to start a nonprofit teen toy company at
+Stuyvesant. Chmiel, an entrepreneur who owns the coffee bar Klatch,
+and Wexler aim to run the program from December to June 2011. They
+hope to have a team of 20 to 30 students and hold an interest meeting
+on Wednesday, December 8.
+
+Opinions <http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMKVR1ZAB9QV1I%3=
+D>
+
+The Corporatists and the Classroom
+By DANIEL SOLOMON
+
+When Joel Klein announced the end of his tenure as chancellor of New
+York City=E2=80=99s public schools, an era closed for New York. The
+appointment of Cathie Black as the new Chancellor is emblematic of a
+poisonous approach to government that fails to acknowledge the
+fundamental differences between private enterprise and the public
+sector.
+
+Diary of a Mad Senior: Counseling The College Office
+By NICOLE ZHAO
+
+With over 750 seniors undergoing an unfamiliar application process,
+where one tiny misstep, one deadline overlooked, or one word of a
+requirement misread could utterly shatter one=E2=80=99s chances at his/he=
+r
+dream college, it=E2=80=99s no wonder people have so many questions about
+college application processes.
+
+The Wrong Kind of News Bulletin
+By JILL CHOW
+
+At a recent Student Union meeting, I was disappointed when I learned
+of a new rule stating that, due to cuts in the janitorial staff,
+posters should be placed on bulletin boards only.
+
+Rally to Reduce Apathy
+
+By ANASTASSIA BOUGAKOVA
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICWx1ZAB9QV1I%3D>
+
+What with homework, clubs, STC productions, The Spectator and an
+internship, I barely have time to get everything done, let alone
+attend Open Forums or take part in the goings-on of the SU. But
+perhaps I, and other students in similar predicaments, could make the
+time if the incentive was strong enough.
+
+Social Networking: The Best of Both Worlds
+By TIFFANY PHAN
+
+Social networking sites provide us with a shortcut to communicate with
+friends after a hard day=E2=80=99s work at school and during busy weekend=
+s.
+To Stuyvesant students, these online social communities provide an
+effective way to communicate with friends and keep our social lives
+intact, while still being able to manage our workload and get several
+hours of sleep.
+
+How Now, Mr. C.A.O?
+By THE EDITORIAL BOARD
+
+On November 9, Chancellor Joel Klein announced that he was retiring at
+the end of the month. Mayor Bloomberg selected Cathleen P. Black as
+Klein=E2=80=99s replacement. Whereas Klein has experience in education,
+Black comes from a corporate background. A corporate CEO may in many
+ways be ill-suited to effectively manage and reform the nation=E2=80=99s
+largest school district.
+
+Humor <http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMKWx1ZAB9QV1I%3D>
+
+Family of Ospreys Successfully Relocated To Teitel=E2=80=99s Beard
+
+By DANIEL SOLOMON, SAM FURNIVAL and CHESTER DUBOV
+
+Last week, New York City=E2=80=99s Department of Environmental Protection
+(DEP) finished a long-awaited relocation of a family of ospreys to
+Principal Stanley Teitel=E2=80=99s beard. The birds of prey had previousl=
+y
+inhabited a telephone pole just outside the Queens section of the
+Jamaica Bay Wildlife Refuge. The news was greeted with roaring
+approval by bird lovers along with many others in the Stuyvesant
+community.
+
+Four Loko: An Appreciation
+
+By JAMES FRIER
+
+The hoi polloi may drink Four Loko merely for its blackout-inducing
+blend of alcohol and caffeine, but I choose to enjoy the drink for
+entirely different reasons: its complex and delicate flavor. To me,
+each flavor of Loko evokes a different memory or emotion.
+
+Replacement Sought for Milo Beckman
+
+By ELI ROSENBERG
+
+With the graduation of the class of 2011 fast approaching, Stuyvesant
+is scrambling to find a successor to current prodigy and seventh year
+student Milo Beckman. Starting in 1907, Stuyvesant began to search for
+young talent=E2=80=94a =E2=80=9Cmath messiah.=E2=80=9D The program has be=
+en a source of
+controversy, but the astounding test scores and deep mathematical
+thought produced by these =E2=80=9Cmath messiahs=E2=80=9D has kept the pr=
+ogram
+afloat.
+
+Sports <http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMLUh1ZAB9QV1I%3D>
+
+Greyducks Fly High
+
+By JORDAN FRANK
+
+The Greyducks, Stuyvesant=E2=80=99s Boys=E2=80=99 Cross Country team won =
+the PSAL
+City Championship for the fourth time in seven years. The Greyducks
+scored a mere 57 points, compared to the 118 points that the second
+place team, the Bronx High School of Science, received.
+
+PSAL Implements Pitch Count Regulations
+
+By SCOTT CHIUSANO
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMLWx1ZAB9QV1I%3D>
+ and EDDIE CYTRYN
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICVh1ZAB9QV1I%3D>
+
+In accordance with a new PSAL policy, pitchers will not be allowed to
+throw more than 105 pitches per game and must take a mandatory rest
+period afterward. The new regulations will place some teams at a
+disadvantage against teams with large rosters and deep bullpens. In
+addition, there is the question of how effectively the regulations can
+be enforced.
+
+The Perfect Season=E2=80=A6 Again
+
+By TOBI IDOWU
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMLWh1ZAB9QV1I%3D>
+
+The Stuyvesant girls=E2=80=99 volleyball team has not had one perfect
+regular season, but twelve. The Vixens clinched their 12th straight
+perfect regular season in 2 quick sets against Seward Park on Monday,
+November 8.
+
+Despite Second Straight Disappointing Season, Mimbas Remain Optimistic
+
+By MAHTAB ALAM
+<http://stuyspectator.com/mail/lt.php?id=3DZUtWBVICUx1ZAB9QV1I%3D>
+
+This is the second straight year the Mimbas have failed to make the
+playoffs, following a 17-year streak in which they did. Even so, the
+girls remain positive about this year=E2=80=99s experiences.
+
+
+
+--
+If you do not wish to receive any more newsletters, go to
+http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMLVx1ZAB9QV1I%3D
+To update your email address, visit
+http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMLVB1ZAB9QV1I%3D
+To forward this message to someone, click on
+http://stuyspectator.com/mail/lt.php?id=3DZUtWBVMLVR1ZAB9QV1I%3D
+
+
+--b1_c296b2813f2b176e27df9efd57b17c3f
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<head>
+        <meta content=3D"text/html;charset=3DUTF-8" http-equiv=3D"Content=
+-Type">
+        <title></title></head><body><html>
+<a href=3D"http://stuyspectator.com/mail/lt.php?id=3DeUtWBVMFVB1ZAB9QV1I%=
+3D" ><img src=3D"http://stuyspectator.com/mail/new/logo.png" alt=3D"The S=
+pectator | The Stuyvesant High School Newspaper" border=3D"0"></a><img sr=
+c=3D"http://stuyspectator.com/mail/ut.php?u=3D75670ad42074b84374618442028=
+6d602&m=3D88" width=3D"1" height=3D"1" border=3D"0"><br>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">Volume CI No. 6 | December 6, 2010 | &quot;The Pul=
+se of the Student Body&quot;</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><b style=3D"mso-bid=
+i-font-weight: normal"><u><a href=3D"http://stuyspectator.com/mail/lt.php=
+?id=3DeUtWBVMFVR1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New Roman">=
+A&amp;E</font></a><o:p></o:p></u></b></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><u><font size=3D"3"=
+><font face=3D"Times New Roman">A City Filled with Art<o:p></o:p></font><=
+/font></u></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">By MARGOT YALE</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">Though Stuyvesant does not offer many art classes,=
+ the community does.<span style=3D"mso-spacerun: yes">&nbsp; </span>There=
+ are many places, like the Cooper Union School of Art, the Metropolitan M=
+useum of Art, the Museum of Modern Art, and FIT and the School of Visual =
+Arts, that offer free and tuition programs for high schools students on t=
+he weekends and after school.</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><u><font size=3D"3"=
+><font face=3D"Times New Roman">Cheering on Multiculturalism<o:p></o:p></=
+font></font></u></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">By </font><a href=3D"http://stuyspectator.com/mail=
+/lt.php?id=3DeUtWBVMFWh1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New =
+Roman">MIRYAM COPPERSMITH</font></a><font size=3D"3" face=3D"Times New Ro=
+man"> and </font><a href=3D"http://stuyspectator.com/mail/lt.php?id=3DeUt=
+WBVMFWx1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New Roman">BEN KOATZ=
+</font></a></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">This year&rsquo;s Culture Festival included captiv=
+ating performances, like the first African Drums performance, and food fr=
+om restaurants like Paris Sandwich Baguette, Shanghai Kitchen, JR Sushi, =
+and Portobello&rsquo;s Pizzeria &amp; Sicilian Kitchen.<span style=3D"mso=
+-spacerun: yes">&nbsp; </span>However, the Culture Fest didn&rsquo;t go w=
+ithout difficulties.<span style=3D"mso-spacerun: yes">&nbsp; </span>Perfo=
+rmance practice times were cut because of Department of Education regulat=
+ions, and performances were marred by problems with lighting and micropho=
+nes.</font></p>
+<p class=3D"MsoNormal" style=3D"line-height: normal; margin: 0in 0in 10pt=
+; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-outline-leve=
+l: 2"><u><span style=3D"mso-bidi-font-weight: bold; mso-bidi-font-size: 1=
+2.0pt; mso-fareast-font-family: 'Times New Roman'"><font size=3D"3"><font=
+ face=3D"Times New Roman">Unearthed From the Slushpile: Outlier Music and=
+ Nothing in Between<o:p></o:p></font></font></span></u></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">By JAMES HONG and JAMES KOGAN</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">There are many kinds of music that don&rsquo;t fit=
+ the pop genre, like Shoegaze, a type of alternative rock; Trip hop, a ge=
+nre that combines jazz, funk and soul; and Drum and Bass, a genre that us=
+es high tempo drum tracks and a low bass.</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><u><font size=3D"3"=
+ face=3D"Times New Roman">Stuy Writes </font></u></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">By </font><a href=3D"http://stuyspectator.com/mail=
+/lt.php?id=3DeUtWBVMKUh1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New =
+Roman">DAVID KURKOVSKIY</font></a></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">Caliper and Open Mic are two of many clubs and pub=
+lications in Stuyvesant that let students express themselves through writ=
+ing.</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><u><font size=3D"3"=
+ face=3D"Times New Roman">Graffiti Transcends the Streets</font></u></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">By CHRISTINE LEE with additional reporting by SHAH=
+ ALAM</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">Though graffiti may be considered an act of vandal=
+ism, it upholds the ideals of art.<span style=3D"mso-spacerun: yes">&nbsp=
+; </span>Graffiti began in the 1960s and has evolved to become a unique f=
+orm of art, with taggers creating new fonts, colors, and images.</font></=
+p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><b style=3D"mso-bid=
+i-font-weight: normal"><u><a href=3D"http://stuyspectator.com/mail/lt.php=
+?id=3DeUtWBVMKUx1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New Roman">=
+Features</font></a></u><o:p></o:p></b></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><u><font size=3D"3"=
+><font face=3D"Times New Roman">Felix Handte: 1337 of the Elite<o:p></o:p=
+></font></font></u></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">By </font><a href=3D"http://stuyspectator.com/mail=
+/lt.php?id=3DeUtWBVMKUB1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New =
+Roman">BEBE LEGARDEUR</font></a></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">Felix Handte is the creator of thehandtes.com, a w=
+ebsite that let students know their schedules before the first day of sch=
+ool.<span style=3D"mso-spacerun: yes">&nbsp; </span>The site was immensel=
+y popular, with 35,000 searches on the site within the first two days of =
+being published.<span style=3D"mso-spacerun: yes">&nbsp; </span>Though Ha=
+ndte&rsquo;s site is no longer accurate, Handte continues to work on othe=
+r computer and web projects and is trying to find a new use for the site.=
+</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3"><f=
+ont face=3D"Times New Roman"><strong><u><span style=3D"line-height: 115%;=
+ color: #333333; font-weight: normal; mso-bidi-font-weight: bold; mso-bid=
+i-font-size: 12.0pt">Staying the Course: A History of Past Technology Cla=
+sses at Stuyvesant</span></u></strong><strong><span style=3D"line-height:=
+ 115%; color: #333333; font-weight: normal; mso-bidi-font-weight: bold; m=
+so-bidi-font-size: 12.0pt"><o:p></o:p></span></strong></font></font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">By </font><a href=3D"http://stuyspectator.com/mail=
+/lt.php?id=3DeUtWBVMKUR1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New =
+Roman">MADHURIMA CHOWDHURY</font></a></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">Woodworking and ceramics aren&rsquo;t the first classes=
+ to be cut from the Technology Department.<span style=3D"mso-spacerun: ye=
+s">&nbsp; </span>Stuyvesant has cut classes like telescope-making, plasti=
+cs lab, printing class, and jewelry and art metal design class from the T=
+echnology Department before.<o:p></o:p></font></font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3"><f=
+ont face=3D"Times New Roman"><u><span style=3D"line-height: 115%; mso-bid=
+i-font-size: 12.0pt">Performance Enhancing Drugs, Not Just for Athletes A=
+nymore</span></u><span style=3D"line-height: 115%; mso-bidi-font-size: 12=
+.0pt"><o:p></o:p></span></font></font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By NANCY MA and ARIELLE GERBER<o:p></o:p></font></font>=
+</span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">Ritalin and Adderall, are amphetamines that stimulate t=
+he brain and are used to treat ADD and ADHD.<span style=3D"mso-spacerun: =
+yes">&nbsp; </span>However, students are using these medications as &ldqu=
+o;study drugs&rdquo; to increase efficiency and focus.<o:p></o:p></font><=
+/font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3"><f=
+ont face=3D"Times New Roman"><u><span style=3D"line-height: 115%; mso-bid=
+i-font-size: 12.0pt">Teach for America: Teaching America&rsquo;s Students=
+ and Teachers</span></u><span style=3D"line-height: 115%; mso-bidi-font-s=
+ize: 12.0pt"><o:p></o:p></span></font></font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By YING YU SITU<o:p></o:p></font></font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">Teach for America is a program founded in 1990 by Wendy=
+ Kopp that lets college graduates with no teaching experience teach in sc=
+hools in low-income communities.<span style=3D"mso-spacerun: yes">&nbsp; =
+</span>Studies show that students taught by TFA teachers have tested bett=
+er on standardized tests than students in regular schools.<o:p></o:p></fo=
+nt></font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><b style=3D"mso-bid=
+i-font-weight: normal"><u><span style=3D"line-height: 115%; mso-bidi-font=
+-size: 12.0pt"><a href=3D"http://stuyspectator.com/mail/lt.php?id=3DeUtWB=
+VMKVh1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New Roman">News</font>=
+</a><o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3"><f=
+ont face=3D"Times New Roman"><u><span style=3D"line-height: 115%; mso-bid=
+i-font-size: 12.0pt">English Regents Moved to June</span></u><span style=3D=
+"line-height: 115%; mso-bidi-font-size: 12.0pt"><o:p></o:p></span></font>=
+</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By KAREN ZHENG<o:p></o:p></font></font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">The 2011 New York State English Regents, originally adm=
+inistered in January, will be given in June.<span style=3D"mso-spacerun: =
+yes">&nbsp; </span>Assistant Principal Eric Grossman and Principal Stanle=
+y Teitel agreed to administer the exam in June so that students would not=
+ lose an instructional day.<o:p></o:p></font></font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3"><f=
+ont face=3D"Times New Roman"><u><span style=3D"line-height: 115%; mso-bid=
+i-font-size: 12.0pt">Eight Cleaners Laid Off Due to Budget Cuts</span></u=
+><span style=3D"line-height: 115%; mso-bidi-font-size: 12.0pt"><o:p></o:p=
+></span></font></font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">By </font><a href=3D"http://stuyspectator.com/mail=
+/lt.php?id=3DeUtWBVMKVx1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New =
+Roman">DEVON VARRICHIONE</font></a><font size=3D"3" face=3D"Times New Rom=
+an"> and </font><a href=3D"http://stuyspectator.com/mail/lt.php?id=3DeUtW=
+BVMKVB1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New Roman">ISAREE THA=
+TCHAICHAWALIT</font></a></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">Eight Stuyvesant High School cleaners have been laid of=
+f since the beginning of the 2010-11 school year, a result of the Departm=
+ent of Education&rsquo;s restructuring of the extended-use permit system =
+and the 500 million dollar New York State budget cuts.<o:p></o:p></font><=
+/font></span></p>
+<h2 style=3D"margin: auto 0in"><u><span style=3D"font-size: 12pt; font-we=
+ight: normal; mso-bidi-font-weight: bold"><font face=3D"Times New Roman">=
+Joel Klein Resigns, Cathleen Black Appointed as New Chancellor<o:p></o:p>=
+</font></span></u></h2>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By SHARON CHO and CHESTER DUBOV<o:p></o:p></font></font=
+></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3"><f=
+ont face=3D"Times New Roman"><span style=3D"line-height: 115%; mso-bidi-f=
+ont-size: 12.0pt">On November 9, Mayor </span>Michael R. Bloomberg announ=
+ced&nbsp;the resignation of&nbsp;New York City Schools Chancellor Joel I.=
+ Klein and the appointment of Hearst Media executive Cathleen P. Black<sp=
+an style=3D"line-height: 115%; mso-bidi-font-size: 12.0pt">.<span style=3D=
+"mso-spacerun: yes">&nbsp; </span>Klein has been Chancellor for the past =
+eight years.<span style=3D"mso-spacerun: yes">&nbsp; </span>Black became =
+Chancellor on Monday, November 29, after receiving a waiver that exempt h=
+er from the job&rsquo;s educational experience requirement. <o:p></o:p></=
+span></font></font></p>
+<h2 style=3D"margin: auto 0in"><u><span style=3D"font-size: 12pt; font-we=
+ight: normal; mso-bidi-font-weight: bold"><font face=3D"Times New Roman">=
+Gay Speakers Share Their Experiences with Women&rsquo;s Voices Class<o:p>=
+</o:p></font></span></u></h2>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By ISABELLE NG<o:p></o:p></font></font></span></p>
+<p><font size=3D"3" face=3D"Times New Roman">On Tuesday, November 9, two =
+women spoke to English teacher Annie Thoms&rsquo;s fifth period Women&rsq=
+uo;s Voices class about their experiences being gay. Stuyvesant High Scho=
+ol was the first school that Leslie Mackrell and Sangeeta Budhiraja visit=
+ed on behalf of their Back to Your School project.<span style=3D"mso-spac=
+erun: yes">&nbsp; </span>The project encourages lesbian, gay, bisexual, t=
+ransgender, and queer to go back to their schools and share their experie=
+nces and become guides to those who are unsure of their sexuality.</font>=
+</p>
+<h2 style=3D"margin: auto 0in"><u><span style=3D"font-size: 12pt; font-we=
+ight: normal; mso-bidi-font-weight: bold"><font face=3D"Times New Roman">=
+Godfather of Sudoku Visits Japanese Classes<o:p></o:p></font></span></u><=
+/h2>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By MAYA AVERBUCH and JOSEPH FRANKEL<o:p></o:p></font></=
+font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">Maki Kaji, the self-proclaimed Godfather of Sudoku=
+, visited several of Japanese teacher Chie Helinski&rsquo;s classes on<st=
+rong> </strong>Tuesday, November 16.<span style=3D"mso-spacerun: yes">&nb=
+sp; </span>Kaji, a native of Japan, is a college dropout who worked as a =
+waiter, a roadie, a construction worker, a sleeper-car dismantler and a G=
+erman-Japanese patent translator, before opening his own puzzle-publishin=
+g company, Nikoli, Inc.</font></p>
+<h2 style=3D"margin: auto 0in"><u><span style=3D"font-size: 12pt; font-we=
+ight: normal; mso-bidi-font-weight: bold"><font face=3D"Times New Roman">=
+Stuyvesant Spends Title 1 Funding<o:p></o:p></font></span></u></h2>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font face=3D"Times New Roman"=
+><font size=3D"3">By ANIKA RASTGIR with additional reporting by ALEX WANG=
+<o:p></o:p></font></font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3"><s=
+pan style=3D"line-height: 115%; color: black; mso-bidi-font-size: 10.0pt;=
+ mso-fareast-font-family: Times"><font face=3D"Times New Roman">Principal=
+ Stanley Teitel has allocated 1.6 million dollars in Title I funding for =
+the 2010-2011 school year. The funding has been spent on hiring new teach=
+ers, funding </font></span><span style=3D"line-height: 115%; font-family:=
+ &quot;Times&quot;,&quot;serif&quot;; mso-bidi-font-size: 10.0pt; mso-far=
+east-font-family: Times; mso-bidi-font-family: 'Times New Roman'">Academi=
+c Intervention Services (AIS) tutoring, creating freshmen workshops and e=
+xpanding parental involvement programs.<o:p></o:p></span></font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><u><span style=3D"l=
+ine-height: 115%; font-family: &quot;Times&quot;,&quot;serif&quot;; mso-b=
+idi-font-size: 10.0pt; mso-fareast-font-family: Times; mso-bidi-font-fami=
+ly: 'Times New Roman'"><font size=3D"3">Stuy Teens Tinker with Toys<o:p><=
+/o:p></font></span></u></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By KAREN ZHENG<o:p></o:p></font></font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">Teen Entrepreneur Boot Camp (TEBC) and Connect Fou=
+r inventor Howard Wexler are teaming up to start a nonprofit teen toy com=
+pany at Stuyvesant.<span style=3D"mso-spacerun: yes">&nbsp; </span>Chmiel=
+, an entrepreneur who owns the coffee bar Klatch, and Wexler aim to run t=
+he program from December to June 2011.<span style=3D"mso-spacerun: yes">&=
+nbsp; </span>They hope to have a team of 20 to 30 students and hold an in=
+terest meeting on Wednesday, December 8.</font></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><b style=3D"mso-bid=
+i-font-weight: normal"><u><a href=3D"http://stuyspectator.com/mail/lt.php=
+?id=3DeUtWBVMKVR1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times New Roman">=
+Opinions</font></a><o:p></o:p></u></b></p>
+<h2 style=3D"margin: auto 0in"><u><span style=3D"font-size: 12pt; font-we=
+ight: normal; mso-bidi-font-weight: bold"><font face=3D"Times New Roman">=
+The Corporatists and the Classroom<o:p></o:p></font></span></u></h2>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By DANIEL SOLOMON<o:p></o:p></font></font></span></p>
+<p><font size=3D"3" face=3D"Times New Roman">When Joel Klein announced th=
+e end of his tenure as chancellor of New York City&rsquo;s public schools=
+, an era closed for New York.<span style=3D"mso-spacerun: yes">&nbsp; </s=
+pan>The appointment of Cathie Black as the new Chancellor is emblematic o=
+f a poisonous approach to government that fails to acknowledge the fundam=
+ental differences between private enterprise and the public sector.</font=
+></p>
+<h2 style=3D"margin: auto 0in"><u><span style=3D"font-size: 12pt; font-we=
+ight: normal; mso-bidi-font-weight: bold"><font face=3D"Times New Roman">=
+Diary of a Mad Senior: Counseling The College Office<o:p></o:p></font></s=
+pan></u></h2>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By NICOLE ZHAO<o:p></o:p></font></font></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><font size=3D"3" fa=
+ce=3D"Times New Roman">With over 750 seniors undergoing an unfamiliar app=
+lication process, where one tiny misstep, one deadline overlooked, or one=
+ word of a requirement misread could utterly shatter one&rsquo;s chances =
+at his/her dream college, it&rsquo;s no wonder people have so many questi=
+ons about college application processes.</font></p>
+<h2 style=3D"margin: auto 0in"><u><span style=3D"font-size: 12pt; font-we=
+ight: normal; mso-bidi-font-weight: bold"><font face=3D"Times New Roman">=
+The Wrong Kind of News Bulletin<o:p></o:p></font></span></u></h2>
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt"><span style=3D"line=
+-height: 115%; mso-bidi-font-size: 12.0pt"><font size=3D"3"><font face=3D=
+"Times New Roman">By JILL CHOW<o:p></o:p></font></font></span></p>
+<p><font size=3D"3" face=3D"Times New Roman">At a recent Student Union me=
+eting, I was disappointed when I learned of a new rule stating that, due =
+to cuts in the janitorial staff, posters should be placed on bulletin boa=
+rds only.</font></p>
+<p><u><font size=3D"3" face=3D"Times New Roman">Rally to Reduce Apathy</f=
+ont></u></p>
+<p><font size=3D"3" face=3D"Times New Roman">By </font><a href=3D"http://=
+stuyspectator.com/mail/lt.php?id=3DeUtWBVMKWh1ZAB9QV1I%3D" ><font size=3D=
+"3" face=3D"Times New Roman">ANASTASSIA BOUGAKOVA</font></a></p>
+<p><font size=3D"3" face=3D"Times New Roman">What with homework, clubs, S=
+TC productions, The Spectator and an internship, I barely have time to ge=
+t everything done, let alone attend Open Forums or take part in the going=
+s-on of the SU.<span style=3D"mso-spacerun: yes">&nbsp; </span>But perhap=
+s I, and other students in similar predicaments, could make the time if t=
+he incentive was strong enough.</font></p>
+<h2 style=3D"margin: auto 0in"><u><span style=3D"font-size: 12pt; font-we=
+ight: normal; mso-bidi-font-weight: bold"><font face=3D"Times New Roman">=
+Social Networking: The Best of Both Worlds<o:p></o:p></font></span></u></=
+h2>
+<p><font size=3D"3" face=3D"Times New Roman">By TIFFANY PHAN</font></p>
+<p><font size=3D"3" face=3D"Times New Roman">Social networking sites prov=
+ide us with a shortcut to communicate with friends after a hard day&rsquo=
+;s work at school and during busy weekends. To Stuyvesant students, these=
+ online social communities provide an effective way to communicate with f=
+riends and keep our social lives intact, while still being able to manage=
+ our workload and get several hours of sleep.</font></p>
+<h2 style=3D"margin: auto 0in"><u><span style=3D"font-size: 12pt; font-we=
+ight: normal; mso-bidi-font-weight: bold"><font face=3D"Times New Roman">=
+How Now, Mr. C.A.O?<o:p></o:p></font></span></u></h2>
+<p><font size=3D"3" face=3D"Times New Roman">By THE EDITORIAL BOARD</font=
+></p>
+<p><font size=3D"3" face=3D"Times New Roman">On November 9, Chancellor Jo=
+el Klein announced that he was retiring at the end of the month.<span sty=
+le=3D"mso-spacerun: yes">&nbsp; </span>Mayor Bloomberg selected Cathleen =
+P. Black as Klein&rsquo;s replacement.<span style=3D"mso-spacerun: yes">&=
+nbsp; </span>Whereas Klein has experience in education, Black comes from =
+a corporate background.<span style=3D"mso-spacerun: yes">&nbsp; </span>A =
+corporate CEO may in many ways be ill-suited to effectively manage and re=
+form the nation&rsquo;s largest school district.</font></p>
+<p><b style=3D"mso-bidi-font-weight: normal"><u><a href=3D"http://stuyspe=
+ctator.com/mail/lt.php?id=3DeUtWBVMKWx1ZAB9QV1I%3D" ><font size=3D"3" fac=
+e=3D"Times New Roman">Humor</font></a></u></b></p>
+<p class=3D"MsoNormal" style=3D"line-height: normal; margin: 0in 0in 10pt=
+; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-outline-leve=
+l: 2"><u><span style=3D"mso-bidi-font-weight: bold; mso-bidi-font-size: 1=
+2.0pt; mso-fareast-font-family: 'Times New Roman'"><font size=3D"3"><font=
+ face=3D"Times New Roman">Family of Ospreys Successfully Relocated To Tei=
+tel&rsquo;s Beard<o:p></o:p></font></font></span></u></p>
+<p><font size=3D"3" face=3D"Times New Roman">By DANIEL SOLOMON, SAM FURNI=
+VAL and CHESTER DUBOV</font></p>
+<p><font size=3D"3" face=3D"Times New Roman">Last week, New York City&rsq=
+uo;s Department of Environmental Protection (DEP) finished a long-awaited=
+ relocation of a family of ospreys to Principal Stanley Teitel&rsquo;s be=
+ard.<span style=3D"mso-spacerun: yes">&nbsp; </span>The birds of prey had=
+ previously inhabited a telephone pole just outside the Queens section of=
+ the Jamaica Bay Wildlife Refuge.<span style=3D"mso-spacerun: yes">&nbsp;=
+ </span>The news was greeted with roaring approval by bird lovers along w=
+ith many others in the Stuyvesant community.</font></p>
+<p><u><font size=3D"3"><font face=3D"Times New Roman">Four Loko: An Appre=
+ciation<o:p></o:p></font></font></u></p>
+<p><font size=3D"3" face=3D"Times New Roman">By JAMES FRIER</font></p>
+<p><font size=3D"3" face=3D"Times New Roman">The hoi polloi may drink Fou=
+r Loko merely for its blackout-inducing blend of alcohol and caffeine, bu=
+t I choose to enjoy the drink for entirely different reasons: its complex=
+ and delicate flavor.<span style=3D"mso-spacerun: yes">&nbsp; </span>To m=
+e, each flavor of Loko evokes a different memory or emotion.</font></p>
+<p><u><font size=3D"3"><font face=3D"Times New Roman">Replacement Sought =
+for Milo Beckman<o:p></o:p></font></font></u></p>
+<p><font size=3D"3" face=3D"Times New Roman">By ELI ROSENBERG</font></p>
+<p><font size=3D"3" face=3D"Times New Roman">With the graduation of the c=
+lass of 2011 fast approaching, Stuyvesant is scrambling to find a success=
+or to current prodigy and seventh year student Milo Beckman.<span style=3D=
+"mso-spacerun: yes">&nbsp; </span>Starting in 1907, Stuyvesant began to s=
+earch for young talent&mdash;a &ldquo;math messiah.&rdquo; The program ha=
+s been a source of controversy, but the astounding test scores and deep m=
+athematical thought produced by these &ldquo;math messiahs&rdquo; has kep=
+t the program afloat.</font></p>
+<p><b style=3D"mso-bidi-font-weight: normal"><u><a href=3D"http://stuyspe=
+ctator.com/mail/lt.php?id=3DeUtWBVMLUh1ZAB9QV1I%3D" ><font size=3D"3" fac=
+e=3D"Times New Roman">Sports</font></a></u></b></p>
+<p><u><font size=3D"3"><font face=3D"Times New Roman">Greyducks Fly High<=
+o:p></o:p></font></font></u></p>
+<p><font size=3D"3" face=3D"Times New Roman">By JORDAN FRANK</font></p>
+<p><font size=3D"3" face=3D"Times New Roman">The Greyducks, Stuyvesant&rs=
+quo;s Boys&rsquo; Cross Country team won the PSAL City Championship for t=
+he fourth time in seven years.<span style=3D"mso-spacerun: yes">&nbsp; </=
+span>The Greyducks scored a mere 57 points, compared to the 118 points th=
+at the second place team, the Bronx High School of Science, received.</fo=
+nt></p>
+<p><u><font size=3D"3"><font face=3D"Times New Roman">PSAL Implements Pit=
+ch Count Regulations<o:p></o:p></font></font></u></p>
+<p><font size=3D"3" face=3D"Times New Roman">By </font><a href=3D"http://=
+stuyspectator.com/mail/lt.php?id=3DeUtWBVMLUx1ZAB9QV1I%3D" ><font size=3D=
+"3" face=3D"Times New Roman">SCOTT CHIUSANO</font></a><font size=3D"3" fa=
+ce=3D"Times New Roman"> and </font><a href=3D"http://stuyspectator.com/ma=
+il/lt.php?id=3DeUtWBVMLUB1ZAB9QV1I%3D" ><font size=3D"3" face=3D"Times Ne=
+w Roman">EDDIE CYTRYN</font></a></p>
+<p><font size=3D"3" face=3D"Times New Roman">In accordance with a new PSA=
+L policy, pitchers will not be allowed to throw more than 105 pitches per=
+ game and must take a mandatory rest period afterward.<span style=3D"mso-=
+spacerun: yes">&nbsp; </span>The new regulations will place some teams at=
+ a disadvantage against teams with large rosters and deep bullpens.<span =
+style=3D"mso-spacerun: yes">&nbsp; </span>In addition, there is the quest=
+ion of how effectively the regulations can be enforced.</font></p>
+<p><u><font size=3D"3" face=3D"Times New Roman">The Perfect Season&hellip=
+; Again</font></u></p>
+<p><font size=3D"3" face=3D"Times New Roman">By </font><a href=3D"http://=
+stuyspectator.com/mail/lt.php?id=3DeUtWBVMLUR1ZAB9QV1I%3D" ><font size=3D=
+"3" face=3D"Times New Roman">TOBI IDOWU</font></a></p>
+<p><font size=3D"3" face=3D"Times New Roman">The Stuyvesant girls&rsquo; =
+volleyball team has not had one perfect regular season, but twelve.<span =
+style=3D"mso-spacerun: yes">&nbsp; </span>The Vixens clinched their 12th =
+straight perfect regular season in 2 quick sets against Seward Park on Mo=
+nday, November 8.</font></p>
+<p class=3D"MsoNormal" style=3D"line-height: normal; margin: 0in 0in 10pt=
+; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-outline-leve=
+l: 2"><u><span style=3D"mso-bidi-font-weight: bold; mso-bidi-font-size: 1=
+2.0pt; mso-fareast-font-family: 'Times New Roman'"><font size=3D"3"><font=
+ face=3D"Times New Roman">Despite Second Straight Disappointing Season, M=
+imbas Remain Optimistic<o:p></o:p></font></font></span></u></p>
+<p><font size=3D"3" face=3D"Times New Roman">By </font><a href=3D"http://=
+stuyspectator.com/mail/lt.php?id=3DeUtWBVMLVh1ZAB9QV1I%3D" ><font size=3D=
+"3" face=3D"Times New Roman">MAHTAB ALAM</font></a></p>
+<p><font size=3D"3" face=3D"Times New Roman">This is the second straight =
+year the Mimbas have failed to make the playoffs, following a 17-year str=
+eak in which they did.<span style=3D"mso-spacerun: yes">&nbsp; </span>Eve=
+n so, the girls remain positive about this year&rsquo;s experiences.</fon=
+t></p>
+<p><o:p><font size=3D"3" face=3D"Times New Roman">&nbsp;</font></o:p></p>
+<p>&nbsp;</p>
+</html><br /><br /><div class=3D"emailfooter">--<br />
+If you do not wish to receive any more newsletters, go to <a href=3D"http=
+://stuyspectator.com/mail/lt.php?id=3DeUtWBVMLVx1ZAB9QV1I%3D" >this link<=
+/a>.<br />
+To update your email address, visit <a href=3D"http://stuyspectator.com/m=
+ail/lt.php?id=3DeUtWBVMLVB1ZAB9QV1I%3D" >this link</a>.<br />
+To forward this message to someone, click on <a href=3D"http://stuyspecta=
+tor.com/mail/lt.php?id=3DeUtWBVMLVR1ZAB9QV1I%3D" >this link</a>.</div></b=
+ody>
+
+
+
+--b1_c296b2813f2b176e27df9efd57b17c3f--
+
+
+--6AE64254F65.1292524534/mfilter2.dimenoc.com--

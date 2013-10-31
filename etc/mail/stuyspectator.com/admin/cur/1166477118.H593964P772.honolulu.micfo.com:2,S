@@ -1,0 +1,44 @@
+Return-path: <dave.rutherford@gmail.com>
+Envelope-to: admin@stuyspectator.com
+Delivery-date: Mon, 18 Dec 2006 15:25:18 -0600
+Received: from ug-out-1314.google.com ([66.249.92.171]:52702)
+	by honolulu.micfo.com with esmtp (Exim 4.52)
+	id 1GwPz3-0000CN-H6
+	for admin@stuyspectator.com; Mon, 18 Dec 2006 15:25:17 -0600
+Received: by ug-out-1314.google.com with SMTP id j3so1511039ugf
+        for <admin@stuyspectator.com>; Mon, 18 Dec 2006 13:25:27 -0800 (PST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:sender:to:subject:mime-version:content-type:content-transfer-encoding:content-disposition:x-google-sender-auth;
+        b=dDg8UiJDXVCK82XeGNmwZYcyw/LvpkGfFOjkoC03PUaCBJ4WLuHStT/rrAtsuSbqQJclMKZ4aJC9kTneagxwCEa45nFzxDY1RKcYl257+VLbo5fZc2nTj1q1JMQyxi/wATdOeGf6t8Atv8/1TPt5HCbe5uq+2WeN/fSetcswBfg=
+Received: by 10.82.165.1 with SMTP id n1mr698929bue.1166477126642;
+        Mon, 18 Dec 2006 13:25:26 -0800 (PST)
+Received: by 10.82.188.9 with HTTP; Mon, 18 Dec 2006 13:25:26 -0800 (PST)
+Message-ID: <5fb589920612181325w6c4099b7ke18005c9111cab76@mail.gmail.com>
+Date: Mon, 18 Dec 2006 16:25:26 -0500
+From: "Dave Rutherford" <dave@evilpettingzoo.com>
+Sender: dave.rutherford@gmail.com
+To: admin@stuyspectator.com
+Subject: Comments on website
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+X-Google-Sender-Auth: e560330fd7776ba9
+X-Antivirus-Scanner: Clean mail though you should still use an Antivirus
+
+Hi,
+
+I noticed a few problems with your website.
+
+1.  Your search-by-date doesn't work.  I requested articles from
+September 2001 but all I got were articles from 2006.
+
+2.  You've prematurely updated your copyright date, unless
+my calendar is way off.  This is fraud, albeit really pretty minor.
+
+3.  A search term really shouldn't be required when doing a
+search-by-date.
+
+Best wishes,
+   Dave

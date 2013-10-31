@@ -1,0 +1,51 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 11 Nov 2012 21:50:59 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1TXk71-00021O-7b
+	for stuyspec@faith.micfo.com; Sun, 11 Nov 2012 21:50:59 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TXk71-00021O-7b@faith.micfo.com>
+Date: Sun, 11 Nov 2012 21:50:59 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TXk71-00021I-3i
+	for letters@stuyspectator.com; Sun, 11 Nov 2012 21:50:59 -0500
+To: letters@stuyspectator.com
+Subject: Displaced by Sandy
+X-PHP-Script: stuyspectator.com/index.php for 108.27.63.206
+Date: Mon, 12 Nov 2012 02:50:59 +0000
+From: Jen Hong <jh3310@columbia.edu>
+Message-ID: <4962f0c3f8d4c5bd7e086988bb7d3621@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+To Whom It May Concern; 
+
+I was reading testimonials of students affected by the storm.  I am a reporter at Columbia Journalism School and a Stuyvesant High School alum.  I am doing a story on people who had to evacuate and move in with family members and what that experience is like.  Do you know anyone who I might be able to contact?  Thank you in advance for your help and keep up the good work! 
+
+Best,
+Jen
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

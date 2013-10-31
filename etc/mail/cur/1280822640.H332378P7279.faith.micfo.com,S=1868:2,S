@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Tue, 03 Aug 2010 03:04:00 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1OgCTg-0001tF-72
+	for stuyspec@faith.micfo.com; Tue, 03 Aug 2010 03:04:00 -0500
+X-Failed-Recipients: buyfqweasdrq@gawab.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1OgCTg-0001tF-72@faith.micfo.com>
+Date: Tue, 03 Aug 2010 03:04:00 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  buyfqweasdrq@gawab.com
+    SMTP error from remote mail server after RCPT TO:<buyfqweasdrq@gawab.com>:
+    host mx3.gawab.com [66.220.20.53]: 550 5.1.1 Account disabled temporarly for exceeding receiving limits
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1OgBxC-0003W8-Sn
+	for buyfqweasdrq@gawab.com; Tue, 03 Aug 2010 02:30:26 -0500
+To: buyfqweasdrq@gawab.com
+Subject: [Stuy Shelf] Your username and password
+X-PHP-Script: stuyshelf.stuyspectator.com/wp-login.php for 78.84.176.12
+Date: Tue, 3 Aug 2010 07:30:26 +0000
+From: WordPress <wordpress@stuyshelf.stuyspectator.com>
+Message-ID: <a9e9801deca1b252d788bf2938f2e1b5@stuyshelf.stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: buyfqweasdrq
+Password: EOVzWX%osF)q
+http://stuyshelf.stuyspectator.com/wp-login.php
+

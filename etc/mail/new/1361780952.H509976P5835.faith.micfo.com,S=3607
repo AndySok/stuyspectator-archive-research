@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Mon, 25 Feb 2013 03:29:12 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1U9tQu-0001W1-Da
+	for stuyspec@faith.micfo.com; Mon, 25 Feb 2013 03:29:12 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1U9tQu-0001W1-Da@faith.micfo.com>
+Date: Mon, 25 Feb 2013 03:29:12 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1U9tQu-0001Vv-9b
+	for letters@stuyspectator.com; Mon, 25 Feb 2013 03:29:12 -0500
+To: letters@stuyspectator.com
+Subject: Letter to the Editor
+X-PHP-Script: stuyspectator.com/index.php for 108.182.81.46
+Date: Mon, 25 Feb 2013 08:29:12 +0000
+From: Victor Zapana <victor.a.zapana@gmail.com>
+Message-ID: <4656163394ed0be70052102065cfa27d@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+To the Editor:
+
+The editorial “It’s Time for a New Legacy” (Feb. 10, 2013) is deeply troubling. First, it connects two complicated subjects — racial diversity and legacy admissions — without justifying the link. Second, it subtly advocates for a numbers-based merit system, even though such a system would yield a student body whose quality would be lower than current standards. (College officials and social scientists who study admissions agree on this point.)
+
+Third, and perhaps most troubling, it claims an anti-Asian bias among college officials while ignoring important and convincing evidence suggesting otherwise.
+
+Enrollment data do not support the claim that there is a restrictive “Asian quota.” About 5 percent of Americans are of Asian descent, according to the 2010 U.S. Census. A similar ratio — 6 percent — of college students is Asian, according to the National Center for Education Statistics. But at Harvard, nearly 18 percent of undergraduates self-reported as Asian in 2011. The Asian share is similar at Yale, my alma mater: 16 percent. Harvard and Yale are not “restricting” access; rather, the schools are admitting a disproportionately high number of Asians.
+
+I ask the newspaper to scrutinize Stuyvesant’s 10 percent acceptance rate at Harvard. Is the college accepting 10 percent of Asian candidates? More than 10 percent? If the college were admitting significantly less, I’d be concerned. But I suspect that it isn’t, given that the vast majority of Stuyvesant students are Asian.
+
+Unfortunately, not every candidate can be offered a seat at top-tier schools. Admissions officials compare candidates from the same high school. Because of competition, a significant number of Asian students from Stuyvesant inevitably will not be admitted. This is more likely the consequence of going to a majority-Asian school than of suffering from some “Asian quota.”
+
+Best,
+Victor Zapana ’07
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

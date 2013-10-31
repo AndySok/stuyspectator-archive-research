@@ -1,0 +1,94 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Sun, 19 Dec 2010 23:11:13 -0500
+Received: from mail19b.g19.rapidsite.net ([204.202.242.88]:26360)
+	by faith.micfo.com with smtp (Exim 4.69)
+	id 1PUX5b-0008JK-CA
+	for stuyspec@faith.micfo.com; Sun, 19 Dec 2010 23:11:12 -0500
+From: Postmaster\@perschino.com
+To: stuyspec@faith.micfo.com
+Subject: Mail Delivery Failure
+X-Loop-Detect: 3
+X-Spam-Status: No, score=1.1
+X-Spam-Score: 11
+X-Spam-Bar: +
+X-Spam-Report: Spam detection software, running on the system "faith.micfo.com", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Delivery of email to this address "susan@perschino.com" has
+	failed. We have already made numerous attempts to deliver this message over
+	the last few days. [...] 
+	Content analysis details:   (1.1 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[204.202.242.88 listed in list.dnswl.org]
+	1.1 URI_HEX                URI: URI hostname has long hexadecimal sequence
+	-1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+	[score: 0.0000]
+	0.5 MISSING_MID            Missing Message-Id: header
+	1.4 MISSING_DATE           Missing Date: header
+X-Spam-Flag: NO
+
+Delivery of email to this address
+
+"susan@perschino.com"
+		
+has failed.  We have already made numerous attempts to
+deliver this message over the last few days.
+			
+Please try to send your message again at a later time.
+			
+The first 50 lines of your original message follow:> Received: from mx86.stngva01.us.mxservers.net (198.173.112.3)
+> 	by mail19b.g19.rapidsite.net (RS ver 1.0.95vs) with SMTP id 3-016639503
+> 	for <susan@perschino.com>; Sat, 11 Dec 2010 15:31:44 -0500 (EST)
+> Received: from unknown [72.29.67.235] (EHLO mfilter2.dimenoc.com)
+> 	by va1-mx86.stngva01.us.mxservers.net (mxl_mta-3.1.0-05)
+> 	with ESMTP id fafd30d4.2142239648.339418.00-008.va1-mx86.stngva01.us.mxservers.net (envelope-from <stuyspec@faith.micfo.com>);
+> 	Sat, 11 Dec 2010 15:31:43 -0500 (EST)
+> Received: from localhost (unknown [127.0.0.1])
+> 	by mfilter2.dimenoc.com (Postfix) with ESMTP id 66C05254AC2
+> 	for <susan@perschino.com>; Sat, 11 Dec 2010 20:07:07 +0000 (UTC)
+> X-Virus-Scanned: amavisd-new at mfilter2.dimenoc.com
+> Received: from mfilter2.dimenoc.com ([127.0.0.1])
+> 	by localhost (mfilter.dimenoc.com [127.0.0.1]) (amavisd-new, port 10024)
+> 	with ESMTP id PzgskVJtSehk for <susan@perschino.com>;
+> 	Sat, 11 Dec 2010 15:07:01 -0500 (EST)
+> Received: from faith.micfo.com (faith.micfo.com [67.23.244.190])
+> 	by mfilter2.dimenoc.com (Postfix) with ESMTP id B476E25493A
+> 	for <susan@perschino.com>; Sat, 11 Dec 2010 15:06:53 -0500 (EST)
+> Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+> 	(envelope-from <stuyspec@faith.micfo.com>)
+> 	id 1PRViU-0005Oa-QE
+> 	for susan@perschino.com; Sat, 11 Dec 2010 15:06:50 -0500
+> To: susan@perschino.com
+> Subject: The Spectator Newsletter Issue VI
+> X-PHP-Script: stuyspectator.com/mail/admin/index.php for 68.194.7.224
+> Recieved: 
+> Date: Sat, 11 Dec 2010 15:06:50 -0500
+> From: admin <comments@stuyspectator.com>
+> Message-ID: <e728436218a4da02b798fc3289ac3000@stuyspectator.com>
+> X-Priority: 3
+> X-Mailer: PHPMailer [version 1.73]
+> X-Mailer: phplist v2.10.10
+> X-MessageID: 88
+> X-ListMember: susan@perschino.com
+> Precedence: bulk
+> MIME-Version: 1.0
+> Content-Type: multipart/alternative;
+> 	boundary="b1_e728436218a4da02b798fc3289ac3000"
+> X-Spam: [F=0.2000000000; B=0.500(0); S=0.200(2010120101); MH=0.500(2010121107)]
+> X-MAIL-FROM: <stuyspec@faith.micfo.com>
+> X-SOURCE-IP: [72.29.67.235]
+> X-SF-Loop: 1
+> 
+> --b1_e728436218a4da02b798fc3289ac3000
+> Content-Type: text/plain; charset = "UTF-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Volume CI No. 6 | December 6, 2010 | "The Pulse of the Student Body"
+> 
+> A&E <http://stuyspectator.com/mail/lt.php?id=3DZUtWAVIAUR1ZAB9VVlM%3D>

@@ -1,0 +1,65 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Mon, 19 Nov 2012 02:54:38 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1TaMBi-0005Ec-Gj
+	for stuyspec@faith.micfo.com; Mon, 19 Nov 2012 02:54:38 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TaMBi-0005Ec-Gj@faith.micfo.com>
+Date: Mon, 19 Nov 2012 02:54:38 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TaMBi-0005EU-DI
+	for letters@stuyspectator.com; Mon, 19 Nov 2012 02:54:38 -0500
+To: letters@stuyspectator.com
+Subject: Infographic Submission: Women @Work
+X-PHP-Script: stuyspectator.com/index.php for 112.198.78.149
+Date: Mon, 19 Nov 2012 07:54:38 +0000
+From: Matthew Pelettier <mattpelletier@complianceandsafety.com>
+Message-ID: <ef4f303d85b0490d3c5aa1891a6c0938@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Hi there,
+
+I just read an article on  Independent Women you posted a 
+
+while back on your blog: http://stuyspectator.com/2011/06/03/independent-women/
+I thought you might be interested in a Women infographic we 
+
+just published, it's titled 'Women @Work', check it out: 
+
+http://complianceandsafety.com/blog/women-infographic-women-
+
+work/   
+
+If you like it, feel free to publish it on your site.
+
+Thanks a lot,
+
+Matthew Pelletier
+Director of Public Relations
+C&S Safety Training Videos 
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

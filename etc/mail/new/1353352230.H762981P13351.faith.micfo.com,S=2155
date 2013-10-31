@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Mon, 19 Nov 2012 14:10:30 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1TaWjm-0003TF-LL
+	for stuyspec@faith.micfo.com; Mon, 19 Nov 2012 14:10:30 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TaWjm-0003TF-LL@faith.micfo.com>
+Date: Mon, 19 Nov 2012 14:10:30 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TaWjm-0003T9-Hi
+	for letters@stuyspectator.com; Mon, 19 Nov 2012 14:10:30 -0500
+To: letters@stuyspectator.com
+Subject: Stuy Student News
+X-PHP-Script: stuyspectator.com/index.php for 66.202.133.170
+Date: Mon, 19 Nov 2012 19:10:30 +0000
+From: Ting Pen <tpen@echoed.com>
+Message-ID: <05b19885e78023580ea0a255d2fba043@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Hey guys,
+
+My name is Ting, and I graduated from Stuy, Class of 2001.
+
+I am emailing to see if you'd be interested in using our "Stories" app for the Spectator's site (for free). It’s an easy way for readers and students to upload pictures and share immediate news stories - similar to CNN iReport.
+
+We're in talks with NYU and several other campus newspapers, and I would LOVE to have the Spectator on board.
+
+Let me know if you have any questions!
+Ting
+
+(646) 770-3157
+tpen@echoed.com
+echoed.com/websites
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

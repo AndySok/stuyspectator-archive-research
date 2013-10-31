@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 06 Mar 2013 17:09:49 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1UDMWz-0006yB-Ta
+	for stuyspec@faith.micfo.com; Wed, 06 Mar 2013 17:09:49 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1UDMWz-0006yB-Ta@faith.micfo.com>
+Date: Wed, 06 Mar 2013 17:09:49 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1UDMWz-0006y2-PA
+	for letters@stuyspectator.com; Wed, 06 Mar 2013 17:09:49 -0500
+To: letters@stuyspectator.com
+Subject: Isssue #
+X-PHP-Script: stuyspectator.com/index.php for 99.147.122.110
+Date: Wed, 6 Mar 2013 22:09:49 +0000
+From: Gerald Bradshaw <gmbradshaw@sbcglobal.net>
+Message-ID: <eee2445d44df1ee3a40e2058044bf8b2@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Where do I find the Issue # on the online edition of the paper? 
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+

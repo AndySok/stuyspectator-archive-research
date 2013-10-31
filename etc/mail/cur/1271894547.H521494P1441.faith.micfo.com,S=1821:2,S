@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 21 Apr 2010 19:02:27 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.69)
+	id 1O4jsB-0000NC-Fl
+	for stuyspec@faith.micfo.com; Wed, 21 Apr 2010 19:02:27 -0500
+X-Failed-Recipients: wantedstefan@notowany.pl
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1O4jsB-0000NC-Fl@faith.micfo.com>
+Date: Wed, 21 Apr 2010 19:02:27 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  wantedstefan@notowany.pl
+    SMTP error from remote mail server after RCPT TO:<wantedstefan@notowany.pl>:
+    host mx5.go2.pl [193.17.41.45]: 500 No such user
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.69)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1O4js2-0000LI-MX
+	for wantedstefan@notowany.pl; Wed, 21 Apr 2010 19:02:18 -0500
+To: wantedstefan@notowany.pl
+Subject: [Stuy Shelf] Your username and password
+X-PHP-Script: stuyshelf.stuyspectator.com/wp-login.php for 208.53.170.49
+Date: Wed, 21 Apr 2010 19:02:18 -0500
+From: WordPress <wordpress@stuyshelf.stuyspectator.com>
+Message-ID: <780028bb7e43c526a539beb34e29dc73@stuyshelf.stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Username: Vilabong
+Password: cY^oc$s6mD6Y
+http://stuyshelf.stuyspectator.com/wp-login.php
+

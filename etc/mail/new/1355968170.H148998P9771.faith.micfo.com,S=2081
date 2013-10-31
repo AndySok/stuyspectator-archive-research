@@ -1,0 +1,51 @@
+Return-path: <>
+Envelope-to: stuyspec@faith.micfo.com
+Delivery-date: Wed, 19 Dec 2012 20:49:30 -0500
+Received: from mailnull by faith.micfo.com with local (Exim 4.80)
+	id 1TlVGM-0002XV-2g
+	for stuyspec@faith.micfo.com; Wed, 19 Dec 2012 20:49:30 -0500
+X-Failed-Recipients: letters@stuyspectator.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@faith.micfo.com>
+To: stuyspec@faith.micfo.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TlVGM-0002XV-2g@faith.micfo.com>
+Date: Wed, 19 Dec 2012 20:49:30 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  letters@stuyspectator.com
+    This spectator does not exist"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <stuyspec@faith.micfo.com>
+Received: from stuyspec by faith.micfo.com with local (Exim 4.80)
+	(envelope-from <stuyspec@faith.micfo.com>)
+	id 1TlVGL-0002XP-Uh
+	for letters@stuyspectator.com; Wed, 19 Dec 2012 20:49:29 -0500
+To: letters@stuyspectator.com
+Subject: Concern About Admittance into the Spectator
+X-PHP-Script: stuyspectator.com/index.php for 108.54.87.117
+Date: Thu, 20 Dec 2012 01:49:29 +0000
+From: Afshin Khan <thedoctorsociety@gmail.com>
+Message-ID: <4f6f38923926c36d060f9573b80382ed@stuyspectator.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Editor,
+
+      My name is Afshin Khan and I would like to know if it is too late to join the Stuyvesant Spectator Humor Section. I actually do like humor a ton and I was not able to attend any interest meeting. I realize it is unfortunate and a tad too late to ask now, but I would really like to join. I do believe I have a good sense of humor. Thank you for your time.
+
+From, 
+Afshin Khan
+
+--
+Sent directly via http://stuyspectator.com/contact/.
+
