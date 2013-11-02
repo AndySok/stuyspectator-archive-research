@@ -1,0 +1,34 @@
+<?php
+session_start();
+
+require_once('core.php');
+
+if (isset($_SESSION['email']))
+{
+    print "You're an editor for " . $_SESSION['cat'] . "! Below is the current pasteup for your division. Make any changes you would like. To view the entire pasteup, click 2<a href='pasteup.php'>here</a>";
+        print "<form name='update_pasteup' action='update_pasteup.php' method='post'>";
+        print "<table border='1'><tr><td>Article</td><td>Word count</td><td>Photo</td><td>Art</td><td>Lede</td><td>Comments</td><td>Modify</td><td>Delete</td></tr>";
+
+$sql = pull_div_pasteup($_SESSION['cat']);
+ while($row = mysql_fetch_array($sql)){ 
+
+    print "<tr>";
+    print "<td>" . $row['article'] . "</td>";
+    print "<td>" . $row['word_count'] . "</td>";
+    print "<td>". $row['photo'] . "</td>";
+    print "<td>". $row['art'] . "</td>";
+    print "<td>". $row['lede'] . "</td>";
+    print "<td>" . $row['comments'] . "</td>";
+    print '<td><a href ="mod_art.php?id=' . $row['id'] . '">Modify</a>';
+    print '<td><a href ="del_art.php?id=' . $row['id'] . '">Delete</a>';
+
+ }
+     print "</table></form>";
+     
+     print 'Want to add another article? Click <a href="mod_art.php">here</a>';
+}
+else
+{
+    print "Error must be logged in";
+}
+?>

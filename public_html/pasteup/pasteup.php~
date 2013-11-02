@@ -1,0 +1,30 @@
+<?php
+session_start();
+require_once('core.php');
+
+if ($_SESSION['email']){
+print 'Welcome ' . $_SESSION['name'] . ' <a href="my_pasteup.php">View/edit my pasteup</a>';
+if ($_SESSION['access_level'] == 4)
+{
+    print "Admin shit";
+}
+
+
+    $sql = pull_whole_pasteup();
+        print "<table border='1'><tr><td><b>Division</b></td><td><b>Article</b></td><td><b>Word count</b></td><td><b>Photo</b></td><td><b>Art</b></td><td><b>Lede</b></td><td><b>Comments</b></td></tr></b>";
+    while($row = mysql_fetch_array($sql)){ 
+
+        print "<tr>";
+        print "<td>" . $row['cat'] . "</td>";
+        print "<td>" . $row['article'] . "</td>";
+        print "<td>" . $row['word_count'] . "</td>";
+        print "<td>" . $row['photo'] . "</td>";
+        print "<td>" . $row['art'] . "</td>";
+        print "<td>" . $row['lede'] . "</td>";
+        print "<td>" . $row['comments'] . "</td></tr>";
+
+    }
+     print "</table>";
+}
+
+?>
