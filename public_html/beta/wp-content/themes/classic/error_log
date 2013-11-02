@@ -1,0 +1,8 @@
+[14-Dec-2008 16:24:19] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/classic/index.php on line 2
+[20-Dec-2008 17:36:09] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/classic/index.php on line 2
+[24-Dec-2008 23:23:46] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/classic/index.php on line 2
+[29-Dec-2008 02:03:24] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/classic/index.php on line 2
+[23-Apr-2009 00:34:57] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/classic/index.php on line 2
+[30-Jul-2009 19:33:57] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/beta/wp-content/themes/classic/index.php on line 2
+[14-Aug-2009 05:19:54] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/beta/wp-content/themes/classic/index.php on line 2
+[02-Sep-2009 07:19:44] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/beta/wp-content/themes/classic/index.php on line 2
