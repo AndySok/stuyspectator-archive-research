@@ -1,0 +1,112 @@
+<span class="FAQTitle">Installation</span>
+<br />
+<span class="FAQuestion">Q - I've activated Post-Thumb, need I do anything now?</span>
+<span class="FAQAnswer">A - Yes, you need to go to the options screen and set-up options. You need to do it in order for Post-Thumb to work properly. First thing to check here is your server confiuration. Post-Thumb requires GD library version 2 installed on server.</span>
+<br />
+<span class="FAQuestion">Q - There are others things in the "System check" section...</span>
+<span class="FAQAnswer">A - To be able to use remote files, you will need php higher than 4.3.0 and init_fopen_url set to true.</span>
+<br />
+<span class="FAQuestion">Q - I'm on the option screen and get an error message.</span>
+<span class="FAQAnswer">A - First thing you need to setup is "Base path" and "Full domain name". This is done in the "Location settings" section.</span>
+<br />
+
+
+<span class="FAQTitle">Basic Usage</span>
+<br />
+<span class="FAQuestion">Q - How can I show a thumbnail for each post on my blog page?</span>
+<span class="FAQAnswer">A - Ah! There, you will have to modify your theme template. A typical (aka default aka kubrick) index.php file shows the Loop like this:
+<pre><code markup="none">
+<?php while (have_posts()) : the_post(); ?>
+	<div class="post" id="post-<?php the_ID(); ?>">
+		<h2><a href="<?php the_permalink() ?>" rel="bookmark" title="Permalink to <?php the_title(); ?>"><?php the_title(); ?></a></h2>
+		<small><?php the_time('j F Y') ?> <!-- par <?php the_author() ?> --></small>
+		<div class="entry">
+			<?php the_content('Read the post &raquo;'); ?>
+		</div>
+		<p class="postmetadata">Published in <?php the_category(', ') ?> | <?php edit_post_link('Edit', '', ' | '); ?>  <?php comments_popup_link('No comment »', '1 comment »', '% comments »', 'comments-link', 'Comments are closed'); ?></p>
+	</div>
+<?php endwhile; ?>
+</code></pre>
+<br />
+Just insert: <pre class="inline"><code markup="none"><?php the_thumb(); ?></code></pre> were you want it to appear.
+In order to be consistent with a thumbnail presentation, you will also have to change the display of the post content.
+For this, use the_excerpt. This way:
+<pre><code markup="none">
+<?php while (have_posts()) : the_post(); ?>
+	<div class="post" id="post-<?php the_ID(); ?>">
+		<h2><a href="<?php the_permalink() ?>" rel="bookmark" title="Permalink to <?php the_title(); ?>"><?php the_title(); ?></a></h2>
+		<small><?php the_time('j F Y') ?> <!-- par <?php the_author() ?> --></small>
+		<div class="entry">
+			<?php the_thumb(); ?>
+			<?php the_excerpt(); ?>
+		</div>
+		<p class="postmetadata">Published in <?php the_category(', ') ?> | <?php edit_post_link('Edit', '', ' | '); ?>  <?php comments_popup_link('No comment »', '1 comment »', '% comments »', 'comments-link', 'Comments are closed'); ?></p>
+	</div>
+<?php endwhile; ?>
+</code></pre>
+<br />
+</span>
+<span class="FAQuestion">Q - Duh! I've put the_thumb in my loop, but the result is awful.</span>
+<span class="FAQAnswer">A - Ah, yes, you've just inserted the thumbnail. Formatting display is another thing.
+Post-Thumb has several way for you to adjust display the way you want:
+	1. The most straightforward: use the post display class and adapt CSS. Example with kubrick theme: .entry img & .entry a img
+	2. You can wrap the_thumb() with whatever html tag you want and adapt CSS.
+	3. You can add a specific class to the thumb like this: <pre class="inline"><code markup="none"><?php the_thumb('myclassimg=myclass'); ?></code></pre> and adapt CSS.
+	4. If you don't want to go into CSS, you can also use the ALIGN parameter: <pre class="inline"><code markup="none"><?php the_thumb('align=left'); ?></code></pre>. However, be aware that this syntax is not xhtml compliant.
+        </span>
+<br />
+
+<span class="FAQTitle">Sidebar Usage</span>
+<br />
+<span class="FAQuestion">Q - How can I display the most recent posts in the sidebar?</span>
+<span class="FAQAnswer">A - If your theme is widget ready, you can use the pt-recent widget.
+If not, just insert: <pre class="inline"><code markup="none"><?php the_recent_thumbs(); ?></code></pre> were you want it to appear.</span>
+<br />
+
+<span class="FAQuestion">Q - I've added <pre class="inline"><code markup="none"><?php the_recent_thumbs(); ?></code></pre> in my sidebar, but it's far from what I expected.</span>
+<span class="FAQAnswer">A - Okay, you've done the most difficult, don't give up now!
+Now go to your option screen and read carefully each option in order to adjust the display to whatever you want.</span>
+<br />
+
+<span class="FAQuestion">Q - I've changed the <pre class="inline"><code markup="none"><any display option></code></pre> option on the option screen, but nothing has changed.</span>
+<span class="FAQAnswer">A - Well, each time you refresh a page, Post-Thumb automatically calculates the thumbnails of the page and check if they exist. If they do, it doesn't create them but retrieves them from the server. This is a way to save resources by not loading images and calling graphic routines each time.
+So, if you change a display option, you need to delete the existing thumbnails (and then, your browser cache) to see the changes.</span>
+<br />
+
+<span class="FAQuestion">Q - I've deleted the old thumbnails, but they still appear!</span>
+<span class="FAQAnswer">A - Have you cleared your browser cache?</span>
+<br />
+
+<span class="FAQuestion">Q - So you say I need to delete the thumbnails. Isn't that risky?</span>
+<span class="FAQAnswer">A - Not at all. They were created by Post-Thumb. And what it has created once, it can create it again and again. It will just slow down your page first time it's refreshed, but no other consequences.</span>
+<br />
+
+<span class="FAQuestion">Q - I've set-up everything. It works fine except that it's a real mess!</span>
+<span class="FAQAnswer">A - Well, we have a CSS issue there. It's not really possible to have a unique code to insert in a blog because there are so many different themes and different CSS. Formatting has several ways to go. 
+The function call can use some parameters like this:
+<pre><code markup="none"><?php the_recent_thumbs('blabla�', 'tag1', 'tag2', 'tag3', 'tag4'); ?></code></pre>
+<br />
+Tag1 will be inserted before each thumb, tag2 after each thumb, tag3 before the whole display, tag4 after the whole display.
+Example:
+<pre><code markup="none"><?php the_recent_thumbs('', '<li>', '</li>', '<ul>', '</ul>'); ?></code></pre>
+In addition to this, you can use MYCLASSHREF and MYCLASSIMG parameters which add a class to resp. the href link and the img src.</span>
+<br />
+
+<span class="FAQuestion">Q - How not to use highslide effects?</span>
+<span class="FAQAnswer">A - Uncheck "Use highslide" in "Highslide settings" on Options screen.</span>
+<br />
+
+<span class="FAQuestion">Q - How to have square thumbnail?</span>
+<span class="FAQAnswer">A - Uncheck "keep ratio" in "Image settings" on Options screen. Use same width and height in "Resize width x height" option.</span>
+<br />
+
+<span class="FAQuestion">Q - How to display a list of random thumbnails in the sidebar?</span>
+<span class="FAQAnswer">A - insert this code: <pre class="inline"><code markup="none"><?php the_random_thumb(); ?></code></pre>.</span>
+<br />
+
+<span class="FAQTitle">Advanced Usage</span>
+<br />
+<span class="FAQuestion">Q - I'm using the recent widget (or get_recent_thumb) in my sidebar, but I get a vertical list of thumbnails.</span>
+<span class="FAQAnswer">A - You need to add some CSS in your theme's style.css file like .wid_recent li { float: left; } or else.</span>
+<br />
+
