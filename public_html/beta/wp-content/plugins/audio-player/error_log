@@ -1,9 +1,0 @@
-[14-Dec-2008 21:00:37] PHP Fatal error:  Call to undefined function add_option() in /home/stuyspec/public_html/beta/wp-content/plugins/audio-player/audio-player.php on line 98
-[24-Dec-2008 19:34:37] PHP Fatal error:  Call to undefined function add_option() in /home/stuyspec/public_html/beta/wp-content/plugins/audio-player/audio-player.php on line 98
-[29-Dec-2008 02:38:59] PHP Fatal error:  Call to undefined function add_option() in /home/stuyspec/public_html/beta/wp-content/plugins/audio-player/audio-player.php on line 98
-[29-Jul-2009 00:34:02] PHP Fatal error:  Call to undefined function  add_option() in /home/stuyspec/public_html/beta/wp-content/plugins/audio-player/audio-player.php on line 98
-[14-Aug-2009 14:05:00] PHP Fatal error:  Call to undefined function  add_option() in /home/stuyspec/public_html/beta/wp-content/plugins/audio-player/audio-player.php on line 98
-[11-May-2011 09:36:36] PHP Fatal error:  Call to undefined function add_option() in /home/stuyspec/public_html/beta/wp-content/plugins/audio-player/audio-player.php on line 98
-[14-May-2011 21:31:22] PHP Fatal error:  Call to undefined function add_option() in /home/stuyspec/public_html/beta/wp-content/plugins/audio-player/audio-player.php on line 98
-[17-May-2011 20:09:24] PHP Fatal error:  Call to undefined function add_option() in /home/stuyspec/public_html/beta/wp-content/plugins/audio-player/audio-player.php on line 98
-[20-May-2011 19:37:03] PHP Fatal error:  Call to undefined function add_option() in /home/stuyspec/public_html/beta/wp-content/plugins/audio-player/audio-player.php on line 98

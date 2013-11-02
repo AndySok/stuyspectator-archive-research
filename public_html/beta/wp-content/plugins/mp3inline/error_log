@@ -1,9 +1,0 @@
-[14-Dec-2008 21:04:17] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/beta/wp-content/plugins/mp3inline/mp3inline.php on line 39
-[22-Dec-2008 20:20:43] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/beta/wp-content/plugins/mp3inline/mp3inline.php on line 39
-[27-Dec-2008 01:48:19] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/beta/wp-content/plugins/mp3inline/mp3inline.php on line 39
-[22-Apr-2009 19:46:18] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/beta/wp-content/plugins/mp3inline/mp3inline.php on line 39
-[14-Aug-2009 13:37:30] PHP Fatal error:  Call to undefined function  add_action() in /home/stuyspec/public_html/beta/wp-content/plugins/mp3inline/mp3inline.php on line 39
-[29-Apr-2011 02:36:15] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/beta/wp-content/plugins/mp3inline/mp3inline.php on line 39
-[02-May-2011 02:27:25] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/beta/wp-content/plugins/mp3inline/mp3inline.php on line 39
-[04-May-2011 05:25:49] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/beta/wp-content/plugins/mp3inline/mp3inline.php on line 39
-[07-May-2011 04:18:37] PHP Fatal error:  Call to undefined function add_action() in /home/stuyspec/public_html/beta/wp-content/plugins/mp3inline/mp3inline.php on line 39

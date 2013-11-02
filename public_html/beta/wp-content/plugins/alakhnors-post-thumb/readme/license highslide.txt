@@ -1,9 +1,0 @@
-Highslide JS is licensed under a Creative Commons Attribution-NonCommercial 2.5 License: http://creativecommons.org/licenses/by-nc/2.5/
-
-By entering a domain name above and paying the fee, you get the author's permission to use the script under the specified domain name. 
-
-The permission is valid for all future upgrades of Highslide JS. 
-
-Contact the author: http://vikjavev.no/megsjol/ for group licence or distribution permission.
-
-Highslide site: http://vikjavev.no/highslide/
