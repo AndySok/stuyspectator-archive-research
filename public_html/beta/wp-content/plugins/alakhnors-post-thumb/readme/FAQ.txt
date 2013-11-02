@@ -1,0 +1,60 @@
+Post-Thumb's FAQ
+
+This guide is:
+1/ A work in progress
+2/ Supposed to give you answer, or at least hints on "How to"
+
+
+Troubleshooting
+
+Q - I've installed Post-Thumb, but nothing happens.
+A - Check your "Base path" and "Full domain name" in options screen.
+
+
+Usage
+
+Q - How can I display the most recent posts in the sidebar?
+A - If your theme is widget ready, you can use the pt-recent widget.
+If not, just insert: <?php echo get_recent_thumbs(); ?> were you want it to appear.
+
+Q - I've added <?php get_recent_thumbs(); ?> in my sidebar, but it's far from what I expected. 9
+A - Okay, you've done the most difficult, don't give up now!
+Now go to your option screen and read carefully each option in order to adjust the display to whatever you want.
+
+Q - I've changed the <any display option> option on the option screen, but nothing has changed.
+A - Well, each time you refresh a page, Post-Thumb automatically calculates the thumbnail and check if it exists. If it does, it doesn't create it but retrieves it from the server. This is to save resources.
+So, if you change a display option, you need to delete the existing thumbnails (and then, very often, your browser cache) to see the changes.
+
+Q - I've deleted the old thumbnails, but they still appear!
+A - Have you cleared your browser cache?
+
+Q - So you say I need to delete the thumbnails. Isn't that risky?
+A - Not at all. They were created by Post-Thumb. And what it has created once, it can create it again and again. It will just slow down your page first time it's refreshed, but no other consequences.
+
+Q - I've set-up everything. It works fine except that it's a real mess!
+A - Well, we have CSS issue there. It's not really possible to have a unique code to insert in any blog because there are so many different themes and different CSS. Formatting has several ways to go. The function call can use some parameters like this: 
+<? get_recent_thumbs('blabla…', 'tag1', 'tag2', 'tag3', 'tag4'); ?>
+Tag1 will be inserted before each thumb, tag2 after each thumb, tag3 before the whole display, tag4 after the whole display.
+Example: <? get_recent_thumbs('', '<li>', '</li>', '<ul>', '</ul>'); ?>
+In addition to this, you can use MYCLASSHREF and MYCLASSIMG parameters which add a class to resp. the href link and the img src.
+
+Q - How not to use highslide effects
+A - Uncheck "Use highslide" in "Highslide settings" on Options screen.
+
+Q - How to have square thumbnail
+A - Uncheck "keep ratio" in "Image settings" on Options screen. Use same width and height in "Resize width x height" option.
+
+Q - How to display a list of thumbnails in the sidebar
+A - insert this code: <?php get_recent_thumbs(); ?>
+
+Q - How to display a thumbnail plus an excerpt in the Loop?
+A - insert this code: <?php pt_the_excerpt(); ?> in place of <?php the_content(); ?> line.
+
+
+Advanced users
+
+Q - I'm using the recent widget (or get_recent_thumb) in my sidebar, but I get a vertical list of thumbnails
+A - You need to add some CSS in your theme's style.css file like .wid_recent li { float: left; } or else.
+
+
+
