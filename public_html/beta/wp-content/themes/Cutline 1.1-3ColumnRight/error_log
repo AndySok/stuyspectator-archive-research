@@ -1,0 +1,8 @@
+[14-Dec-2008 19:13:34] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/Cutline 1.1-3ColumnRight/index.php on line 1
+[23-Dec-2008 21:19:18] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/Cutline 1.1-3ColumnRight/index.php on line 1
+[27-Dec-2008 23:40:58] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/Cutline 1.1-3ColumnRight/index.php on line 1
+[14-Aug-2009 06:31:52] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/beta/wp-content/themes/Cutline 1.1-3ColumnRight/index.php on line 1
+[03-May-2011 01:02:18] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/Cutline 1.1-3ColumnRight/index.php on line 1
+[04-May-2011 04:01:29] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/Cutline 1.1-3ColumnRight/index.php on line 1
+[07-May-2011 03:28:52] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/Cutline 1.1-3ColumnRight/index.php on line 1
+[10-May-2011 23:23:13] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/beta/wp-content/themes/Cutline 1.1-3ColumnRight/index.php on line 1

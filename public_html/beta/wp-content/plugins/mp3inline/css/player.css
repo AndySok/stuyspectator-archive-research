@@ -1,0 +1,39 @@
+a.silent {
+    padding : 1px 20px 1px 2px; 
+    background: transparent url(/wp-content/plugins/mp3inline/images/phones.gif) no-repeat center right; 
+    white-space: nowrap !important;
+}
+
+a.playing {
+    text-decoration : none ! important; 
+    background: transparent url(/wp-content/plugins/mp3inline/images/aniphones.gif) no-repeat center right;
+
+    vertical-align : top; 
+    color : #000 ! important; 
+    background-color : #ccc ! important; 
+    padding : 1px 20px 1px 2px;
+    border-style : solid; 
+    border-color: #000000; 
+    border-width : 1px 1px 1px 1px;
+    white-space: nowrap !important;
+}
+
+#slider { 
+    z-index : 10; 
+    cursor:pointer; 
+}
+
+#handle1 { 
+    z-index : 9;
+    position : absolute;
+    width:28px; 
+    color:#000;
+    background-color:#ccc; 
+    font-size:10px; 
+    font-weight : bold; 
+    text-align:center; 
+    cursor:pointer; 
+    border-style : solid; 
+    border-color: #000000; 
+    border-width : 1px 1px 0px 1px; 
+}
