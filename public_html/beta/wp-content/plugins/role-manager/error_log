@@ -1,0 +1,6 @@
+[14-Dec-2008 21:07:13] PHP Fatal error:  Call to undefined function load_plugin_textdomain() in /home/stuyspec/public_html/beta/wp-content/plugins/role-manager/role-manager.php on line 20
+[24-Dec-2008 20:38:49] PHP Fatal error:  Call to undefined function load_plugin_textdomain() in /home/stuyspec/public_html/beta/wp-content/plugins/role-manager/role-manager.php on line 20
+[29-Dec-2008 02:55:59] PHP Fatal error:  Call to undefined function load_plugin_textdomain() in /home/stuyspec/public_html/beta/wp-content/plugins/role-manager/role-manager.php on line 20
+[23-Apr-2009 21:13:53] PHP Fatal error:  Call to undefined function load_plugin_textdomain() in /home/stuyspec/public_html/beta/wp-content/plugins/role-manager/role-manager.php on line 20
+[14-Aug-2009 14:05:48] PHP Fatal error:  Call to undefined function  load_plugin_textdomain() in /home/stuyspec/public_html/beta/wp-content/plugins/role-manager/role-manager.php on line 20
+[07-Sep-2009 15:59:04] PHP Fatal error:  Call to undefined function  load_plugin_textdomain() in /home/stuyspec/public_html/beta/wp-content/plugins/role-manager/role-manager.php on line 20
