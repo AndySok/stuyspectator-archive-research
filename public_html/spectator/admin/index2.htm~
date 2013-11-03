@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+
+  <frameset cols="*" frameborder="YES" border="1" framespacing="0" rows="30%,*"> 
+    <frame name="topframe" scrolling="NO" src="navigation.cgi">
+    <frame name="mainFrame" src="blank.htm">
+  </frameset>
+
+<noframes><body bgcolor="#FFFFFF">
+
+</body></noframes>
+</html>

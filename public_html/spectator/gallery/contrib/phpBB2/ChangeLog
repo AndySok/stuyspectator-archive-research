@@ -1,0 +1,80 @@
+2004-07-20  Jens A. Tkotz <jens@peino.de>  1.4.4-RC3-cvs-b2
+
+        * Fix: Adapted contrib/phpBB2/modules.php to fit with phpBB2 2.0.9/10
+               and Register Globals ON.
+
+2004-07-15  Jens A. Tkotz <jens@peino.de>  1.4.4-RC2-cvs-b18
+
+        * Change: Adapted contrib/phpBB2/modules.php to fit with phpBB2 2.0.9
+
+2004-05-19  Jay Rossiter <cryptographite@users.sf.net>  1.4.4-cvs-b130
+
+        * Change: Add missing text to phpBB2 manual-howto.
+
+2004-01-23 Jens Tkotz <jens@peino.de> 1.4.3-cvs-b3
+
+        * New: added contrib folder with subfolder phpBB2 with documentation
+               and files for phpBB2.
+
+2004-01-09 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j16
+
+	* Added link to forum overview. Similar like in phpBB2.
+
+2003-12-14 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j15
+
+	* Corrected blank lines in header in captionator.php and view_comments.php.
+
+2003-12-02 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j14
+
+2003-11-28 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j13
+
+2003-11-28 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j12
+
+2003-11-26 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j11
+
+	* New: Gallery now uses phpBB2's language (only this).
+
+2003-11-26 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j10
+
+	* New: Rewrite of fitToWindow. Now works in phpBb2 also.
+
+	* Change: Begin modify initLanguage.
+
+2003-11-24 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j9
+
+	* Bugfix: Removed a blank line between a closing and opening PHP Tag.
+		  This broke slideshow		
+
+2003-11-24 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j8
+
+
+2003-11-22 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j7
+
+	* New: Anonymous user are not longer "welcomed".
+
+2003-11-22 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j6
+
+	* New: Handle header and footer correct.
+
+2003-11-22 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j5
+
+	* New: Handle SID in makeGalleryURL.
+
+2003-11-22 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j4
+
+	* New: Integrated code to init.php so that Gallery knows the phpBB2 user.
+
+2003-11-20 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j3
+
+	* New: First primitive integration works
+
+2003-11-19 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j2
+
+
+****************************************************************************
+
+2003-11-18 Jens Tkotz <jens@peino.de> 1.4.2-phpBB2-cvs-j1 /  1.4.2-cvs-b22
+
+	* New: Start phpBB2 branch (again)
+
+****************************************************************************

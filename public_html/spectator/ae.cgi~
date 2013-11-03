@@ -1,0 +1,61 @@
+#!/usr/bin/perl
+
+##########################
+### INCLUDES AND STUFF ###
+##########################
+use CGI qw/:param/;
+#require "templates.pl";
+require "template2.pl";
+require "tools.pl";
+print "Content-type: text/html\n\n";
+use DBI;
+
+######################
+### DATA RETRIEVAL ###
+######################
+&connect_to_db;
+$ary=&do_sql("select headline,author,date_format(date,\"%b %e\"),content,summary,pic_file,id from articles where section=\"ae\" and type!=\"creative\" and priority>=0 order by priority desc, date desc limit 8");
+
+$creative=&do_sql("select headline,author,date_format(date,\"%b %e\"),content,summary,pic_file,id from articles where section=\"ae\" and type=\"creative\" and priority>=0 order by priority desc, date desc limit 2");
+
+###################
+### HTML OUTPUT ###
+###################
+&print_top("Arts & Entertainment","Arts & Entertainment","ae.cgi");
+&wholepage_start;
+&leftbar_start;
+&leftnavtable;
+&leftbar_end;
+&maincontent_start;
+&contenttable2_start;
+&col1_start();
+&special_article(350,145,$ary,0);
+print "<hr>";
+&generic_article(350,$ary,2);
+print "<hr>";
+&generic_article(350,$ary,3);
+&col1_end;
+
+&col2_start(270);
+
+print qq|<font class="content"><font color="red"><b>CREATIVE SUBMISSION</b></font></font><br>|;
+&headline_link($creative,0);
+print "<hr size=\"1\" noshade>";
+
+print qq|<font class="content"><font color="red"><b>CREATIVE SUBMISSION</b></font></font><br>|;
+&headline_link($creative,1);
+print "<hr size=\"1\" noshade>";
+&headline_link($ary,1);
+print "<hr size=\"1\" noshade>";
+&headline_link($ary,5);
+print "<hr size=\"1\" noshade>";
+
+
+&generic_article(270,$ary,4);
+
+
+&col2_end;
+&contenttable2_end;
+&maincontent_end;
+&wholepage_end;
+&footer;
