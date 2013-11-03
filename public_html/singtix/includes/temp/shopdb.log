@@ -1,0 +1,91 @@
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Admin`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Admin' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Control`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Control' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `SPoint`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.SPoint' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `auth`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.auth' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `User`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.User' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Category`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Category' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Category_stat`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Category_stat' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `CC_Info`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.CC_Info' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Color`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Color' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Discount`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Discount' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Event`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Event' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Event_group`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Event_group' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Event_stat`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Event_stat' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Handling`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Handling' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Order`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Order' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Organizer`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Organizer' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Ort`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Ort' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `PlaceMap2`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.PlaceMap2' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `PlaceMapPart`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.PlaceMapPart' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `PlaceMapZone`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.PlaceMapZone' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Seat`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Seat' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `ShopConfig`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.ShopConfig' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Template`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Template' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Payment_log`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Payment_log' doesn't exist
+2010-01-23T23:45:24-06:00 [Error: 1146] SHOW CREATE TABLE `Sessions`
+2010-01-23T23:45:24-06:00 Table 'stuyspec_tix.Sessions' doesn't exist
+2010-01-23T23:50:26-06:00 [Error: 1146] 
+	SELECT 'Seats Missing', event_id, 'cat_id', category_id
+	FROM event e  left join Category c on category_event_id = event_id
+	WHERE e.event_id > 0
+		AND lower(e.event_status) <> 'unpub'
+		AND lower(e.event_rep) LIKE ('%sub%')
+		AND category_size <> (SELECT count(seat_id) FROM seat s WHERE s.seat_event_id = e.event_id and s.seat_category_id = category_id )
+
+2010-01-23T23:50:26-06:00 Table 'stuyspec_tix.event' doesn't exist
+2010-01-23T23:54:02-06:00 [Begin Reservate seats]
+2010-01-23T23:54:02-06:00 [Commit Seats reservated]
+2010-01-23T23:55:39-06:00 [Begin Make order]
+2010-01-23T23:55:39-06:00 UPDATE `Order` SET order_status='ord'  WHERE order_id='4'
+2010-01-23T23:55:39-06:00 [Commit Order created]
+2010-01-24T00:10:05-06:00 [Begin Publish Event]
+2010-01-24T00:10:05-06:00 [Commit Event publised]
+2010-01-24T00:10:05-06:00 [Begin Publish Event]
+2010-01-24T00:10:05-06:00 [Commit Event publised]
+2010-01-24T00:10:05-06:00 [Begin Publish Event]
+2010-01-24T00:10:05-06:00 [Commit Event publised]
+2010-01-24T00:10:46-06:00 [Begin change event_state]
+2010-01-24T00:10:46-06:00 [Commit Event_state changed]
+2010-01-24T00:10:57-06:00 [Begin change event_state]
+2010-01-24T00:10:57-06:00 [Commit Event_state changed]
+2010-01-24T00:11:03-06:00 [Begin change event_state]
+2010-01-24T00:11:03-06:00 [Commit Event_state changed]
+2010-01-24T00:12:34-06:00 [Begin change event_state]
+2010-01-24T00:12:34-06:00 [Commit Event_state changed]
+2010-01-24T00:12:38-06:00 [Begin change event_state]
+2010-01-24T00:12:38-06:00 [Commit Event_state changed]
+2010-01-24T00:12:43-06:00 [Begin change event_state]
+2010-01-24T00:12:43-06:00 [Commit Event_state changed]
+2010-01-24T01:04:43-06:00 Can load Order '461', check of it exist.
+2010-01-24T01:08:11-06:00 Can load Order '461', check of it exist.
+2010-01-24T01:08:35-06:00 Can load Order '461', check of it exist.
+2010-01-24T01:23:27-06:00 [Begin Trash Event]
+2010-01-24T01:23:27-06:00 [Commit Event_trashed]
+2010-01-24T01:23:42-06:00 [Begin Delete event: 4]
+2010-01-24T01:23:42-06:00 [Commit Event deleted]
+2010-01-24T01:23:42-06:00 [Begin Delete event: 5]
+2010-01-24T01:23:42-06:00 [Commit Event deleted]
