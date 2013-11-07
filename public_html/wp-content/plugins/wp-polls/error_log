@@ -1,0 +1,17 @@
+[27-Sep-2012 09:30:31] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-manager.php on line 21
+[27-Sep-2012 09:30:33] PHP Fatal error:  Call to undefined function  add_action() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/wp-polls.php on line 32
+[27-Sep-2012 09:30:34] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-logs.php on line 21
+[27-Sep-2012 09:30:35] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-uninstall.php on line 21
+[27-Sep-2012 09:30:36] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-add.php on line 21
+[27-Sep-2012 09:30:39] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-templates.php on line 21
+[16-Jan-2013 10:45:42] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-manager.php on line 21
+[16-Jan-2013 10:45:44] PHP Fatal error:  Call to undefined function  add_action() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/wp-polls.php on line 32
+[16-Jan-2013 10:45:45] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-logs.php on line 21
+[16-Jan-2013 10:45:46] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-uninstall.php on line 21
+[16-Jan-2013 10:45:52] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-add.php on line 21
+[16-Jan-2013 10:48:47] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-templates.php on line 21
+[09-Feb-2013 15:09:58] PHP Fatal error:  Call to undefined function  add_action() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/wp-polls.php on line 32
+[25-Apr-2013 21:01:29] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-manager.php on line 21
+[25-Apr-2013 21:31:07] PHP Fatal error:  Call to undefined function  current_user_can() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/polls-templates.php on line 21
+[22-May-2013 17:30:17] PHP Fatal error:  Call to undefined function  add_action() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/wp-polls.php on line 32
+[29-Aug-2013 23:21:20] PHP Fatal error:  Call to undefined function  add_action() in /home/stuyspec/public_html/wp-content/plugins/wp-polls/wp-polls.php on line 32
