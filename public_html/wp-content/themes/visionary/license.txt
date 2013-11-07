@@ -1,0 +1,14 @@
+This license grants you limited non-exclusive use of the Visionary WordPress theme.
+
+* You may use this theme on any number of websites or blogs that you own or run.
+* You may not use it for a client's website, unless it is work you're not paid for.
+* You may not remove the credit message in the footer.php file, which is "Visionary theme by Justin Tadlock." You may not edit any part of this message, which includes text and link, or hide it by using PHP, CSS, or by using anything else. The credit message must be visible at all times on your site or blog, unless you've purchased Credit Removal (email me for details on removing credits).
+* Excluding the credit message, you may modify this theme as you see fit.
+* Modified or unmodified, you may not redistribute or resell this theme.
+* Modified or unmodified, you may not claim intellectual and / or exclusive ownership of this theme.
+
+The Visionary theme is provided "as is" without warranty of any kind, either expressed or implied.
+
+This in no way prohibits the use of advertising on your site or blog if you use this theme, provided that you leave the credit links intact.  You may also run a commercial site and use this theme.
+
+This license does not cover the FamFamFam icons used in the theme nor the jQuery file included.  All other files are under this license.
