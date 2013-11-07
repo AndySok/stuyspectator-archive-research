@@ -1,0 +1,9 @@
+[24-Oct-2009 20:24:08] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/wp-content/themes/tma/index.php on line 1
+[12-Dec-2009 06:44:55] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/wp-content/themes/tma/index.php on line 1
+[13-Jun-2010 17:25:06] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/wp-content/themes/tma/index.php on line 1
+[13-Jun-2010 17:25:12] PHP Fatal error:  Call to undefined function bloginfo() in /home/stuyspec/public_html/wp-content/themes/tma/header.php on line 8
+[13-May-2012 04:11:38] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/wp-content/themes/tma/index.php on line 1
+[24-Jan-2013 06:04:05] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/wp-content/themes/tma/index.php on line 1
+[21-Mar-2013 21:47:26] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/wp-content/themes/tma/index.php on line 1
+[23-Oct-2013 19:39:22] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/wp-content/themes/tma/home.php on line 1
+[23-Oct-2013 19:39:28] PHP Fatal error:  Call to undefined function  get_header() in /home/stuyspec/public_html/wp-content/themes/tma/home.php on line 1
