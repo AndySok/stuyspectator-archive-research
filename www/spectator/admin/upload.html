@@ -1,0 +1,21 @@
+<html>
+<head>
+<body>
+<h2>Upload Files</h2>
+<form enctype="multipart/form-data" action="upload.php" method="post">
+        <input type="hidden" name="MAX_FILE_SIZE" value="100000000000">
+                Upload this file: <input name="userfile" type="file">
+                <input type="submit" value="submit">
+<p><select name="resolution">
+<option value="1024">1024</option>
+<option value="800">800</option>
+<option value="640">640</option>
+<option value="250">250</option>
+<option value="180">180</option>
+<option value="100">100</option>
+<option value="50">50</option>
+<option value="Choose" selected>Desired Resolution</option>
+</form>
+</body>
+</html>
+

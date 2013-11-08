@@ -1,0 +1,4 @@
+<?php
+$name=_("phpBB_aeolus");
+$description=_("Grey-Blue background, dark blue & grey text. PhpBB theme by http://www.trushkin.net modified for Gallery with permission.");
+?>
