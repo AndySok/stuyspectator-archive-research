@@ -1,0 +1,1 @@
+[24-Jan-2010 06:23:58] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home/stuyspec/public_html/singtix/includes/admin/ControlView.php on line 110
