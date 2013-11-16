@@ -1,0 +1,11 @@
+/* Most Popular Widget */	
+div#tabsContainer {
+	border: 1px solid transparent;
+}
+		
+#mostPopWidget div.tabContent {
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 7px;
+	padding-right: 7px;
+}

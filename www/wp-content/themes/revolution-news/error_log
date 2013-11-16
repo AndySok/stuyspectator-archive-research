@@ -1,0 +1,1 @@
+[30-Nov-2008 17:02:09] PHP Fatal error:  Call to undefined function get_header() in /home/stuyspec/public_html/wp-content/themes/revolution-news/index.php on line 1

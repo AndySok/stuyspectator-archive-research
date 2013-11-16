@@ -1,0 +1,103 @@
+/*
+These are new style rules to keep you from having to completely change your "style.css" if you've customized it because they have been updated in the most recent version of the theme.
+
+You can simply copy and paste these into your "style.css" file if you've done some custom work and don't want any of your style to change by uploading the new file.
+
+There are no style changes prior to Version 1.1.1.
+*/
+
+/* Version 1.1.5 updates ****************************************************** */
+
+/* Fixed the width on #home-bottom (changed from 600px to 610px and added the missing semicolon) */
+
+#home #home-bottom {
+	width: 610px;
+	}
+
+/* Added a missing colon on the right alignment class (after "margin") */
+
+.right {
+	margin: 0 0 0 15px;
+	}
+
+/* Added a new class for the "Full Posts" layout option (This must be placed after the "excerpts" and "recent" image sizing) */
+/* Place it after this:	.recent img, .excerpts img { } */
+
+.full-posts img {
+	width: auto;
+	height: auto;
+	}
+
+/* Under the section titled "Lists," I wanted to make sure any lists on the front page are displayed like the rest of the site (particularly applies to those using the "Full Posts" layout).  The two classes should now look like this: */
+
+#home .post ul, #content ul { }
+#home .post ul li, #content ul li { }
+
+
+/* Version 1.1.3 updates ****************************************************** */
+
+/* Changed the padding on #content */
+#content {
+	padding: 0 0 10px 0;
+	}
+
+/* Changed the padding on list items for the sidebar, home left, and home right blocks */
+.menu ul li, .tabbed div ul li {
+	padding: 0 5px 0 0;
+	}
+
+/* Added for the "Full Posts" layout */
+.excerpts .post-meta-data { float: left; text-align: left; }
+.excerpts .byline { padding: 0 0 5px 5px; clear: left; display: block; float: left; }
+
+/* Changed the padding and width of the "Excerpts" layout posts (also "Full Posts" layout) for better aesthetics) */
+.excerpts .post {
+	width: 591px;
+	padding: 5px 11px 5px 5px;
+	}
+
+
+/* Version 1.1.2 updates ****************************************************** */
+
+/* Add or change the below values if they are different. */
+
+#home #home-bottom .block-left { width: 300px; }
+#home #home-bottom .block-right { width: 300px; margin-left: 10px; }
+
+#container { padding: 10px 10px 0 10px; }
+#home .feature { margin: 0 0 10px 0; }
+#sidebar { margin: 0 0 0 10px; }
+
+
+
+/* Version 1.1.1 updates ****************************************************** */
+
+/* Add to file (should be placed after the current "pre" and "code" rules). */
+#comments-template pre, #comments-template pre code {
+	width: 98%;
+	border: none;
+	}
+/* 
+New style rules for the video content block because it wasn't showing in Firefox.
+A straight copy and paste over the existing code will work fine. 
+*/
+.video {
+	display: block;
+	float: left;
+	overflow: hidden;
+	width: 288px;
+	margin: 0 0 10px 0;
+	padding: 2px 5px 10px 5px;
+	background: #fff;
+	border: 1px solid #ccc;
+	text-align: center;
+	}
+.video div {
+	overflow: hidden;
+	margin: 0 auto;
+	padding: 0;
+	background: transparent;
+	text-align: center;
+	display: block;
+	border: none;
+	}
