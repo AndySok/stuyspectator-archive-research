@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Add an Article</title>
+</head>
+<body>
+<form name="form1" method="post" action="add_article.cgi">
+  <p>
+  <input type="radio" name="section" value="news" CHECKED>News<br>
+  <input type="radio" name="section" value="sports">Sports<br>
+  <input type="radio" name="section" value="oped">Oped<br>
+  <input type="radio" name="section" value="ae">A & E<br>
+  <input type="radio" name="section" value="features">Features<br>
+
+    Article Submission:</p>
+  <p>Type: 
+    <input type="text" name="type" size="20">
+  </p>
+  <p>Author(s): 
+    <input type="text" name="author" size="60">
+  </p>
+  <p>Headline:
+    <input type="text" name="headline" size="100">
+  </p>
+  <p>Date( YYYY-MM-DD.
+<SCRIPT LANGUAGE="JavaScript">
+RightNow = new Date();
+year = RightNow.getFullYear();
+document.write("Today is " + year);
+month = RightNow.getMonth()+1;
+date = RightNow.getDate();
+if(month%10 == month){ document.write("-0" + month); }
+else { document.write("-" + month); }
+if (date%10 == date) {document.write("-0" + date); }
+else { document.write("-" + date); }
+</SCRIPT>):
+
+    <input type="text" name="date" size="10">
+  </p>
+  <p>Content (newlines -> paragraphs):<br>
+    <textarea name="content" rows="25" cols="90"></textarea>
+  </p>
+  <p>Issue #:
+  <input type="text" name="issue" size="3">
+  </p>
+  <p>name of picture file (sans the http://www.stuyspectator.org/images, only the filename):
+<input type="text" name="pic_file" size="20">
+</p>
+<p>"Important"?
+<input type="checkbox" name="priority"></p>
+    <input type="submit" name="Submit" value="Submit"><input type="reset">
+  </p>
+</form>
+
+</body>
+</html>
+
