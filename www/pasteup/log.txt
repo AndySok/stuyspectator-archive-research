@@ -1,0 +1,780 @@
+
+ 2006-10-26 : Article modified. ID: 15 | Title: super better title | Word Count: 500 | Photo: yes | Art: yes | Lede: yes | Comments gdfgdfgd
+ 2006-10-26 : Article deleted. ID: 13
+ 2006-10-26 : Article added. dfgdfg | 343 | yes | no | yes | fgdfg
+ 2006-11-26 : Article added. Title: fsf | Word Count: 343 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2006-11-26 : Article added. Title: ffdsf | Word Count: 434 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-01-12 : Article modified. ID: 18 | Title: ffdsf | Word Count: 434 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-01 : Article added. Title: Seed Academy Ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 1/2 page
+ 2007-02-01 : Article added. Title: Winokur Ad (with contact info.) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 1/8 page
+ 2007-02-01 : Article added. Title: SU T-Shirts | Word Count: 300 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Colon Returns After Extended Hospital Stay | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Speaker on Procrastination | Word Count: 300 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Art Aution in honor of Ms. Soohoo | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Blaufarb subs for Archie, who returns | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-01 : Article added. Title: SAT reused from 2005 | Word Count: 350 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: (Top 5) Free Things to Do in NYC | Word Count: 850 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: History of Valentine\'s Day | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-01 : Article modified. ID: 251 | Title: SU T-Shirts | Word Count: 300 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: (Top 5) Chocolate Eateries | Word Count: 850 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-01 : Article added. Title: Godspell | Word Count: 850 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-01 : Article added. Title: Oscar history/preview | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Mashups Phenomenan | Word Count: 700 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-01 : Article modified. ID: 260 | Title: Godspell Review | Word Count: 850 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-01 : Article added. Title: The Namesake review | Word Count: 750 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-01 : Article modified. ID: 251 | Title: SU T-Shirts | Word Count: 300 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article modified. ID: 260 | Title: Godspell review | Word Count: 850 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-01 : Article added. Title: Q&A w/famous poet/writer | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments Q&A w/ poet/writer in attendance at Galway Kinnell\'s 80th B-day gala/reading
+ 2007-02-01 : Article added. Title: Tiffany\'s Column, Stuy Events | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments Photo of Tiffany Wong
+ 2007-02-01 : Article added. Title: On Wasting Paper | Word Count: 600 | Photo: yes | Art: yes | Lede: no | Comments Photo of Emily Ho, angelofallidiots@yahoo.com
+ 2007-02-01 : Article added. Title: On Theater Tech | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Rebecca Elliot, beccafe@earthlink.net
+ 2007-02-01 : Article modified. ID: 266 | Title: On Wasting Paper | Word Count: 600 | Photo: yes | Art: yes | Lede: no | Comments Emily Ho, angelofallidiots@yahoo.com
+ 2007-02-01 : Article modified. ID: 265 | Title: Tiffany | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments Tiffany Wong
+ 2007-02-01 : Article modified. ID: 265 | Title: Tiffany\'s Column, Stuy Events | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments Tiffany Wong
+ 2007-02-01 : Article modified. ID: 266 | Title: Wasting Paper | Word Count: 600 | Photo: yes | Art: yes | Lede: no | Comments Emily Ho, angelofallidiots@yahoo.com
+ 2007-02-01 : Article modified. ID: 267 | Title: Theater Tech | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Rebecca Elliot, beccafe@earthlink.net
+ 2007-02-01 : Article added. Title: Harry Potter | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments Valeriya Tsitron, blingii@yahoo.com
+ 2007-02-01 : Article added. Title: Mike\'s Article Reprinted | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments Mike Gsovski, same photo as last time
+ 2007-02-01 : Article added. Title: SATs: Repeated Form | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments Snigdha Sur
+ 2007-02-01 : Article added. Title: Candy Selling/Mandated Stickers | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Math Dep\'t Feature | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Athletes Spotlight: Tammer Farid, Menley Khuu, Eric Knutsen  | Word Count: 850 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-01 : Article added. Title: Feature: TAKKLE  | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Political Something | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments Wyndam
+ 2007-02-01 : Article added. Title: Students in the Military | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments tentatiive
+ 2007-02-01 : Article added. Title: Feature: Millrose Games | Word Count: 800 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Column | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article modified. ID: 270 | Title: SATs: Repeated Form | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments Snigdha
+ 2007-02-01 : Article added. Title: Ms. Dunkel Q&A | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Boys’ Swimming Update | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Boys’ Wrestling Update | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Boys’ Gymnastics Update  | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Boys’ Basketball Update  | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Girls’ Indoor Track Update  | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Boys’ Indoor Track Update  | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Girls’ Basketball Update  | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Teacher Cafeteria | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Girls’ Gymnastics Update | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-01 : Article modified. ID: 277 | Title: Feature: Millrose Games | Word Count: 800 | Photo: no | Art: yes | Lede: yes | Comments 
+ 2007-02-01 : Article added. Title: Junior Ramblings: How much we\'ve grown | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments Anais Berland, moondust0109@yahoo.com
+ 2007-02-01 : Article added. Title: Student Activism | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article modified. ID: 271 | Title: Candy Selling/Mandated Stickers | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments This could be one of three people: Georgia (our EIT), silverfall21@aol.com; Misha Bhandari, whoopsifell04@aol.com; Neha, funkimonki902@aol.com
+ 2007-02-01 : Article modified. ID: 271 | Title: Candy Selling/Mandated Stickers | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments This could be one of three people: Georgia (our EIT), silverfall21@aol.com; Misha Bhandari, whoopsifell04@aol.com; Neha, funkimonki902@aol.com. Update ASAP.
+ 2007-02-01 : Article added. Title: Cheating At Stuy | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Yasha, tentative.
+ 2007-02-01 : Article modified. ID: 276 | Title: Students in the Military | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Life of a...Bee Champ | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: The Appeal of SING! | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Sex at STuy | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article modified. ID: 294 | Title: Sex at STuy | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments tent.
+ 2007-02-01 : Article added. Title: Numbers | Word Count: 100 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: EC culture at Stuy | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article added. Title: Letter From George Z. | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-01 : Article modified. ID: 270 | Title: SATs: Repeated Form | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments Snigdha (new picture please)
+ 2007-02-01 : Article added. Title: Winokur Ad (with contact info.) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 1/8 page
+ 2007-02-01 : Article added. Title: Seed Academy Ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 1/2 page
+ 2007-02-01 : Article modified. ID: 273 | Title: Athletes Spotlight: Tammer Farid, Menley Khuu, Eric Knutsen | Word Count: 850 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-02 : Article modified. ID: 271 | Title: Candy Selling/Mandated Stickers | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments T; Neha, funkimonki902@aol.com. 
+ 2007-02-02 : Article modified. ID: 267 | Title: Theater Tech | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Rebecca Levitan, starjl@mindspring.com
+ 2007-02-03 : Article added. Title: Core Ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 1/4 page
+ 2007-02-04 : Article modified. ID: 291 | Title: Victor Z. - Response to Ms. Plafker\'s letter | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments this may be a letter to the editor, or it may be a diary of a mad senior, in which case i suppose we need a photo of him, but i think you might have one from last year, maybe?
+ 2007-02-06 : Article deleted. ID: 251
+ 2007-02-08 : Article added. Title: Two Georges  and a Mike | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments A photo of each of the three people, taken separately. 
+ 2007-02-10 : Article modified. ID: 263 | Title: The Namesake review | Word Count: 950 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-10 : Article added. Title: Sarah Jones show | Word Count: 750 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-10 : Article deleted. ID: 289
+ 2007-02-11 : Article deleted. ID: 282
+ 2007-02-11 : Article added. Title: Candy-selling policy | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-11 : Article deleted. ID: 287
+ 2007-02-11 : Article modified. ID: 294 | Title: Tansfat ban | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments tent.
+ 2007-02-11 : Article deleted. ID: 268
+ 2007-02-15 : Article deleted. ID: 303
+ 2007-02-15 : Article added. Title: More stringent cut policy | Word Count: 500 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-02-15 : Article added. Title: Increased student teachers | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-15 : Article added. Title: Blood Drive Online for first time | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-15 : Article added. Title: Korean Night Performance | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-15 : Article added. Title: Forensics Seminar Fundraiser | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-15 : Article added. Title: Open House  | Word Count: 350 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-15 : Article added. Title: SU T-Shirt | Word Count: 300 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-15 : Article added. Title: Spark Move | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments will be in late since it just happened today (not to copy, but to gui and snigdha)
+ 2007-02-15 : Article added. Title: New Policies on Lateness | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-15 : Article added. Title: Life of a...Hilary Clinton Volunteer | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-15 : Article modified. ID: 313 | Title: Life of a...Hilary Clinton Volunteer | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments FEATURES
+ 2007-02-15 : Article added. Title: Courtney Ng -- Most Hours of Volunteering in the Country | Word Count: 600 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-16 : Article added. Title: Korean Culture Night | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-16 : Article added. Title: NY International Children\'s Film Fest Preview | Word Count: 750 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-16 : Article added. Title: Bonbon Chicken restaurant review | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-16 : Article added. Title: Interview with Caffeinated Pastries Inventor | Word Count: 800 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-16 : Article added. Title: \"Into Great Silence\" film review | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-16 : Article added. Title: Diversity Week | Word Count: 1000 | Photo: yes | Art: no | Lede: yes | Comments Jumbo article - different writers will be going to the 7 events happening in LHA as well as the talent show
+ 2007-02-16 : Article modified. ID: 320 | Title: Diversity Week | Word Count: 1000 | Photo: yes | Art: no | Lede: yes | Comments Gigantic article covering the entire week of events - several writers will be covering the 7 events happening in Lecture Hall A as well as the talent show
+ 2007-02-17 : Article added. Title: Wyndie | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments the former eic wants to be a columnist :)
+ 2007-02-17 : Article added. Title: Spark Office Letter to the Editor | Word Count: approx. 350 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-18 : Article added. Title: 1/4 pg C2 ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-18 : Article added. Title: full page Ivy prep ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-18 : Article added. Title: 1/4 pg Digipen ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-18 : Article added. Title: 1/4 pg Digipen ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-18 : Article deleted. ID: 326
+ 2007-02-18 : Article added. Title: 1/2 pg SEED ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-18 : Article modified. ID: 319 | Title: \"Into Great Silence\" film review | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments will be late since movie comes out 2/28
+ 2007-02-18 : Article added. Title: We Don\'t Like Snow anymore? | Word Count: 500 | Photo: yes | Art: yes | Lede: no | Comments Anais Berland, moondust0109@yahoo.com 
+ 2007-02-18 : Article modified. ID: 322 | Title: Spark Office Letter to the Editor | Word Count: 300ish | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-18 : Article added. Title: Kathy\'s article | Word Count: 550 | Photo: yes | Art: no | Lede: yes | Comments our lovely former A and E editor 
+ 2007-02-18 : Article modified. ID: 329 | Title: Kathy | Word Count: 550 | Photo: yes | Art: no | Lede: yes | Comments our lovely outgoing A and E editor
+ 2007-02-18 : Article added. Title: Tiffany Wong | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments i know i know, it will all be over soon
+ 2007-02-19 : Article added. Title: Feature: Athlete Spotlight on Elizabeth Glicksman | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-19 : Article added. Title: Feature: The Pool | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-19 : Article added. Title: Mark\'s Column | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-19 : Article added. Title: Boys\' Basketball Playoff Update | Word Count: 400 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-02-19 : Article added. Title: Boys\' Swimming Playoff Update | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-19 : Article added. Title: Boys\' Indoor Track Playoff Update | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-19 : Article added. Title: Girls\' Basketball Playoff Update | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-19 : Article added. Title: Girls\' Indoor Track Playoff Update | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-19 : Article added. Title: Boys\' JV Basketball Playoff Update | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-19 : Article added. Title: Letter from Natalie Zych | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-19 : Article added. Title: Letter From Our very own michael lipkin | Word Count: knowing lipkin, probably 600-700 | Photo: no | Art: no | Lede: no | Comments tentative.
+ 2007-02-19 : Article modified. ID: 341 | Title: Letter From Our very own michael lipkin | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments tentative.
+ 2007-02-19 : Article deleted. ID: 322
+ 2007-02-21 : Article deleted. ID: 329
+ 2007-02-21 : Article added. Title: On Military | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments photo of Peter, xpetahzx@gmail.com
+ 2007-02-24 : Article modified. ID: 319 | Title: \"Into Great Silence\" film review | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-02-24 : Article modified. ID: 320 | Title: Diversity Week | Word Count: 1000 | Photo: yes | Art: no | Lede: yes | Comments Will be late (3/2) - Gigantic article covering the entire week of events - several writers will be covering the 7 events happening in Lecture Hall A as well as the talent show
+ 2007-02-24 : Article modified. ID: 316 | Title: NY International Children | Word Count: 750 | Photo: no | Art: yes | Lede: no | Comments Will be late - 3/5
+ 2007-02-24 : Article added. Title: Top 5 SAT Study Aids | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments will be late 3/2
+ 2007-02-25 : Article added. Title: 1/4 page Winokur Ad | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-25 : Article deleted. ID: 344
+ 2007-02-25 : Article added. Title: Teacher Feature: Mr. Recchia | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-25 : Article added. Title: New Policies on Lateness-- Student Perspectives | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-25 : Article added. Title: Guidance Counselor-Student Relationships | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-26 : Article added. Title: Stuy University  | Word Count: 500 | Photo: yes | Art: yes | Lede: yes | Comments Diary of a Mad Senior by James
+ 2007-02-27 : Article added. Title: 1/8 page Henry Hecht | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-27 : Article added. Title: Vardy Orthodontics | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-27 : Article deleted. ID: 312
+ 2007-02-27 : Article modified. ID: 346 | Title:  | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-02-27 : Article modified. ID: 346 | Title: Student Perspectives on Lateness | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-02-27 : Article modified. ID: 350 | Title: 1/2 pg Vardy Orthodontics | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-27 : Article modified. ID: 349 | Title: 1/8 pg Henry Hecht | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-27 : Article modified. ID: 324 | Title: full pg Ivy prep ad | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-02-28 : Article deleted. ID: 342
+ 2007-03-02 : Article added. Title: 1/4 page Erik Kimel | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments Peer2Peer
+ 2007-03-02 : Article deleted. ID: 325
+ 2007-03-08 : Article added. Title: Ivy Prep | Word Count: 1 pg | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: 360 Youth Target | Word Count: 1 pg | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: Vardy Orthodontist | Word Count: 1/2 pg | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article modified. ID: 354 | Title: Vardy  | Word Count: 1 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article modified. ID: 354 | Title: Vardy (1/2 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article modified. ID: 353 | Title: 360 Youth Target (1 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article modified. ID: 352 | Title: Ivy Prep | Word Count: (1 pg) | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: Henry Hecht (1/8) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: Erik (1/8 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: C2 (1/4 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article modified. ID: 352 | Title: Ivy Prep (1 pg) | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article modified. ID: 355 | Title: Henry Hecht (1/8 pg) | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: Boys Varsity Basketball Playoff Update | Word Count: 500-600 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: Boys JV Basketball Playoff Update | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Girls Tennis Preview | Word Count: 400-500 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Girls Soccer Preview | Word Count: 400-500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Boys Volleyball Preview | Word Count: 400-500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Boys Baseball Preview | Word Count: 400-500 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: History of the Gun Team | Word Count: 600-700 | Photo: no | Art: yes | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: The College Spirit of Basketball | Word Count: 600-700 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Sophfrosh SING! | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments late - 3/25
+ 2007-03-08 : Article added. Title: Junior SING! (holla). | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments late - 3/25
+ 2007-03-08 : Article added. Title: Senior SING! | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments late - 3/25
+ 2007-03-08 : Article added. Title: Top 5 SING! Zingers | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments late - 3/25
+ 2007-03-08 : Article added. Title: Behind the Curtain: SING! Crews | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments tentative.
+ 2007-03-08 : Article modified. ID: 370 | Title: Behind the Scenes: SING! Crews | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments tentative.
+ 2007-03-08 : Article added. Title: Wyndam On Finance & Education | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments photo of Wyndam. I think he was some kind of editor before or something.
+ 2007-03-08 : Article added. Title: What The DOE Should Do With State Funding | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Me. Wyndam and I are hoping to tie our two articles together somehow.
+ 2007-03-08 : Article added. Title: Tiffany\'s Column | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Swim gym (humorous) | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments Valeriya Tsitron, blingii@yahoo.com
+ 2007-03-08 : Article added. Title: The Relevance Of Philosophy In Our Lives | Word Count: 600 | Photo: yes | Art: yes | Lede: no | Comments Georgia
+ 2007-03-08 : Article added. Title: Cameras on the Bridge | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments PHOTO: Cameras on the bridge with some people under them if possible...they are pretty visible this time
+ 2007-03-08 : Article added. Title: \"Fight the Jews\" Graffiti | Word Count: 400-500 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: Wesley Clark Seminar | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Foreign Language Honor Society Ceremony Consolidation | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: College Trip CANCELLED | Word Count: 500-650 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: Another E-Day to Happen | Word Count: 200-300 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: TENT: SLT Meeting 3/13 --> # of college choices to be debated | Word Count: 600-800 | Photo: yes | Art: no | Lede: yes | Comments PHOTO: SLT Meeting 3/13 Room 615A at 3:35pm (?)
+ 2007-03-08 : Article added. Title: Seniors in Classes w/ Freshmen, etc | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Numbers | Word Count: N/A | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Experiment in Int\'l Living | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Lunch Period Names | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: Teacher Feature: Mr. Chen | Word Count: 600 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: Politics @ Stuy | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-03-08 : Article added. Title: Sing Coordinators  | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Part of a \"SING! Corner\"
+ 2007-03-08 : Article added. Title: Day in the Life/Log of Mr. Citron | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article modified. ID: 377 | Title: \"Fight the Jews\" Graffiti | Word Count: 400 | Photo: yes | Art: no | Lede: yes | Comments Photo if possible
+ 2007-03-08 : Article added. Title: Snow Days | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-08 : Article added. Title: No Open House | Word Count: 300 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-03-08 : Article modified. ID: 378 | Title: Wesley Clark Seminar | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments Might be 1 day late
+ 2007-03-08 : Article modified. ID: 392 | Title: No Open House | Word Count: 300 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-11 : Article deleted. ID: 388
+ 2007-03-12 : Article modified. ID: 359 | Title: Boys JV Basketball Playoff Update | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments FINAL VERSION MAY BE LATE BECAUSE NEXT GAME IS ON THURSDAY!
+ 2007-03-13 : Article modified. ID: 382 | Title: SLT Meeting 3/13 --> # of college choices to be debated | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments WILL BE LATE (Friday hopefully) PHOTO: SLT Meeting 3/13 Room 615A at 3:35pm (?)
+ 2007-03-13 : Article modified. ID: 392 | Title: No Open House | Word Count: 300 | Photo: no | Art: no | Lede: no | Comments LATE: Will be in Wed/Thurs.
+ 2007-03-13 : Article modified. ID: 378 | Title: Wesley Clark Seminar | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-13 : Article added. Title: Clemmons Retired | Word Count: 300 | Photo: yes | Art: no | Lede: no | Comments Coming in on Thurs...PHOTO: If possible
+ 2007-03-13 : Article modified. ID: 378 | Title: Wesley Clark Seminar | Word Count: 283 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-13 : Article modified. ID: 381 | Title: Another E-Day to Happen | Word Count: 375 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-14 : Article modified. ID: 392 | Title: No Open School Week | Word Count: 300 | Photo: no | Art: no | Lede: no | Comments LATE: Will be in Wed/Thurs.
+ 2007-03-15 : Article deleted. ID: 372
+ 2007-03-15 : Article modified. ID: 371 | Title: Wyndam On SING! | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments photo of Wyndam. I think he was some kind of editor before or something.
+ 2007-03-15 : Article added. Title: Article on the assembly about death/trauma | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments photo of Helen Dwork, at helendwork@gmail.com. she wants a new one.
+ 2007-03-15 : Article deleted. ID: 377
+ 2007-03-18 : Article modified. ID: 382 | Title: SLT Meeting 3/13 --> # of college choices to be debated | Word Count: 650-700 | Photo: yes | Art: no | Lede: yes | Comments WILL BE LATE (Friday hopefully) PHOTO: SLT Meeting 3/13 Room 615A at 3:35pm (?)
+ 2007-03-18 : Article modified. ID: 382 | Title: SLT Meeting 3/13 --> # of college choices to be debated | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments WILL BE LATE (Sunday) PHOTO: SLT Meeting 3/13 Room 615A at 3:35pm (?)
+ 2007-03-18 : Article modified. ID: 392 | Title: No Open School Week | Word Count: 300 | Photo: no | Art: no | Lede: no | Comments LATE. To copy: Sunday
+ 2007-03-19 : Article added. Title: Eugene Marshalik obituary  | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments WILL BE LATE. PHOTO of Eugene from an old yearbook . 
+ 2007-03-19 : Article added. Title: New HW Policy  | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments WILL BE LATE (friday) 
+ 2007-03-19 : Article deleted. ID: 373
+ 2007-03-19 : Article modified. ID: 374 | Title: Swim gym | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments Valeriya Tsitron, blingii@yahoo.com
+ 2007-03-20 : Article modified. ID: 356 | Title: Erik (1/4 pg) | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-22 : Article deleted. ID: 390
+ 2007-03-24 : Article added. Title: 1/2 page PTA ad | Word Count: 0 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-03-26 : Article added. Title: sean and moly balsam | Word Count: 69 | Photo: yes | Art: yes | Lede: yes | Comments HELLZYEAZ
+ 2007-03-26 : Article deleted. ID: 398
+ 2007-03-29 : Article deleted. ID: 391
+ 2007-03-29 : Article deleted. ID: 387
+ 2007-03-29 : Article deleted. ID: 389
+ 2007-03-29 : Article deleted. ID: 386
+ 2007-03-29 : Article deleted. ID: 385
+ 2007-03-29 : Article deleted. ID: 384
+ 2007-03-29 : Article deleted. ID: 383
+ 2007-03-29 : Article added. Title: Damon Cham: AP Kid | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: GLI: UN Africa | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article modified. ID: 400 | Title: GLI: UN Africa | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article modified. ID: 399 | Title: Damon Cham: AP Kid | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: NVC/Jeopardy | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Frosh Race Car Driver | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Politics at Stuy | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Materials: Class | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Guidance Jobs | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Robberies on 8th/9th/3rd floors | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Student Who Took 9 AP Exams | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: GLI Trip to the UN | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: NVC/Jeopardy | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: Freshman Racecar Driver | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: Students in Elton John chorus | Word Count: 450 | Photo: no | Art: yes | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: Match the Materials to the Class | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Jobs Through the Guidance Office | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Robberies on 3/8/9th floors | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Sounds of Korean Soul | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments i forgot to ask photo. do you guys have a photo, by any chance? if no, let\'s have art.
+ 2007-03-29 : Article added. Title: TriBeCa Subway Musicians | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Autism guy interview/book review | Word Count: 750 | Photo: no | Art: yes | Lede: no | Comments can we have art that has something to do with pi (3.14)?
+ 2007-03-29 : Article added. Title: Course Evaluations | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments photo of Rebecca Elliot, beccafe@earthlink.net
+ 2007-03-29 : Article added. Title: Issues With E-Day | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments photo of Soojin Lee, so0oj@yahoo.com
+ 2007-03-29 : Article added. Title: Wyndam On Finance & Education | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments photo of Wyndam.
+ 2007-03-29 : Article added. Title: My Accompanying Piece On Finance & Education | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments photo of Yasha.
+ 2007-03-29 : Article added. Title: Tiffany\'s Column---Topic Is Under Careful Consideration | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Photo of Tiffany Wong (super.beaver@gmail.com)
+ 2007-03-29 : Article added. Title: Sounds of Korean Soul | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Student Who Took 9 AP Exams | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: GLI Trip to the UN | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: TriBeCa Subway Musicians | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: NVC/Jeopardy | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: Freshman Racecar Driver | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: Match the Materials to the Class | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Jobs Through the Guidance Office | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Robbers on 3/8/9th Floors | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Farewell Astroland | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Spike Lee Interview | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Tentative. I\'m seeing him in 2 wks.
+ 2007-03-29 : Article added. Title: Critics\' Pick - CD review | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments new column.
+ 2007-03-29 : Article added. Title: Chancellor Klein gives more power to principals | Word Count: 800 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: Teitel fines SU  for  SING stage damage  | Word Count: 500  | Photo: yes | Art: no | Lede: no | Comments Possible photo of the stage 
+ 2007-03-29 : Article added. Title: Intel / Research @ Stuy | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Photo: Ms. Manwell (?) 
+ 2007-03-29 : Article added. Title: Guidance Drama  | Word Count: 500  | Photo: yes | Art: no | Lede: yes | Comments Guidance Suite - 235
+ 2007-03-29 : Article added. Title: Teacher\'s meeting - suicide  | Word Count: 400  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Censorship of SING! | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments Photo of any SING!
+ 2007-03-29 : Article added. Title: Sophomore History – all AP | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Ivy Prep (1 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: 1/4 pg C2 ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: 1/2 pg Vardy Orthodontics | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: 1/4 pg Digipen ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: Girls Fencing Preview | Word Count: 400-500  | Photo: yes | Art: no | Lede: no | Comments FENCING MATCH TOMORROW (FRIDAY 30 MARCH) 6th Floor Dance Hall
+ 2007-03-29 : Article added. Title: Boys Handball Update | Word Count: 500  | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Girls Handball Update | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Boys Golf Preview/Update | Word Count: 400 | Photo: yes | Art: yes | Lede: no | Comments It\'s hard to get a photo, but there are opportunities to obtain one (check PSAL.org or your e-mail), have art ready just in case
+ 2007-03-29 : Article added. Title: Boys Tennis Update | Word Count: 500  | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: Mark\'s Column | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Aluminum Baseball Bats Banned | Word Count: 400-500 | Photo: no | Art: yes | Lede: yes | Comments 
+ 2007-03-29 : Article added. Title: Feature: An In-Depth Look Into Fantasy Sports | Word Count: 500-600 | Photo: no | Art: yes | Lede: yes | Comments 
+ 2007-03-29 : Article modified. ID: 452 | Title: Aluminum Baseball Bats Banned | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-03-29 : Article added. Title: Tutorial: Handball | Word Count: 400-500 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-03-29 : Article modified. ID: 450 | Title: Boys Tennis Update | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments NEXT MATCH: Wed 11 April at East River Park, FDR Drive at Grand Street
+ 2007-03-29 : Article modified. ID: 449 | Title: Boys Golf Preview/Update | Word Count: 400 | Photo: yes | Art: yes | Lede: no | Comments It\'s hard to get a photo, but there are opportunities to obtain one (check PSAL.org or your e-mail), have art ready just in case. Next Match: Wed 11 April at Van Cortlandt Park 4:30PM
+ 2007-03-29 : Article modified. ID: 448 | Title: Girls Handball Update | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments NEXT MATCH: Wed 11 April at Central Park W 97th Street FOLLOWING MATCH: Fri 13 April at LaGuardia High School
+ 2007-03-29 : Article modified. ID: 447 | Title: Boys Handball Update | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments NEXT MATCH: Thurs 12 April at Stuy HS 6th Floor gym
+ 2007-03-30 : Article added. Title: Harvard Summer (1/4) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-03-31 : Article added. Title: Feature on STC Slate | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-03-31 : Article added. Title: Stuy students in Elton John chorus | Word Count: 450 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-04-02 : Article added. Title: Wacky Scholarships & Contests | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-04-05 : Article deleted. ID: 433
+ 2007-04-09 : Article deleted. ID: 429
+ 2007-04-09 : Article deleted. ID: 436
+ 2007-04-09 : Article deleted. ID: 417
+ 2007-04-10 : Article deleted. ID: 448
+ 2007-04-10 : Article modified. ID: 441 | Title: Sophomore History – all AP | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments will be late 
+ 2007-04-10 : Article deleted. ID: 437
+ 2007-04-10 : Article modified. ID: 449 | Title: Boys Golf Preview/Update | Word Count: 400 | Photo: yes | Art: yes | Lede: no | Comments LATE ARTICLE
+ 2007-04-10 : Article modified. ID: 446 | Title: Girls Fencing Preview | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments LATE ARTICLE
+ 2007-04-10 : Article added. Title: Bathrooms locked | Word Count: 350 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-04-11 : Article added. Title: alumni association scholarship (1/2 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-04-12 : Article modified. ID: 421 | Title: My Accompanying Piece On Finance & Education | Word Count: 800 | Photo: yes | Art: no | Lede: no | Comments photo of Yasha.
+ 2007-04-13 : Article added. Title: Speech/Debate Team Maybe Not Going to States and Nationals | Word Count: 600-1000 | Photo: no | Art: no | Lede: yes | Comments This needs to be front page.
+ 2007-04-15 : Article added. Title: Mr. Cocoros Wins Dartmouth Award | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments picture of mr. c 
+ 2007-04-15 : Article modified. ID: 462 | Title: Mr. Cocoros Wins Dartmouth Award | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments photo of mr. c
+ 2007-04-15 : Article modified. ID: 450 | Title: Boys Tennis Update | Word Count: 500 | Photo: no | Art: yes | Lede: yes | Comments ART NEEDED, NOT PHOTO
+ 2007-04-16 : Article modified. ID: 430 | Title: Jobs Through the Guidance Office | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Past & Present | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Teacher Feature: TBA | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: New Orleans Habitat for Humanity Trip | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Writing on the Wall | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: TriBeCa Film Fest | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments will be late since festival starts next week.
+ 2007-04-19 : Article added. Title: Teachers with Doctorates | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Battle of the Bands | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments will be late 4/27
+ 2007-04-19 : Article added. Title: Differing Student Opinions on New College Limits | Word Count: 650 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-04-19 : Article added. Title: Unearthed from Slush Pile | Word Count: 450 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Seniors Post Their Rejection Letters | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Gary Shteyngart Interview | Word Count: 750 | Photo: yes | Art: no | Lede: yes | Comments i will take the photo.
+ 2007-04-19 : Article added. Title: Int\'l Food Fest | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Musical Showcase/Concerto Concert | Word Count: 700 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Virginia Tech Tragedy-influence on Koreans/school communities | Word Count:  | Photo: yes | Art: no | Lede: yes | Comments soojin lee(you guys already have a pic) 
+ 2007-04-19 : Article added. Title: Wyndam... | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-04-19 : Article modified. ID: 476 | Title: Virginia Tech Tragedy-influence on Koreans/school communities | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments soojin lee(you guys already have a pic)
+ 2007-04-19 : Article added. Title: Tiffany, possibly on that journalism conference thing... | Word Count: 550 | Photo: yes | Art: no | Lede: yes | Comments Gui, have you talked to the scholarship people?
+ 2007-04-19 : Article added. Title: Piece on scheduling issues | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments judy  baek (archeressjudy@yahoo.com
+ 2007-04-19 : Article modified. ID: 469 | Title: Battle of the Bands | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments will be late 4/27
+ 2007-04-19 : Article added. Title: Speech and Debate Team Update | Word Count: 500 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-04-19 : Article added. Title: Stuy Alum Affected by Virg Tech/ Stuy Reaction | Word Count: 550 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Plasmba Lab- Mr. Thomas | Word Count: 450  | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Mr. Kwan Fired  | Word Count: 400  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Robotics Team Win .  | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: New Floor in Entrance | Word Count: 350 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Physics Bowl Win | Word Count: 350  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article deleted. ID: 481
+ 2007-04-19 : Article added. Title: Stuy Alum Affected by Virg Tech/ Stuy Reaction | Word Count: 500 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-04-19 : Article modified. ID: 482 | Title: Plasma Lab- Mr. Thomas | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: Research @ Stuy | Word Count: 500-600 | Photo: yes | Art: no | Lede: no | Comments Ms Manwell?
+ 2007-04-19 : Article modified. ID: 464 | Title: Teacher Feature: Ms. Gould | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article added. Title: 1/2 pg Vardy Orthodontics | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-04-19 : Article added. Title: 1/4 pg C2 ad | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-04-19 : Article added. Title: Ivy Prep (1 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-04-19 : Article added. Title: Ivy Prep (1 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-04-19 : Article modified. ID: 464 | Title: Teacher Feature: Ms. Gould | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-19 : Article deleted. ID: 492
+ 2007-04-20 : Article added. Title: Boys Baseball Update | Word Count: 500 Words | Photo: yes | Art: no | Lede: yes | Comments NEXT GAME: Monday 23 April vs. Norman Thomas at Central Park North Meadow Ballfield #5
+ 2007-04-20 : Article added. Title: Boys Volleyball Update | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments NEXT HOME GAME: Tuesday 24 April vs. HS Fashion Industries at 5:30PM, 3rd Floor Gym  
+ 2007-04-20 : Article added. Title: Girls Tennis Update | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments NEXT GAME: Mon 23 April at 4PM vs. Lab Museum United High School at East River Park FDR Drive- Houston Street Courts (Take M22 from school to last stop)
+ 2007-04-20 : Article added. Title: Girls Soccer Update | Word Count: 500 Words | Photo: no | Art: yes | Lede: no | Comments NEXT GAME: 23 April vs. Brooklyn Tech at 4PM at Sterling HS Field
+ 2007-04-20 : Article modified. ID: 495 | Title: Girls Tennis Update | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments NEXT GAME: Mon 23 April at 4PM vs. Lab Museum United High School at East River Park FDR Drive- Houston Street Courts (Take M22 from school to last stop)
+ 2007-04-20 : Article added. Title: Girls Handball Update | Word Count: 500 Words | Photo: no | Art: yes | Lede: no | Comments NEXT HOME GAME: Wed 25 April at 4:30PM, 6th floor gym vs Murray Bergtraum
+ 2007-04-20 : Article added. Title: Rookie Spotlight: Nzingha Prescod | Word Count: 600-700 Words | Photo: yes | Art: no | Lede: yes | Comments NEXT HOME GAME: Wed 25 April at 4:30PM vs. LaGuardia at 6th Floor Dance Studio, PRACTCE: everyday or most days afterschool at 6th floor dancing studio, I recommend getting her picture as soon as possible because you never know when she has to leave school for international tournaments
+ 2007-04-20 : Article added. Title: FEATURE: An Investigation Into Funding Sports Teams | Word Count: 800-1000 Words | Photo: no | Art: yes | Lede: no | Comments This article may be late, it may take a lot of time to do this right. This may even be postponed until the next issue. For art, maybe something funny about money and sports, I don\'t have much of a sense of humor. 
+ 2007-04-20 : Article modified. ID: 497 | Title: Girls Handball Update | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments NEXT HOME GAME: Wed 25 April at 4:30PM, 6th floor gym vs Murray Bergtraum
+ 2007-04-20 : Article modified. ID: 499 | Title: FEATURE: An Investigation Into Funding Sports Teams | Word Count: 1000 | Photo: no | Art: yes | Lede: no | Comments (maybe 800-1000 words) This article may be late, it may take a lot of time to do this right. This may even be postponed until the next issue. For art, maybe something funny about money and sports, I don
+ 2007-04-20 : Article added. Title: News: Sports Teams Fall Behind Due To Weather | Word Count: 400  | Photo: no | Art: yes | Lede: yes | Comments Just added article (maybe 400-500 Words), and its about how a lot of teams are not playing because of the bad weather, for some teams at least 1/4 -1/2 their season has been cancelled or postponed. 
+ 2007-04-21 : Article added. Title: air quality update | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-21 : Article added. Title: japanese bowl | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-22 : Article added. Title: Math competitions: USMO and nysml | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-23 : Article modified. ID: 502 | Title: japanese bowl - LATE | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-23 : Article modified. ID: 502 | Title: japanese bowl  | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments LATE (1 day)
+ 2007-04-23 : Article modified. ID: 502 | Title: japanese bowl | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-23 : Article modified. ID: 486 | Title: Physics Bowl Win | Word Count: 350 | Photo: no | Art: no | Lede: no | Comments LATE  (1 day)
+ 2007-04-23 : Article modified. ID: 482 | Title: Plasma Lab- Mr. Thomas | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments LATE (1 day, hopefully)
+ 2007-04-23 : Article deleted. ID: 483
+ 2007-04-23 : Article modified. ID: 488 | Title: Research @ Stuy | Word Count: 1000 | Photo: yes | Art: no | Lede: no | Comments Ms Manwell?
+ 2007-04-24 : Article added. Title: Pier 40 To Be Changed to Vegas on the Hudson | Word Count: 400 | Photo: yes | Art: no | Lede: yes | Comments Photo of Pier 40 please
+ 2007-04-24 : Article modified. ID: 477 | Title: Wyndam on \"The Illusion of Security\" after Virginia Tech shootings | Word Count: 550 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-04-24 : Article modified. ID: 479 | Title: Yasha on senior-year internships | Word Count: 600 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-04-26 : Article deleted. ID: 499
+ 2007-04-26 : Article added. Title: Barth Retires From Coaching | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments After almost 20 years, Mr. Barth has decided not to coach bowling next term. PHOTO: Can we get a photo of Mr. Barth?
+ 2007-04-26 : Article added. Title: Boys Tennis Update | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments This article has been added because their season ended this week and was added to this issue due to time concerns. No photo nor art is needed nor expected.
+ 2007-04-26 : Article deleted. ID: 486
+ 2007-04-26 : Article deleted. ID: 486
+ 2007-04-26 : Article added. Title: USAMO | Word Count: 350 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-04-26 : Article modified. ID: 503 | Title: Math competitions:  nysml | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-27 : Article deleted. ID: 495
+ 2007-04-28 : Article added. Title: Numbers | Word Count: N/A | Photo: no | Art: no | Lede: no | Comments 
+ 2007-04-28 : Article deleted. ID: 463
+ 2007-04-28 : Article deleted. ID: 501
+ 2007-04-28 : Article modified. ID: 487 | Title: Stuy Alum Affected by Virg Tech/ Stuy Reaction | Word Count: 1000 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-04-28 : Article modified. ID: 482 | Title: Plasma Lab- Mr. Thomas | Word Count: 326 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-28 : Article modified. ID: 488 | Title: Research @ Stuy | Word Count: 1000 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-29 : Article modified. ID: 473 | Title: Gary Shteyngart Interview | Word Count: 1000 | Photo: yes | Art: no | Lede: yes | Comments i will take the photo.
+ 2007-04-29 : Article modified. ID: 467 | Title: TriBeCa Film Fest | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments here\'s the schematics: tons of photos, two movie reviews, one article about TFF in general, and captions/quotes for the photos
+ 2007-04-29 : Article modified. ID: 468 | Title: Teachers with Doctorates | Word Count: 1300 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-29 : Article modified. ID: 465 | Title: New Orleans Habitat for Humanity Trip | Word Count: 750 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-29 : Article modified. ID: 466 | Title: Writing on the Wall | Word Count: 750 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-04-29 : Article modified. ID: 476 | Title: Virginia Tech Tragedy-influence on Koreans/school communities | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments pic of soojin lee and christine yeoun
+ 2007-04-29 : Article modified. ID: 479 | Title: Yasha on senior-year internships | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-04-30 : Article added. Title: BIG SIB CHAIRS  | Word Count: 346 | Photo: no | Art: no | Lede: yes | Comments lede if possible
+ 2007-05-03 : Article added. Title: Match Materials to the Classes | Word Count: 50 | Photo: yes | Art: no | Lede: no | Comments Photo info-> a picture of each of the following: a drafting kit, an electronics kit, and a babydoll (from the Health baby project)
+ 2007-05-03 : Article added. Title: Past & Present | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Photo info -> pic of an article TK
+ 2007-05-03 : Article added. Title: Profile: Alexis Wint | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Photo info -> Alexis Wint; email: lexypooh4eva@yahoo.com; phone: 347-249-6444; AIM: Newnewdat40chicc; Frees: 4th pd-Lunch, 9th pd-gym free
+ 2007-05-03 : Article added. Title: Stuy Dependency on Wikipedia | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments Photo info -> either a screenshot of the wikipedia home page or a photo of a person browsing wikipedia
+ 2007-05-03 : Article added. Title: Teachers\' Pets | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Photo info? -> maybe?
+ 2007-05-03 : Article modified. ID: 514 | Title: Teachers | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Photo info -> maybe?
+ 2007-05-03 : Article added. Title: All About Prom | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-03 : Article modified. ID: 514 | Title: Teachers\"\'\" Pets | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Photo info -> maybe?
+ 2007-05-03 : Article modified. ID: 514 | Title: Teachers\"\' | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Photo info -> maybe?
+ 2007-05-03 : Article modified. ID: 514 | Title: Teachers` Pets | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Photo info -> maybe?
+ 2007-05-03 : Article modified. ID: 512 | Title: Profile: Alexis Wint | Word Count: 600 | Photo: yes | Art: no | Lede: yes | Comments Photo info -> Alexis Wint; email: lexypooh4eva@yahoo.com; phone: 347-249-6444; AIM: Newnewdat40chicc; Frees: 4th pd-Lunch, 9th pd-gym free
+ 2007-05-03 : Article modified. ID: 512 | Title: Profile: Alexis Wint | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Photo info -> Alexis Wint; email: lexypooh4eva@yahoo.com; phone: 347-249-6444; AIM: Newnewdat40chicc; Frees: 4th pd-Lunch, 9th pd-gym free
+ 2007-05-03 : Article modified. ID: 511 | Title: Past & Present | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments Photo info -> pic of an article TK
+ 2007-05-03 : Article added. Title: New Locker Policy for Next Year | Word Count: 500  | Photo: yes | Art: no | Lede: yes | Comments PHOTO: lockers .
+ 2007-05-03 : Article added. Title: Low Writing PSAT Scores- English Dep\'t Changes | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-03 : Article added. Title: Juniors Can\'t Take AP Bio | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-03 : Article added. Title: SU Voting Proposal | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-03 : Article added. Title: Gabriel Blitz Dedication/ Degree  | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments PHOTO: the part of the library they dedicated to him 
+ 2007-05-03 : Article added. Title: Freshmen Class Stupider  | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments PHOTO: a freshmen classroom ? 
+ 2007-05-03 : Article added. Title: Mr. Recchia Wins Award | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments PHOTO: recchia 
+ 2007-05-03 : Article added. Title: STUYMUNC | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-03 : Article added. Title: PA Meeting about Children First Proposal | Word Count: 500 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-05-03 : Article added. Title: Interview with Daniel Tammet | Word Count: 850 | Photo: yes | Art: no | Lede: no | Comments Kathy will take care of the photo. Daniel Tammet has epileptic fits or something and this causes him to hear colors, win poker--he also wrote a memoir, which Kathy will review.
+ 2007-05-03 : Article added. Title: Unearthed from Slush Pile | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments CD review. Art info >> http://www.thewhigs.com/ - they recorded their CD in a dorm room; they opened for U2 last summer and they play folk-y art rock.
+ 2007-05-03 : Article added. Title: Top 5 Summer Workshops | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments Art info >> the list includes a theater workshop, a fashion class at FIT, and a jazz music & education class
+ 2007-05-03 : Article added. Title: Tribeca Film Fest: Spiderman 3 | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments Photo info >> Ezra took photos at the premiere
+ 2007-05-03 : Article added. Title: Tribeca Film Fest: Interview with the Stars part 2 | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments Photos with captions from Opening Night (Zack took a few photos, I think) and mostly The Air I Breathe premiere (Kevin Bacon, Sarah Michelle Geller, Andy Garcia, etc.)
+ 2007-05-03 : Article added. Title: Tribeca Film Fest: Interview with Peter Scarlet | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments Kathy will take care of photo, probably. Scarlet is the director of TFF.
+ 2007-05-03 : Article added. Title: Vardy (1/2 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-03 : Article added. Title: C2 (1/4 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-03 : Article added. Title: C2 (1/4 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-03 : Article deleted. ID: 533
+ 2007-05-03 : Article added. Title: Baldwin (1/2pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-03 : Article added. Title: Tribeca Film Festival: Our City Our Story | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments Art info/article info: Our City Our Story was hosted by Whoopi Goldberg as part of the film fest; ten student-made documentaries were screened.
+ 2007-05-03 : Article added. Title: Tribeca Film Fest: Ludacris (Chris Bridges) | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments Photo info: Zack has it taken care of
+ 2007-05-03 : Article added. Title: Tribeca Film Fest: Bomb It review | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments Tentative: Tickets are sold out so I\'m trying to get tickets from teh press office or at door sales on teh day of the screening. Art info: Bomb it is a documentary about graffiti.
+ 2007-05-03 : Article added. Title: Tribeca Film Fest: Express Stops Shorts review | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments \"Express Stops\" is a series of shorts, some student-made, that have something to do with living in NYC. Will get more info to you after I watch it on Saturday.
+ 2007-05-03 : Article modified. ID: 523 | Title: STUYMUNC | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments many fewer students showed up than expected
+ 2007-05-03 : Article added. Title: Wyndam | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments cuz we <3 him
+ 2007-05-03 : Article modified. ID: 522 | Title: Mr. Recchia Wins Award | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments PHOTO: recchia - to be vp of the Italian teachers association
+ 2007-05-03 : Article modified. ID: 521 | Title: Freshmen Class Stupider | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments PHOTO: a freshmen classroom ?
+ 2007-05-03 : Article deleted. ID: 538
+ 2007-05-03 : Article modified. ID: 521 | Title: Freshmen Class Stupider | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments PHOTO: a freshmen classroom? - investigating, so far, nothing solid
+ 2007-05-03 : Article added. Title: Proposing Change to AP Acceptance | Word Count: 600 | Photo: yes | Art: yes | Lede: yes | Comments Naziat (you guys have a pic) -it\'s about how she thinks that teachers should recommend people for APs instead of it being based solely on average
+ 2007-05-03 : Article modified. ID: 519 | Title: SU Voting Proposal | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments History classes brought to vote
+ 2007-05-03 : Article modified. ID: 537 | Title: Tribeca Film Fest: Bomb It review | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments Tentative: Tickets are sold out so I\'m trying to get a ticket from the press office or at door sales on the day of the screening. If I don\'t get it, I\'ll review another movie. Art info: Bomb It is a doc on graffiti
+ 2007-05-03 : Article modified. ID: 518 | Title: Juniors Can | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments without having taken normal bio
+ 2007-05-03 : Article modified. ID: 537 | Title: Tribeca Film Fest: Bomb It review | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments Tentative: if not, I\'ll write a review on another TFF movie. Art info: Bomb It is a doc on graffiti
+ 2007-05-03 : Article added. Title: The Non-Countingness of Psyche and CompSci | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments Sadman--you have a pic, but it was scary -the article is about how those two courses don\'t fulfill any electives
+ 2007-05-03 : Article modified. ID: 517 | Title: Low Writing PSAT Scores- English Dep | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments Grossman moving to make changes to curriculum to make it focus more on writing part of sat\'s
+ 2007-05-03 : Article modified. ID: 516 | Title: New Locker Policy for Next Year | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments PHOTO: lockers . - each student assigned a locker and locker, pays for lock, school knows combo.
+ 2007-05-03 : Article modified. ID: 524 | Title: PA Meeting about Children First Proposal | Word Count: 500 | Photo: no | Art: no | Lede: yes | Comments so far, not supporting proposal
+ 2007-05-03 : Article modified. ID: 518 | Title: Juniors Can\'t take AP bio | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments without having taken normal bio
+ 2007-05-03 : Article added. Title: Tiffany | Word Count: 550 | Photo: yes | Art: yes | Lede: yes | Comments only two more
+ 2007-05-03 : Article added. Title: There should be more trips! | Word Count: 650 | Photo: yes | Art: yes | Lede: yes | Comments judy  baek (archeressjudy@yahoo.com) -- why there are so few now, why there should be more
+ 2007-05-03 : Article deleted. ID: 525
+ 2007-05-05 : Article added. Title: Girls Softball Update | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments NEXT HOME GAME: Monday 7 May vs. Louis Brandeis @ Central Park North Meadow Field #7 @ 4PM
+ 2007-05-05 : Article added. Title: Girls Fencing Championship Update | Word Count: 500 | Photo: no | Art: yes | Lede: yes | Comments Girls Fencing wins city championship. 
+ 2007-05-05 : Article modified. ID: 544 | Title: Girls Softball Update | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments IF PHOTO IS POSSIBLE: NEXT HOME GAME: Monday 7 May vs. Louis Brandeis @ Central Park North Meadow Field #7 @ 4PM
+ 2007-05-05 : Article added. Title: Boys Track Championship Preview | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments NEXT MEETS: Sunday 6 May - Howard Richter Memorial Meet at DeWitt Clinton Field, FOLLOWING MEET: Saturday 12 May - Bruce Selman Memorial Meet at JFK HS
+ 2007-05-05 : Article added. Title: Girls Tennis Playoff Update | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments NEXT MATCH: Monday 7 May vs. Bronx Science at Williamsbridge Oval, **Should they win: SEMIFINALS at National Tennis Center in Flushing, **Should They Win Semifinals: FINALS Friday 11 May at National Tennis Center, Flushing, NY
+ 2007-05-05 : Article added. Title: Feature: East River Park Fields | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments NEXT GAME AT EAST RIVER PARK: Wed 9 May at 4PM Boys Baseball vs.Murray Bergtraum at East River Park Field 6, ALSO: Wed 9 May - Girls Soccer vs. Brooklyn Technical at East River Park A (Track), Check PSAL.org for more info
+ 2007-05-05 : Article added. Title: Sports Funding Investigation | Word Count: 800 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-05-05 : Article added. Title: Mark\'s Column | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments Response to Sports Funding Article (may be late)
+ 2007-05-05 : Article added. Title: Sports News: Cricket Becomes PSAL Sport | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments There\'s a Cricket Club Meeting on Monday Afterschool, my guess is that they will play outside that day in the park
+ 2007-05-05 : Article added. Title: Tutorial: Cricket | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments Diagrams Please!
+ 2007-05-05 : Article added. Title: Pier 40 Follow-Up | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments PHOTO if possible? There is a girls softball game at Pier 40 on Thurs 10 May at 4PM
+ 2007-05-05 : Article modified. ID: 536 | Title: Tribeca Film Fest: Ludacris (Chris Bridges) | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments Art please
+ 2007-05-05 : Article added. Title: Tribeca Film Fest: Summary | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments Photos from TFF; this is just a brief overview of the festival - highlights, competition winners, etc.
+ 2007-05-05 : Article deleted. ID: 554
+ 2007-05-05 : Article deleted. ID: 537
+ 2007-05-06 : Article deleted. ID: 514
+ 2007-05-06 : Article deleted. ID: 510
+ 2007-05-06 : Article deleted. ID: 521
+ 2007-05-06 : Article added. Title: air quality | Word Count: 1000 | Photo: yes | Art: no | Lede: no | Comments health effects of 9/11 still apparent with alumni, and diaz says threat could still exist  PHOTO: Maybe the October 21, 2001 issue of the Spectator that says its safe
+ 2007-05-06 : Article added. Title: physics bowl | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments danny and others do well
+ 2007-05-07 : Article modified. ID: 549 | Title: Sports Funding Investigation | Word Count: 800 | Photo: no | Art: yes | Lede: no | Comments WILL BE LATE!
+ 2007-05-08 : Article modified. ID: 547 | Title: Girls Tennis Playoff Update | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments NEXT MATCH: SEMIFINALS at National Tennis Center in Flushing, **Should They Win Semifinals: FINALS Friday 11 May at National T
+ 2007-05-08 : Article deleted. ID: 541
+ 2007-05-08 : Article added. Title: Michael Lipkin | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments Michael Lipkin on something Sam Reiser said or something, idk, but he\'s definitely writing it..
+ 2007-05-08 : Article deleted. ID: 524
+ 2007-05-09 : Article deleted. ID: 515
+ 2007-05-09 : Article deleted. ID: 557
+ 2007-05-09 : Article modified. ID: 535 | Title: Tribeca Film Festival: Our City Our Story | Word Count: 950 | Photo: no | Art: yes | Lede: no | Comments Art info/article info: Our City Our Story was hosted by Whoopi Goldberg as part of the film fest; ten student-made documentaries were screened.
+ 2007-05-09 : Article modified. ID: 527 | Title: Top 5 Summer Workshops | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments Art info >> the list includes a theater workshop, a fashion class at FIT, and a jazz music & education class
+ 2007-05-09 : Article modified. ID: 536 | Title: Tribeca Film Fest: Ludacris (Chris Bridges) | Word Count: 880 | Photo: no | Art: yes | Lede: no | Comments Art please
+ 2007-05-10 : Article added. Title: afterprom (1/4) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-10 : Article added. Title: Vardy (1/2 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-10 : Article added. Title: C2 (1/4 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-12 : Article deleted. ID: 556
+ 2007-05-12 : Article deleted. ID: 555
+ 2007-05-13 : Article added. Title: seed (1/2) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-13 : Article deleted. ID: 544
+ 2007-05-17 : Article added. Title: Brit says Stuy is only average | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments Daily News article
+ 2007-05-17 : Article added. Title: PA loses cell phone policy suit | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Stuy wins Pioneer Award | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments award for mental health awareness
+ 2007-05-17 : Article added. Title: Seniors Without Senioritis | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Danny Hzu  | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: YEAR IN REVIEW: Top 5 Events/Shockers | Word Count: 800 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Timeline of 2006-2007 Events | Word Count: 100 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Movies That Feature Stuy | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Deaths in the Past Year | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Leaving Teachers  | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Big Sib Chairs  | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Seniors w/o Senioritis | Word Count: 700 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article deleted. ID: 573
+ 2007-05-17 : Article added. Title: Resurgance of Pokemon | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Prom Madness | Word Count: 600 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-05-17 : Article modified. ID: 565 | Title: Seniors Without Senioritis | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article modified. ID: 567 | Title: YEAR IN REVIEW: Top 5 Events/Shockers | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-05-17 : Article modified. ID: 566 | Title: Danny Zhu | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article modified. ID: 566 | Title: Danny Zhu | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments E-mail: dzhu@stuy.edu
+ 2007-05-17 : Article deleted. ID: 569
+ 2007-05-17 : Article modified. ID: 571 | Title: Leaving Teachers | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Free Periods: Mr. Novikoff: 2, 3, 6, 7Ms. Lorenzo: 1, 4, 8, 9, 10, Ms. McDermott: 3, 6, 7, 8, also Mr. Connelly (coming)
+ 2007-05-17 : Article modified. ID: 567 | Title: YEAR IN REVIEW: Top 5 Events/Shockers | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments Teitel\'s Trident Policy, Deaths of Gabriel and Eugene, Cancellation of College Trip and Open School Week, Ban on Cell Phones, 
+ 2007-05-17 : Article modified. ID: 567 | Title: YEAR IN REVIEW: Top 5 Events/Shockers | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments Teitel\'s Trident Policy, Deaths of Gabriel and Eugene, Cancellation of College Trip and Open School Week, Cell Phone/iPod Ban, new COSAS
+ 2007-05-17 : Article modified. ID: 570 | Title: Deaths in the Past Year | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Do we have any pictures of students mourning/the meetings they had in the auditorium? If not, then just reuse old pictures we published. 
+ 2007-05-17 : Article modified. ID: 571 | Title: Leaving Teachers | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Free Periods: Mr. Novikoff: 2, 3, 6, 7. Ms. Lorenzo: 1, 4, 8, 9, 10. Ms. McDermott: 3, 6, 7, 8. Mr. Connolly: TK
+ 2007-05-17 : Article modified. ID: 574 | Title: Resurgence of the Popularity of Pokemon | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments shot of Pokemon cards or kids playing Pokemon
+ 2007-05-17 : Article added. Title: Girls Soccer Playoff Update/Season Recap | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments NEXT GAME: Tomorrow (Friday) 18 May at East River Park at 4PM vs. Lab Museum United, PLAYOFF GAME TBD
+ 2007-05-17 : Article added. Title: Boys Outdoor Track Championship Update | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments Manhattan Borough Championships: Sunday 20 May at Randalls Island, events start at 9AM
+ 2007-05-17 : Article added. Title: Girls Softball Season Recap | Word Count: 450 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Boys Baseball Season Recap | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments NEXT (and possibly last) GAME: Tomorrow (Fri) 18 May vs. Beacon School at 4PM at Col. Young Park. (143rd Street and Lenox Avenue)
+ 2007-05-17 : Article added. Title: Boys Golf Season Recap / Playoff Update | Word Count: 500  | Photo: yes | Art: yes | Lede: no | Comments NEXT MEET TBD, ART PLEASE STAND-BY
+ 2007-05-17 : Article added. Title: Elections and Profiles | Word Count: 1400 | Photo: yes | Art: no | Lede: no | Comments Primaries: May 29th
+ 2007-05-17 : Article added. Title: Girls Handball Playoff Update | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments NEXT PLAYOFF GAME: Friday 18 May at Central Park @ W97st, at 4:30PM vs. Franklin D. Roosevelt High School, Quarterfinals: Mon 21 May at TBD, SEMIFINALS: Wed 23 May at TBD
+ 2007-05-17 : Article added. Title: Boys Handball Playoff Update | Word Count: 500 | Photo: yes | Art: yes | Lede: no | Comments NEXT ROUND: Mon 21 May at Site TBD, Quarterfinals: Tues 22 May at site TBD, Semifinals: Thurs 24 May at site TBD
+ 2007-05-17 : Article modified. ID: 582 | Title: Girls Handball Playoff Update | Word Count: 400 | Photo: yes | Art: yes | Lede: no | Comments NEXT PLAYOFF GAME: Friday 18 May at Central Park @ W97st, at 4:30PM vs. Franklin D. Roosevelt High School, Quarterfinals: Mon 21 May at TBD, SEMIFINALS: Wed 23 May at TBD
+ 2007-05-17 : Article added. Title: Girls Outdoor Track Championship Update | Word Count: 400 | Photo: yes | Art: yes | Lede: no | Comments Please see Boys Track Info
+ 2007-05-17 : Article added. Title: Athlete Spotlight: Jon Menella (Boys Baseball) | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments Please see Boys Baseball for game info, contact info: e-mail is jonnyboy413@aol
+ 2007-05-17 : Article added. Title: Alumnus Spotlight: Telly Leung, Bway Star | Word Count: 750 | Photo: yes | Art: no | Lede: no | Comments I\'ll take care of the photo.
+ 2007-05-17 : Article added. Title: Preview: Rock Bottom Remainders concert | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments Rock Bottom Remainders is a rock band made up of literary giants (Frank McCourt, Stephen King, Amy Tan, etc).
+ 2007-05-17 : Article added. Title: Spring Concert review | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments Similar to the musical showcases article.
+ 2007-05-17 : Article added. Title: Unearthed from the Slush Pile | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments The CD is Simon Joyner.
+ 2007-05-17 : Article added. Title: Ned Vizzini interview | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: NEWS ARTICLE: Peglegs To Have Home Games at Pier 40 | Word Count: 400 | Photo: no | Art: yes | Lede: yes | Comments Uh, Can you imagine an art thing about having a home game?
+ 2007-05-17 : Article modified. ID: 579 | Title: Boys Baseball Season Recap | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments NEXT GAME: Tomorrow (Fri) 18 May vs. Beacon School at 4PM at Col. Young Park. (143rd Street and Lenox Avenue), PLAYOFF GAME: TBD
+ 2007-05-17 : Article added. Title: Taste of Tribeca | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-17 : Article added. Title: Michael Lipkin on something | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments the article pushed back from last issue. photo of lipkin, if you don\'t have already.
+ 2007-05-17 : Article added. Title: AP Courses That Don\'t Count | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments photo of Sadman Islam, RKOxLegendKiller@aol.com
+ 2007-05-17 : Article added. Title: Advanced English electives at Stuy (especially for underclassmen) are lacking | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments photo of James, our A&E EIT.
+ 2007-05-17 : Article added. Title: Wyndam\'s concluding article | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments The mammoth article I\'ve been waiting for, for over a year now.
+ 2007-05-17 : Article added. Title: Tiffany Wong\'s last article | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments yay?
+ 2007-05-17 : Article added. Title: Vardy (1/2 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-17 : Article added. Title: C2 (1/4 pg) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-17 : Article added. Title: afterprom (1/4) | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-17 : Article added. Title: Boys Volleyball Update | Word Count: 450 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-05-17 : Article modified. ID: 575 | Title: Prom Madness | Word Count: 600 | Photo: yes | Art: no | Lede: yes | Comments a picture of a prom invitation, if it\'s possible
+ 2007-05-17 : Article modified. ID: 575 | Title: Prom Madness | Word Count: 600 | Photo: yes | Art: no | Lede: yes | Comments photo info: a picture of a prom invitation, if it
+ 2007-05-17 : Article modified. ID: 565 | Title: Seniors Without Senioritis | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments photo info: TK
+ 2007-05-19 : Article modified. ID: 574 | Title: Resurgence of the Popularity of Pokemon | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments non-editorializing art
+ 2007-05-19 : Article modified. ID: 574 | Title: Resurgence of the Popularity of Pokemon | Word Count: 650 | Photo: no | Art: yes | Lede: no | Comments non-editorializing art
+ 2007-05-19 : Article modified. ID: 565 | Title: Seniors Without Senioritis | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-19 : Article modified. ID: 570 | Title: Deaths in the Past Year | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-20 : Article modified. ID: 601 | Title: Boys Volleyball Update | Word Count: 350 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-05-20 : Article modified. ID: 583 | Title: Boys Handball Playoff Update | Word Count: 500 | Photo: yes | Art: yes | Lede: no | Comments NEXT ROUND: Mon 21 May at Central Park W97 Street Court  vs Bronx Science, Quarterfinals: Tues 22 May at site TBD, Semifinals: Thurs 24 May at Grand Street Campus
+ 2007-05-20 : Article modified. ID: 582 | Title: Girls Handball Playoff Update | Word Count: 350 | Photo: yes | Art: yes | Lede: no | Comments Season has ended! If photo was not obtained, we\'ll take art instead.
+ 2007-05-20 : Article modified. ID: 579 | Title: Boys Baseball Season Recap | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments Playoffs Start Wed, site TBD
+ 2007-05-20 : Article modified. ID: 578 | Title: Girls Softball Season Recap | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments Season ended Friday.
+ 2007-05-20 : Article modified. ID: 576 | Title: Girls Soccer Playoff Update/Season Recap | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments NEXT GAME: Tuesday 22 May at East River Park at 4PM vs. Beacon, PLAYOFF GAME TBD
+ 2007-05-20 : Article added. Title: Thelonius Monk case gone | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments There used to be a case for Monk, now there isn\'t, and someone is wondering why.
+ 2007-05-21 : Article deleted. ID: 594
+ 2007-05-21 : Article added. Title: A Satirical Take On Student Concerns | Word Count: 750 | Photo: yes | Art: no | Lede: no | Comments new photo of Yasha, please.
+ 2007-05-21 : Article added. Title: On the school choir | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments photo of Valeriya Tsitron, blingii@yahoo.com
+ 2007-05-22 : Article added. Title: Certamen coverage | Word Count: 800 | Photo: yes | Art: no | Lede: no | Comments Bowl is taking place at Bronx Science
+ 2007-05-22 : Article added. Title: Secret Ice Cream Escapades | Word Count: 750 | Photo: no | Art: yes | Lede: no | Comments Will be late. 5/28. An article about places in all 5 boroughs where you can get mad good ice cream. Screw Baskin Robbins.
+ 2007-05-22 : Article added. Title: Club Spotlight: A Capella | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Photo info: they will be meeting in room 133 the rest of this week. Helen Ho/7186804690/AIM: paperclipofperil
+ 2007-05-22 : Article modified. ID: 606 | Title: Secret Ice Cream Escapades | Word Count: 750 | Photo: yes | Art: no | Lede: no | Comments Will be late. 5/28. An article about places in all 5 boroughs where you can get mad good ice cream. Screw Baskin Robbins.
+ 2007-05-24 : Article added. Title: Spring Comedy review | Word Count: 800 | Photo: yes | Art: no | Lede: yes | Comments Will be late, since Spring Comedy is on 5/31 and 6/1.
+ 2007-05-27 : Article added. Title: surveys | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-05-27 : Article added. Title: stuy adopts new DOE format | Word Count: 700 | Photo: no | Art: no | Lede: yes | Comments DOE stuy website too (has stats)
+ 2007-05-27 : Article deleted. ID: 587
+ 2007-05-28 : Article deleted. ID: 564
+ 2007-05-28 : Article modified. ID: 592 | Title: Taste of Tribeca | Word Count: 620 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-28 : Article modified. ID: 590 | Title: Ned Vizzini interview | Word Count: 750 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-05-28 : Article modified. ID: 589 | Title: Unearthed from the Slush Pile | Word Count: 460 | Photo: no | Art: yes | Lede: no | Comments The CD is Simon Joyner.
+ 2007-05-28 : Article modified. ID: 588 | Title: Spring Concert review | Word Count: 430 | Photo: no | Art: yes | Lede: no | Comments Similar to the musical showcases article.
+ 2007-05-28 : Article modified. ID: 607 | Title: Club Spotlight: A Capella | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments Photo info: they will be meeting in room 133 the rest of this week. Helen Ho/7186804690/AIM: paperclipofperil
+ 2007-05-29 : Article deleted. ID: 591
+ 2007-05-30 : Article deleted. ID: 604
+ 2007-05-30 : Article modified. ID: 603 | Title: CUT BUT IT WON\'T LET ME CUT IT A Satirical Take On Student Concerns | Word Count: ZERO | Photo: yes | Art: no | Lede: no | Comments new photo of Yasha, please.
+ 2007-05-30 : Article added. Title: Yasha being angry | Word Count: 600 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-30 : Article modified. ID: 611 | Title: Yasha being angry | Word Count: 800 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-05-30 : Article deleted. ID: 603
+ 2007-05-30 : Article modified. ID: 574 | Title: Resurgence of the Popularity of Pokemon | Word Count: 750 | Photo: no | Art: yes | Lede: no | Comments non-editorializing art
+ 2007-08-09 : Article added. Title: Recycling at Stuy | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-08-09 : Article added. Title: Student/Parent Fears As They Enter the Stuy Community | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-08-09 : Article added. Title: Incoming Freshmen/Stuy Admissions Test | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-08-09 : Article added. Title: Saying \"HI | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-08-09 : Article modified. ID: 615 | Title: Saying \"Hi | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-08-09 : Article modified. ID: 615 | Title: Saying \"Hi\" In the Hallway | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-08-09 : Article modified. ID: 612 | Title: Recycling at Stuy | Word Count: 600 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-08-09 : Article modified. ID: 613 | Title: Student/Parent Fears As They Enter the Stuy Community | Word Count: 700 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-08-22 : Article added. Title: The Many Faces of Stanley Teitel: A Photo Essay | Word Count: 0 | Photo: yes | Art: no | Lede: no | Comments Just kidding.
+ 2007-08-22 : Article deleted. ID: 616
+ 2007-09-06 : Article added. Title: 1/4 Page Ad Olympiad | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-09-06 : Article added. Title: 1/2 Page Ad Vardy Orthodontics | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-09-06 : Article added. Title: Piece By Mark | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-09-06 : Article added. Title: Racial Discrimination In Test-Prep Program | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments the article pushed back from last issue. photo: shadia.karim@gmail.com
+ 2007-09-06 : Article added. Title: Piece By Yasha | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments  some new angle on student rights issues.
+ 2007-09-06 : Article added. Title: Students with cool jobs: JJ Russo, Film Intern | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments JJ has 6th period lunch and 10th period free. His phone number is 917-287-0072.
+ 2007-09-06 : Article added. Title: CD review: MC Lars "The Graduate" | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments "the Graduate" by MC Lars - nerdcore laptop rock
+ 2007-09-06 : Article added. Title: Stacy Wang Wins Miss Chinese 2007 | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments Away at college. Website photo.
+ 2007-09-06 : Article added. Title: Alec Klein Signs and Read His Book | Word Count: 250 | Photo: yes | Art: no | Lede: no | Comments Short newsy blurb. 9/17, 6pm, theater
+ 2007-09-06 : Article added. Title: Back-to-school gadgets | Word Count: 500 | Photo: no | Art: yes | Lede: no | Comments Will let you know what to draw soon
+ 2007-09-06 : Article added. Title: Cafes Beyond the Starbucks | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 5 locations in lower Manhattan; photo info has been emailed to the photo editors.
+ 2007-09-06 : Article deleted. ID: 615
+ 2007-09-06 : Article deleted. ID: 614
+ 2007-09-06 : Article deleted. ID: 613
+ 2007-09-06 : Article deleted. ID: 612
+ 2007-09-06 : Article added. Title: Life of an Opera Singer | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-09-06 : Article added. Title: How Technology Helps/Hinders Stuy | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-09-06 : Article added. Title: Stuy Through Others Eyes | Word Count: 800 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-09-06 : Article added. Title:  | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-09-06 : Article added. Title: Top 5 Misconceptions About Stuy | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-06 : Article added. Title: Nooks and Crannies Compilation | Word Count: 800 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-09-06 : Article added. Title: Style Profile | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-09-06 : Article added. Title: Teacher Feature: TBA | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-09-06 : Article added. Title: Recycling at Stuy | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-09-06 : Article deleted. ID: 631
+ 2007-09-06 : Article added. Title: 1 new science period/week | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments follow up with more detail of previous article
+ 2007-09-06 : Article added. Title: college essay advisers | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments PA looking into hiring advisers for the seniors
+ 2007-09-06 : Article added. Title: 5 new science teachers | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments mentioned in past article, more detailed about why and how they were hired, subjects they will teach and small profiles
+ 2007-09-06 : Article added. Title: new school codes | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments DOE-wide revision of school codes
+ 2007-09-06 : Article added. Title: teacher ID cards | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments about them, and opinions of teachers
+ 2007-09-06 : Article added. Title: Ms. Manwell sick and out of school | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments looking into whats wrong and how she is doing
+ 2007-09-06 : Article modified. ID: 634 | Title: Style Profile | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments Colette Brown is free 4th period.  She teaches in room 838 third period, but she might be in the English office or in the library 4th (she is not free after school).  Her e-mail is cbrown@stuy.edu.
+ 2007-09-06 : Article modified. ID: 634 | Title: Style Profile | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments Colette Brown is free 4th period.  She teaches in room 838 third period, but she might be in the English office or in the library 4th (she is not free after school).  Her e-mail is cbrown@stuy.edu. however, other info TK
+ 2007-09-06 : Article modified. ID: 634 | Title: Style Profile | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments Colette Brown is free 4th period.  She teaches in room 838 third period, but she might be in the English office or in the library 4th (she is not free after school).  Her e-mail is cbrown@stuy.edu.
+ 2007-09-06 : Article modified. ID: 633 | Title: Nooks and Crannies Compilation | Word Count: 800 | Photo: yes | Art: no | Lede: no | Comments these are the places included: Copy Cage, Hudson Staircase, Costume Room, Floor above the 10th floor which must not be named, Catwalks
+ 2007-09-07 : Article added. Title: Girls Volleyball Preview | Word Count: 400 | Photo: yes | Art: no | Lede: yes | Comments PHOTO: Practice is everyday EXCEPT Thursday after 9th and 10th Period
+ 2007-09-07 : Article added. Title: Girls Swimming | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-09-07 : Article modified. ID: 643 | Title: Girls Volleyball Preview | Word Count: 400 | Photo: yes | Art: no | Lede: yes | Comments PHOTO: Practice is everyday EXCEPT Thursday after 9th and 10th Period in the third floor gym
+ 2007-09-07 : Article modified. ID: 644 | Title: Girls Swimming Preview | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments 
+ 2007-09-07 : Article added. Title: Feature: Female Plays as Runningback on JV Team | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments JV Team has practice everyday at Pier 40 at 3:30PM (after tenth)
+ 2007-09-07 : Article added. Title: Boys Cross Country Update | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments Mainly about how the team received a high jump set from the departing seniors, who also negotiated with Ms. Singer on using the equipment in the school. 
+ 2007-09-07 : Article added. Title: Short Farewell by Mark | Word Count: 250 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-09-07 : Article added. Title: Peglegs Season Opener | Word Count: 400 | Photo: yes | Art: no | Lede: yes | Comments 
+ 2007-09-07 : Article modified. ID: 644 | Title: Girls Swimming Preview | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments Practice afterschool in the pool.
+ 2007-09-08 : Article modified. ID: 625 | Title: Alec Klein Signs and Read His Book | Word Count: 250 | Photo: yes | Art: no | Lede: no | Comments Short newsy blurb. Will be late as event occurs on production week. 9/17, 6pm, theater
+ 2007-09-08 : Article modified. ID: 636 | Title: Recycling at Stuy | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments nothing specific really, just something that pertains to recycling
+ 2007-09-08 : Article modified. ID: 629 | Title: How Technology Helps/Hinders Stuy | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments edit: no photo
+ 2007-09-08 : Article modified. ID: 628 | Title: Life of an Opera Singer | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments her name is Francesca DiDomenico
+ 2007-09-08 : Article modified. ID: 629 | Title: How Technology Helps/Hinders Stuy | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments edit: no photo
+ 2007-09-08 : Article modified. ID: 634 | Title: Style Profile | Word Count: 550 | Photo: no | Art: yes | Lede: no | Comments no photo. if there is, itll be provided
+ 2007-09-08 : Article modified. ID: 636 | Title: Recycling at Stuy | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments Picture of Restuyclers, trash storage, Mr. Realmuto: room 1039 during 4th period
+ 2007-09-08 : Article deleted. ID: 635
+ 2007-09-08 : Article modified. ID: 628 | Title: Life of an Opera Singer | Word Count: 650 | Photo: yes | Art: no | Lede: yes | Comments her name is Francesca DiDomenico, see email for complete info
+ 2007-09-08 : Article modified. ID: 630 | Title: Stuy Through Others Eyes | Word Count: 800 | Photo: yes | Art: no | Lede: no | Comments Icee man, subway worker, parks worker, ice cream lady, anthony from portobellos
+ 2007-09-08 : Article modified. ID: 639 | Title: 5 new science teachers | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments mentioned in past article, more detailed about why and how they were hired, subjects they will teach and small profiles
+ 2007-09-08 : Article modified. ID: 639 | Title: 5 new science teachers | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments mentioned in past article, more detailed about why and how they were hired, subjects they will teach and small profiles. Their periods: dr. Ali-3, 4, 10 and sometimes 6 and 9; Mr. Want- 3, 4, 5, 10 and sometimes 6 and 9; Ms. Pluchino- 1, 2, 4, 7, 8; ms. paik- 1,2,4,5,8,9  and ms. kivi- 3,7,10 and sometimes 2, 5, 8; Ali and Wang are physics, the rest are chem but are sometimes on the physics floor.
+ 2007-09-08 : Article modified. ID: 639 | Title: 5 new science teachers | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments mentioned in past article, more detailed about why and how they were hired, subjects they will teach and small profiles. Their periods: dr. Ali-3, 4, 10 and sometimes 6 and 9; Mr. Wang- 3, 4, 5, 10 and sometimes 6 and 9; Ms. Pluchino- 1, 2, 4, 7, 8; ms. paik- 1,2,4,5,8,9  and ms. kivi- 3,7,10 and sometimes 2, 5, 8; Ali and Wang are physics, the rest are chem but are sometimes on the physics floor.
+ 2007-09-08 : Article modified. ID: 639 | Title: 5 new science teachers | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments mentioned in past article, more detailed about why and how they were hired, subjects they will teach and small profiles.mentioned in past article, more detailed about why and how they were hired, subjects they will teach and small profiles.
+ 2007-09-08 : Article added. Title: update on lockers | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments just getting some answers questioned
+ 2007-09-08 : Article added. Title: SU needing permission to talk with teitel | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments dont yet know the exact situation
+ 2007-09-08 : Article modified. ID: 650 | Title: SU needing permission to talk with teitel | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments do not yet know the exact situation
+ 2007-09-08 : Article added. Title:  | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments a little investigative journalism.. the truth on why teitel will not let us out during frees
+ 2007-09-08 : Article modified. ID: 651 | Title: going  out for frees | Word Count: 400 | Photo: no | Art: no | Lede: yes | Comments a little investigative journalism.. the truth on why teitel will not let us out during frees
+ 2007-09-08 : Article added. Title: Fewer teachers teaching AP chem | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments there are now only 2 teachers teaching AP chem, there were more in the past
+ 2007-09-09 : Article modified. ID: 620 | Title: Chorus Lunch | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments by Valeriya Tsitron, blingii@yahoo.com
+ 2007-09-09 : Article added. Title: Letter To The Editor  | Word Count: 300ish | Photo: yes | Art: yes | Lede: yes | Comments re: parents giving incentives to get kids into stuy
+ 2007-09-09 : Article modified. ID: 621 | Title: Piece By Yasha | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments  some new angle on student rights issues.
+ 2007-09-10 : Article deleted. ID: 622
+ 2007-09-11 : Article added. Title: 1/4 samurai sam | Word Count:  | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-09-13 : Article deleted. ID: 632
+ 2007-09-13 : Article deleted. ID: 633
+ 2007-09-13 : Article deleted. ID: 629
+ 2007-09-13 : Article deleted. ID: 651
+ 2007-09-13 : Article deleted. ID: 642
+ 2007-09-13 : Article deleted. ID: 639
+ 2007-09-13 : Article deleted. ID: 650
+ 2007-09-13 : Article added. Title: Japanese Peace Workshop | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-09-13 : Article modified. ID: 627 | Title: Cafes Beyond the Starbucks | Word Count: 950 | Photo: yes | Art: no | Lede: no | Comments 5 locations in lower Manhattan; photo info has been emailed to the photo editors.
+ 2007-09-13 : Article modified. ID: 625 | Title: Alec Klein Signs and Read His Book | Word Count: 150 | Photo: yes | Art: no | Lede: no | Comments Short newsy blurb. Will be late as event occurs on production week. 9/17, 6pm, theater
+ 2007-09-13 : Article modified. ID: 618 | Title: 1/2 Page Ad Vardy Orthodontics | Word Count:  | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-13 : Article modified. ID: 617 | Title: 1/4 Page Ad Olympiad | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-13 : Article modified. ID: 654 | Title: 1/4 samurai sam | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-14 : Article deleted. ID: 621
+ 2007-09-14 : Article modified. ID: 619 | Title: Piece By Mark | Word Count: 550 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-09-14 : Article modified. ID: 649 | Title: update on lockers | Word Count: 800 | Photo: no | Art: no | Lede: no | Comments just getting some answers questioned
+ 2007-09-14 : Article modified. ID: 649 | Title: update on lockers | Word Count: 800 | Photo: no | Art: no | Lede: no | Comments just getting some questions answered
+ 2007-09-17 : Article modified. ID: 654 | Title: 1/4 samurai sam | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments changes need to be made
+ 2007-09-17 : Article added. Title: 1/2 page autonautics ad | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments changes need to be made
+ 2007-09-17 : Article added. Title: 1/2 page autonautics ad | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments changes need to be made
+ 2007-09-20 : Article added. Title: Feature: The Coaches Selection Process | Word Count: 700 | Photo: yes | Art: yes | Lede: yes | Comments PHOTO INFO, choose one of 3 coaches. 1 Phil Fisher 2 Vincent Miller 3 Joel Winston. these are the coaches my writer has talked to so far. check e-mail for more info. for art, a nice little cartoon maybe about picking coaches?
+ 2007-09-20 : Article added. Title: Feature: Where are they now? | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments Cant really do photo since most of the people profiled are in college. so art, something about how people have changed from high school to college 
+ 2007-09-20 : Article added. Title: Column (Audition) | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments As soon as we select the column, we will give you photo info immediately. 
+ 2007-09-20 : Article added. Title: 1/4 Page Olympiad | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-09-20 : Article added. Title: Boys Soccer Update | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments PHOTO INFO, Next games are on Tuesday Sept 25 at 4PM at East River Park vs. Beacon School  (take M22, the bus near school, all the way to the last stop), game also on Thurs Sept 27 at East River Park also at 4PM vs. A.P. Randolph. 
+ 2007-09-20 : Article added. Title: 1/4 Samuria Sams | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments Needs to be modified
+ 2007-09-20 : Article added. Title: 1/4 C2 Education | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-09-20 : Article added. Title: Boys Bowling Preview | Word Count: 400 | Photo: yes | Art: no | Lede: no | Comments games on Sept 24 and 27 at 345PM at Leisure time lanes located near Port Authority Bus Terminal
+ 2007-09-20 : Article added. Title: Boys Fencing Preview | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments art icon
+ 2007-09-20 : Article added. Title: PEGLEGS HOMECOMING GAME | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments game is at Pier 40 on Friday Sept 28 at 6PM, i will make a credential for you so that you can get on the field
+ 2007-09-20 : Article added. Title: 1/2 page bookstore ad | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-09-20 : Article added. Title: Day in the Life of...a Chess Master  | Word Count: 750  | Photo: yes | Art: no | Lede: yes | Comments Robert Hess, sophomore, cell: 917 331 5613, email: robert.hess2@verizon.net , AIM sn: hess439, 9 and 10th free, 5th gym (A schedule)
+ 2007-09-20 : Article added. Title: Past and Present: Obstacles for Incoming Freshmen | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments 
+ 2007-09-20 : Article added. Title: Meet the New Teachers | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments photo info coming within the hour
+ 2007-09-20 : Article modified. ID: 671 | Title: Meet the New Teachers | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments an introduction to the new teachers, stats and all. photo info coming within the hour.
+ 2007-09-20 : Article added. Title: School Spirit | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments PHOTO: Cheerleaders; they practice every day after school in the northern part of the park starting tomorrow. 
+ 2007-09-20 : Article added. Title: Teachers Pets | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments a punny article. photo info coming within the hour.
+ 2007-09-20 : Article added. Title: Math vs. English | Word Count: 700 | Photo: no | Art: no | Lede: yes | Comments With the science program lacking and the English dept. being praised, is Stuy still a technical school? IT WONT LET ME WRITE MORE. 
+ 2007-09-20 : Article modified. ID: 670 | Title: Past and Present: Obstacles for Incoming Freshmen | Word Count: 650 | Photo: no | Art: no | Lede: no | Comments Comparing struggles & obstacles freshmen face both today and in the past.
+ 2007-09-20 : Article added. Title: AP courses vs. regular ones | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments What does AP even mean in a school where everyone takes one?
+ 2007-09-20 : Article added. Title: Numbers | Word Count: 50 | Photo: no | Art: no | Lede: no | Comments its so good get excited
+ 2007-09-20 : Article added. Title: Top 5 rumors about stuy | Word Count: TENTATIVE | Photo: no | Art: no | Lede: no | Comments this article is tentative.
+ 2007-09-20 : Article modified. ID: 677 | Title: Top 5 rumors about stuy | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments this article is tentative.
+ 2007-09-20 : Article added. Title: JJ Russo, Film Intern | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments JJ has 6th period lunch and 10th period free. His phone number is 917-287-9972. 
+ 2007-09-20 : Article added. Title: New Specialized High Schools | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments there are going to be new specialized high schools
+ 2007-09-20 : Article added. Title: Could You be the Next Korean Pop Star?! | Word Count: 600 | Photo: no | Art: yes | Lede: no | Comments SM Entertainment, who helped launch the careers of Super Junior & Boa, are holding auditions next week and some Stuy students will be trying out...
+ 2007-09-20 : Article added. Title: Speech and Debate Documentary | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments Following two seniors (NIki and Chloe); Photo, would you be able to get a picture tomorrow? It might be their last day in school
+ 2007-09-20 : Article added. Title: Yan is Back | Word Count: 300 | Photo: no | Art: no | Lede: no | Comments Short bite about him coming back
+ 2007-09-20 : Article added. Title: Fong in ads in MTA for DOE | Word Count: 250 | Photo: yes | Art: no | Lede: no | Comments A real short byte; Photo, is it too ridiculous to try to find in on the subway? If so, she might have a copy or else online maybe.
+ 2007-09-20 : Article added. Title: Foreign Language Requirements & Hostility to Exchange programs | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments by Rebecca Elliot, our editor-in-training. email is beccafe@earthlink.net.
+ 2007-09-20 : Article added. Title: Mamouns Falafel restaurant review | Word Count: 400 | Photo: no | Art: yes | Lede: no | Comments the falafels here are mad good
+ 2007-09-20 : Article added. Title: Relation between Princeton Review and Stuy | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments why can we not use apostrophes?
+ 2007-09-20 : Article added. Title: Snapple juice machines & contracts with city not good idea... | Word Count: 600 | Photo: yes | Art: no | Lede: no | Comments by Kiran Sury. his criticism will be based on nutritional and taste value, and will probably question the competitive bidding process. email: kiran_sury92@yahoo.com.
+ 2007-09-20 : Article added. Title: CD Review on Backstreet Boys | Word Count: 350 | Photo: no | Art: yes | Lede: no | Comments Backstreet Boys self-titled CD (1997) will forever be in my heart
+ 2007-09-20 : Article added. Title: Tropfest@Tribeca | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments Short films fest at World Financial Center, 5pm, Sunday Sept 23
+ 2007-09-20 : Article added. Title: The lunchroom wasting food and money | Word Count: 450 | Photo: yes | Art: no | Lede: no | Comments by Ben Wadowski, about how the lunchroom at Stuy forces you to take an entire lunch even if you just want one thing, like an apple. humorous, hopefully. email: benjw1@optonline.net.
+ 2007-09-20 : Article modified. ID: 683 | Title: Fong in ads in MTA for UFT | Word Count: 250 | Photo: yes | Art: no | Lede: no | Comments A real short byte; Photo, is it too ridiculous to try to find in on the subway? If so, she might have a copy or else online maybe.
+ 2007-09-20 : Article modified. ID: 673 | Title: Teachers Pets | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments jshimmel@stuy.edu for Ms. Shimmel, jdweil@vzavenue.net for Mr. Weil, and emoore@stuy.edu for Ms. Moore. more deets coming to your inboxes, photoeee
+ 2007-09-20 : Article modified. ID: 678 | Title: Student Profile: Audri Augenbraum | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Photo info will be posted ASAP
+ 2007-09-20 : Article added. Title: Stuyle Profile: student Jon Raphael Cornell | Word Count: 300 | Photo: yes | Art: yes | Lede: no | Comments art? photo? lets see how the art looks in issue 2.
+ 2007-09-20 : Article modified. ID: 678 | Title: Student Profile: Audri Augenbraum | Word Count: 700 | Photo: yes | Art: no | Lede: no | Comments Phone number is 9179032794 and has lunch eighth period, usually goes to Pane Pepes or Terrys
+ 2007-09-20 : Article modified. ID: 671 | Title: Meet the New Teachers | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments an introduction to the new teachers, stats and all. photo info in the features pasteup email.
+ 2007-09-20 : Article added. Title: new homerooms | Word Count: 500 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-20 : Article added. Title: voided if late | Word Count: 300 | Photo: no | Art: no | Lede: no | Comments this policy has been in place the whole year, enforcing it now
+ 2007-09-20 : Article added. Title: SU Cosa-monitored meetings with teitel | Word Count: 450 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-20 : Article modified. ID: 671 | Title: Meet the New Teachers | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments an introduction to the new teachers, stats and all. photo info in the features pasteup email. 1. Jamal Ali- Physics 2. Neil Wang- Physics 3. Jee Paik- Chemistry 4. Kristyn Pluchino- Chemistry 5. Jeffrey Kivi- Chemistry 6. Choubaralian Vasken- PE 7. Manuel Simon- Foreign Language
+ 2007-09-20 : Article modified. ID: 671 | Title: Meet the New Teachers | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments an intro to the new teachers, stats and all. 1. Jamal Ali- Physics 2. Neil Wang- Physics 3. Jee Paik- Chemistry 4. Kristyn Pluchino- Chemistry 5. Jeffrey Kivi- Chemistry 6. Choubaralian Vasken- PE 7. Manuel Simon- Foreign Language
+ 2007-09-20 : Article modified. ID: 671 | Title: Meet the New Teachers | Word Count: 500 | Photo: yes | Art: no | Lede: yes | Comments 1. Jamal Ali- Physics 2. Neil Wang- Physics 3. Jee Paik- Chemistry 4. Kristyn Pluchino- Chemistry 5. Jeffrey Kivi- Chemistry 6. Choubaralian Vasken- PE 7. Manuel Simon- Foreign Language
+ 2007-09-20 : Article modified. ID: 661 | Title: 1/4 Page Olympiad | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-20 : Article modified. ID: 663 | Title: 1/4 Samuria Sams | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments Needs to be modified
+ 2007-09-20 : Article modified. ID: 664 | Title: 1/4 C2 Education | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-20 : Article modified. ID: 668 | Title: 1/2 page bookstore ad | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-22 : Article added. Title: Interview with directors of FRONTRUNNERS | Word Count: 750 | Photo: yes | Art: no | Lede: no | Comments Photo info TK
+ 2007-09-22 : Article modified. ID: 685 | Title: Mamouns Falafel restaurant review | Word Count: 400 | Photo: yes | Art: yes | Lede: no | Comments Photo info: http://www.mamounsfalafel.com - 22 St Marks Pl
+ 2007-09-22 : Article deleted. ID: 677
+ 2007-09-22 : Article deleted. ID: 674
+ 2007-09-22 : Article deleted. ID: 691
+ 2007-09-23 : Article added. Title: The 4 Main Characters of "A Class Apart"  | Word Count: 750 | Photo: yes | Art: no | Lede: yes | Comments What do they think of the book? Did it portray them accurately?
+ 2007-09-23 : Article modified. ID: 673 | Title: Teachers Pets | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments teacher/frees (1) English teacher Jonathan Weil/period 7 (2) English teacher Emily Moore/period 7 (3) Math teacher Joy Shimmel/period 4,5,9,10 but doesnt stick around, and arrives early (4) Spanish teacher Milton Diaz/period 10 (5) History teacher Phil Scandura/period 10 usually in his room, the antique history room
+ 2007-09-23 : Article modified. ID: 673 | Title: Teachers Pets | Word Count: 650 | Photo: yes | Art: no | Lede: no | Comments teacher/frees (1) English teacher Jonathan Weil/period 7 (2) English teacher Emily Moore/period 7 (3) Math teacher Joy Shimmel/period 4,5,9,10 but doesnt stick around, and arrives early; wont let more
+ 2007-09-24 : Article deleted. ID: 680
+ 2007-09-24 : Article modified. ID: 668 | Title: 1/4 page bookstore ad | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-24 : Article modified. ID: 663 | Title: 1/4 Samurai Sams | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments Needs to be modified
+ 2007-09-28 : Article added. Title: Peglegs Documentary Ad | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments any size- wherever space available
+ 2007-09-30 : Article deleted. ID: 683
+ 2007-09-30 : Article added. Title: Teitel lied about scanners | Word Count: 1000 | Photo: no | Art: no | Lede: yes | Comments 
+ 2007-09-30 : Article added. Title: St Johns gunman was a Stuy graduate | Word Count: 500 | Photo: yes | Art: no | Lede: no | Comments Maybe we can get an Indicator photo?
+ 2007-09-30 : Article added. Title: Seniors do more than one EA | Word Count: 400 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-30 : Article modified. ID: 682 | Title: Yan is Back | Word Count: 600 | Photo: no | Art: no | Lede: no | Comments Short bite about him coming back
+ 2007-09-30 : Article deleted. ID: 660
+ 2007-09-30 : Article added. Title: jets safety Eric Coleman comes to stuy | Word Count: 350 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-09-30 : Article deleted. ID: 672
+ 2007-09-30 : Article deleted. ID: 696
+ 2007-10-01 : Article added. Title: UpYourScore Ad (1/4) page | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 1/4 page.
+ 2007-10-01 : Article modified. ID: 668 | Title: 1/4 page Manhattan Books | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 
+ 2007-10-01 : Article added. Title: EduCaid (1/4 Page) | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 
+ 2007-10-01 : Article modified. ID: 703 | Title: EduCaid (1/4 Page) | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 1/4 page
+ 2007-10-01 : Article modified. ID: 668 | Title: 1/4 page Manhattan Books | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 1/4 Page
+ 2007-10-01 : Article modified. ID: 664 | Title: 1/4 C2 Education | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 1/4 page
+ 2007-10-01 : Article modified. ID: 663 | Title: 1/4 Samurai Sams | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 1/4 Page: Needs to be modified
+ 2007-10-01 : Article modified. ID: 661 | Title: 1/4 Page Olympiad | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 1/4 Page
+ 2007-10-01 : Article modified. ID: 702 | Title: UpYourScore Ad (1/4) page | Word Count: 0 | Photo: yes | Art: yes | Lede: yes | Comments 1/4 page.
+ 2007-10-01 : Article modified. ID: 703 | Title: EduCaid (1/4 Page) | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 1/4 page
+ 2007-10-01 : Article modified. ID: 702 | Title: UpYourScore Ad (1/4) page | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments 1/4 page.
+ 2007-10-01 : Article modified. ID: 697 | Title: Peglegs Documentary Ad | Word Count: 0 | Photo: no | Art: no | Lede: no | Comments any size- wherever space available
+ 2007-10-01 : Article deleted. ID: 686
+ 2007-10-01 : Article modified. ID: 693 | Title: voided if late | Word Count: 300 | Photo: yes | Art: no | Lede: no | Comments this policy has been in place the whole year, enforcing it now

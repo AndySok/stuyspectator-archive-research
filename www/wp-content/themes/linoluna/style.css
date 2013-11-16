@@ -1,0 +1,676 @@
+/*  
+Theme Name: Linoluna
+Theme URI: http://michaelhutagalung.com/2007/12/linoluna-magazine-style-theme-for-wordpress/
+Description: <a href="http://michaelhutagalung.com/2007/12/linoluna-magazine-style-theme-for-wordpress/">Liloluna</a> magazine-style theme for Wordpress. Slideshow of featured articles, tabbed navigation, neat icons, and multiple easy-configurable widgetized sidebars.
+Version: 1.1
+Author: Michael Jubel Hutagalung
+Author URI: http://michaelhutagalung.com/2007/12/linoluna-magazine-style-theme-for-wordpress/
+
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+*/
+
+
+/* HTML Elements */
+* {
+	margin:0;
+	padding:0;
+	}
+
+body {
+	font: 100% Lucida Sans Unicode, Arial, Helvetica;
+	background: #FFF;
+	color: #333;
+	}
+
+p {	
+	margin: 15px 0;
+	}
+
+a:link, a:visited {
+	color: #009933;
+	text-decoration:none
+	}
+
+a:hover, a:active {
+	color:#333;
+	text-decoration:underline;
+	}
+
+a img {
+	border:0;
+	}
+
+code {
+	font: 1.1em 'Courier New', Courier, Fixed;
+	}	
+
+acronym, abbr, span.caps {	
+	font-size: 0.9em;
+	letter-spacing: .07em;
+	cursor: help;
+	}			
+
+acronym, abbr {
+	border-bottom: 1px dashed #999;
+	}
+
+blockquote {
+	width:200px;
+	padding: 10px 10px 0 10px;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd;
+	background: #ccff99;
+	float:right;
+	font:1.0em Georgia;
+	line-height:1.5em;
+	margin:10px 0px 10px 10px;
+	}
+
+select {
+	width: 130px;
+	}	
+
+
+
+/* Structure */
+
+
+#page {
+	width:970px;
+	margin:15px auto;
+	padding:0px;
+	}
+
+.left {
+	float:left;
+	}
+
+.right {
+	float:right;
+	}
+
+
+/* Header*/
+.nav {
+	margin-top:5px;
+	font-size:0.7em;
+	}
+
+.nav-bar {
+	height:15px;
+	margin:10px 0px;
+	background:#eee;
+	font-size:0.7em;
+	padding:3px 10px 1px 0px;
+	}
+
+.nav-bar span {
+	float:right;
+	}
+
+.nav-bar span a {
+	color: #333;
+	}
+
+/* Text*/
+
+h1 {
+	font:3.0em Arial;
+	font-weight:bold;
+	}
+
+h2 {
+	font:2.3em Georgia;
+	padding-bottom:10px;
+	}
+
+h3 {
+	font:1.3em Georgia;
+	margin-bottom:3px;
+	color:#009933;
+	}
+
+h4 {
+	font:1.0em Georgia;
+	}
+
+h3#respond {
+	border-top:1px dotted #ccc;
+	margin-top:25px;
+	padding-top:20px;
+	}
+
+h3#comments {
+	margin-top:32px;
+	padding-left:0px;
+	}
+
+/* Content*/
+
+#logo {
+	width:350px;
+	}
+
+#logo .webtitle {
+	border-bottom:1px solid #bbb;
+	letter-spacing:-0.05em;
+	line-height:1.0em;
+	}
+
+#logo .description {
+	font-size:0.7em;
+	color:#bbb;
+	text-transform:uppercase;
+	letter-spacing:-0.05em;
+	float:right;
+	}
+
+#content {
+	width:636px;
+	border:1px solid #ccc;
+	float:left;
+	font-size:0.7em;
+	}
+
+#aside {
+	padding:10px;
+	}
+
+#aside .clearfloat {
+	margin:0px 0px 10px 0px;
+	border-bottom:1px dotted #ccc;
+	}
+
+#aside-1 {
+	width:190px;
+	float:left;
+	padding:10px;
+	}
+	
+#aside-2 {
+	width:190px;
+	float:left;
+	padding:10px;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+	}
+
+#aside-3 {
+	width:190px;
+	float:right;
+	padding:10px;
+	}
+ 
+#aside-1 img, #aside-2 img, #aside-3 img {
+	border:1px solid #ccc;
+	float:left;
+	margin:4px 8px 2px 0px;
+	}
+
+#aside img, #archive img {
+	border:1px solid #ccc;
+	float:left;
+	margin:4px 10px 15px 0px;
+	}
+
+#aside p {
+	margin-top:4px;
+	}
+
+#aside-1 p, #aside-2 p, #aside-3 p, #archive p {
+	margin-top:0px;
+	}
+
+.title
+	{
+	font:1.5em Georgia;
+	line-height:1.0em;
+	font-weight:bold;
+	}
+
+.author, .author a {
+	font:0.9em Arial;
+	color:#777;
+	text-transform:uppercase;
+	}
+
+.meta, .meta a {
+	font-size:0.9em;
+	}
+
+#aside h3 a, #aside-1 h3 a, #aside-2 h3 a, #aside-3 h3 a {
+	font:10px Arial;
+	color:#333;
+	}
+
+.post, #archive {
+	padding:10px;
+	}
+
+.post p {
+	margin-top:0px;
+	}
+
+.post .clearfloat {
+	border-bottom:1px dotted #ccc;
+	margin:10px 0px;
+	}
+
+.post .title {
+	font-size:2.3em;
+	margin:3px 0px 3px 0px;
+	}
+
+.post ul, .post ol {
+	margin-bottom:15px;
+	}
+
+.post ul li {	
+	list-style:square;
+	margin-left:30px;
+	}
+
+.post ol li {	
+	list-style:decimal;
+	margin-left:30px;
+	}
+
+.post ol li ul li {	
+	list-style:square;
+	margin-left:20px;
+	}
+
+.post .ads {
+	margin-top:10px;
+	}
+
+#top_banner {
+	margin:5px 0px 15px 0px;
+	}
+
+#stats {
+	float:right;
+	border:1px solid #ccc;
+	margin:0px 0px 10px 10px;
+	padding:4px;
+	text-transform:uppercase;
+	font:0.8em Arial;
+	}
+
+#stats span {
+	border-bottom:1px dotted #ccc;
+	padding: 8px 4px 8px 4px;
+	}
+
+#stats span a {
+	color:#333;
+	}
+
+#archive .clearfloat {
+	border-bottom:1px dotted #ccc;
+	margin:10px 0px;
+	}
+
+#writer img  {
+	margin:0px 10px 15px 0px;
+	border: 1px solid #ccc;
+	float:left;
+	}
+
+/* Sidebar*/
+#sidebar {
+	width:322px;
+	float:right;
+	font-size:0.7em;
+	margin:0px;
+	}
+
+#sidebar li {
+	list-style:none;
+	}
+
+#sidebar h3 {
+	font:14px Arial;
+	font-weight:bold;
+	color:#333;
+	padding:0px 0px 2px 0px;
+	margin-top:10px;
+	border-bottom:1px dotted #ccc;	
+	}
+
+#sidebar-top, #sidebar-middle {
+	width:300px;
+	float:right;
+	margin:0px 0px 10px 0px;
+	padding:0px 10px 10px 10px;
+	border:1px solid #ccc;
+	}
+
+#sidebar-bottom {
+	width:322px;
+	float:right;
+	margin:0px 0px 10px 0px;
+	}
+
+#sidebar-tabs {
+	width:322px;
+	border:1px solid #ccc;
+	float:right;
+	padding:0px;
+	margin-bottom:10px;
+	}
+
+#sidebar-left {
+	width:135px;
+	border:1px solid #ccc;
+	padding:0px 10px 10px 10px;
+	float:left;
+	}
+
+#sidebar-right {
+	width:135px;
+	border:1px solid #ccc;
+	padding:0px 10px 10px 10px;
+	float:right;
+	}
+
+#sidebar-ads {
+	width:300px;
+	float:right;
+	margin:0px;
+	padding:10px;
+	border:1px solid #ccc;
+	}
+
+/* Form Elements */
+
+select {
+	background:#bbb;
+	border:1px dotted #ccc;
+	width:100%
+	}
+	
+#searchform {
+	padding:16px 5px 0 0; 
+	}
+
+.button {
+	padding: 1px;
+	border:1px solid #ccc;
+	background:#fff;
+	font-size:1.0em;
+	}
+
+#search .button {
+	padding: 1px;
+	border:1px solid #ccc;
+	background:#fff;
+	font-size:0.7em;
+	}
+
+#commentform input {
+	width: 140px;
+	margin: 5px 5px 1px 0;
+	}
+
+#commentform textarea {
+	width: 99%;
+	margin-top:5px;
+	}
+
+
+
+/* Comments*/
+
+#comments {
+	padding:0 10px 10px 10px;
+	}
+
+.commentlist li {
+	margin: 5px 0 3px;
+	padding: 0px 15px 8px 15px;
+	list-style: none;
+	background:#f2f2f2;
+	border-top: 1px dotted #ccc;
+	}
+
+.commentlist_author li {
+	margin: 5px 0 3px;
+	padding: 0px 15px 8px 15px;
+	list-style: none;
+	background:#ccff99;
+	border-top: 1px dotted #ccc;
+	}
+
+#commentform small {
+	background:#FFF;
+	font-weight:bold;
+	padding:0;
+	}
+
+.commentlist cite, .commentlist_author cite {
+	font: 1.0em Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	letter-spacing:-0.05em;
+	}	
+
+
+/* Footer*/
+
+
+#footer {
+	margin: 0 auto;
+	width: 970px;
+	border-top: 1px solid #ccc;
+	margin-top:60px;
+	font-size:0.6em;
+	padding-top:10px;
+	padding-bottom:10px;
+	}
+
+
+/* sidebar-tabs */
+
+
+#sidebar-tabs ul.tabs {
+	display: block;
+	padding: 0;
+	margin-left: 10px;
+	white-space: nowrap;
+	text-transform: uppercase;
+	z-index: 5500;
+/*\*/	vertical-align: middle;/*\*/
+	font-family: Arial, Helvetica, sans-serif;
+	}
+		
+#sidebar-tabs ul.tabs li {
+	margin: 0;
+	display: block;
+	float: left;
+	background-color: #ccff99;
+	border: 1px solid #ccc;
+	border-width: 1px 1px 1px 0;
+	white-space: nowrap;
+	padding: 4px 7px 3px 7px;
+	z-index: 6000;
+	background-image: none;
+	}
+		
+#sidebar-tabs ul.tabs li.selected {
+	background-color: #fff;
+	border-bottom: none;
+	z-index: 9998;
+	padding: 4px 7px 4px 7px;
+	}
+		
+#sidebar-tabs div.tabContent {
+	clear: both;
+	border-top:1px solid #ccc;
+	padding: 15px;
+	_padding: 15px 15px 15px 15px;
+	margin: 0;
+	display: none;
+	}
+		
+#sidebar-tabs div.tabContent.tabContentActive {
+	display: block;
+	}
+		
+#sidebar-tabs div.tabContent ol {
+	margin-top: 0;
+	margin-bottom: 5px;
+	}
+		
+#sidebar-tabs div.tabContent ol li {
+	_padding-left: 0;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+
+#sidebar-tabs div.tabContent ul {
+	margin-top: 0;
+	margin-bottom: 5px;
+	}
+		
+#sidebar-tabs div.tabContent ul li {
+	_padding-left: 0;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+		
+
+/* Most Popular Module */
+
+
+#mostPopWidget, #tabsContainer {
+	position: relative;
+	top: 1px;
+	_top: 0;
+	left: 0px;
+	_left: 0;
+	_height: 14px;
+	_padding-top: 6px;
+	display: block;
+	}
+
+
+#mostPopWidget ul.tabs {
+	font-size: 10px;
+	_position: absolute;
+	top: 0;
+	}
+					
+#mostPopWidget ul.tabs li {
+	position: relative;
+	top: 0; 
+	padding-left: 4px;
+	padding-right: 5px;
+	_padding-bottom: 2px;
+	}
+		
+#mostPopWidget ul.tabs li.selected {	
+	_padding-bottom: 3px;
+	}	
+				
+#mostPopWidget ul.tabs li:first-child {
+	border-left-width: 1px;
+	padding-left: 4px;
+	}
+					
+#mostPopWidget  ul.tabs li a {
+	color: #333333;
+	}			
+
+#mostPopWidget ol li {
+	padding-left:2px;
+	margin-left:25px;
+	list-style-type: decimal;
+	line-height:115%;
+	}
+
+#mostPopWidget ul li {
+	padding-left:2px;
+	margin-left:25px;
+	list-style-type:square;
+	line-height:115%;
+	}
+
+
+/* Float Properties*/
+
+.clearfloat:after {
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+	}
+
+.clearfloat {
+	display: inline-block;
+	}
+
+
+/* Hides from IE-mac \*/
+* html .clearfloat {
+	height:1%;
+	}
+
+*+html .clearfloat {
+	height:1%;
+	}
+
+.clearfloat {
+	display:block;
+	}
+
+/* Animation*/
+
+#slideshow .clearfloat {
+	border-bottom:1px dotted #ccc;
+	margin-bottom:0px;
+	}
+
+#slideshow .title
+	{
+	font:2.0em Georgia;
+	line-height:1.0em;
+	font-weight:bold;
+	}
+
+#control {
+        margin: 0px 0px 10px 0px;
+	}
+
+#control img {
+        margin: 0;
+        padding: 0;
+	}
+
+#control span a {
+	font:0.9em Arial, Verdana, Helvetica;
+        border-right: 1px dotted #ccc;
+        border-left: 1px dotted #ccc;
+        border-bottom: 1px dotted #ccc;
+        padding: 0 3px 0 3px;
+        text-decoration: none;
+	}
+
+#control .cntrl_active {
+	background-color: #94a9d1;
+	}
+
+#control .cntrl_active a {
+	color: #fff;
+	}
+
+#feature_1 img, #feature_2 img , #feature_3 img, #feature_4 img  {
+	margin:0px 10px 15px 0px;
+	border: 1px solid #ccc;
+	float:left;
+	}
+
+#feature_1 p, #feature_2 p, #feature_3 p, #feature_4 p  {
+	margin-top: 4px;
+	}
